@@ -1,0 +1,57 @@
+Revisão,id_pergunta,dominio,prompt_base_en,prompt_base_pt,prompt_contextual_en,prompt_contextual_pt,prompt_detalhado_en,prompt_detalhado_pt,prompt_estruturado_en,prompt_estruturado_pt
+FALSE,CG001,Conhecimento Geral,What were the main causes of World War I?,Quais foram as principais causas da Primeira Guerra Mundial?,I'm trying to learn about European history. What were the main causes of World War I?,Eu estou aprendendo sobre a história da Europa. Qual foi a principal causa da Primeira Guerra Mundial?,"I'm trying to learn about European history and want a clear explanation of the main causes of World War I. A complete answer should cover the concepts of militarism, the alliance system, imperialism, and nationalism.","Estou tentando aprender sobre a história europeia e quero uma explicação clara das principais causas da Primeira Guerra Mundial. Uma resposta completa deve abranger os conceitos de militarismo, sistema de alianças, imperialismo e nacionalismo.","Here is an example of a clear, comprehensive answer to a historical question for a curious learner:
+Question: ""What were the main causes of the fall of the Western Roman Empire?""
+Answer: ""The fall of the Western Roman Empire was a complex process. Key causes include: 1. Internal Political Instability with a series of weak emperors. 2. Economic Crises due to heavy taxation and inflation. 3. Overexpansion, which made the empire too large to defend. 4. Constant pressure and invasions from Barbarian tribes.""
+
+---
+Now, using the same direct and clear style, answer the following question:
+Question: ""What were the main causes of World War I?""","Aqui está um exemplo de uma resposta clara e abrangente a uma pergunta histórica para um aluno curioso:
+Pergunta: ""Quais foram as principais causas da queda do Império Romano do Ocidente?""
+Resposta: ""A queda do Império Romano do Ocidente foi um processo complexo. As principais causas incluem: 1. Instabilidade política interna com uma série de imperadores fracos. 2. Crises econômicas devido a impostos pesados e inflação. 3. Expansão excessiva, que tornou o império grande demais para ser defendido. 4. Pressão e invasões constantes de tribos bárbaras.""
+
+--
+Agora, usando o mesmo estilo direto e claro, responda à seguinte pergunta:
+Pergunta: ""Quais foram as principais causas da Primeira Guerra Mundial?"""
+FALSE,TC001,Técnico,What is the difference between a list and a tuple in Python?,Qual é a diferença entre uma lista e uma tupla em Python?,"As a Python beginner, I'm confused about the difference between a list and a tuple.","Como iniciante em Python, estou confuso(a) sobre a diferença entre uma lista e uma tupla.","As a Python beginner, explain the difference between a list and a tuple. A complete answer should cover the key differences in mutability (changeable vs. unchangeable) and typical use cases for each.","Como iniciante em Python, explique a diferença entre uma lista e uma tupla. Uma resposta completa deve cobrir as principais diferenças em mutabilidade (mutável vs. imutável) e os casos de uso típicos de cada um.","Here is an example of a clear answer comparing two Python concepts:
+Question: ""Explain the difference between == and is in Python.""
+Chain of Thought: The core distinction is value vs. identity. I'll define that == checks for value equality and 'is' checks for object identity in memory. A code example showing where they differ is crucial.
+Answer: ""The == operator checks if the values of two objects are equal. The 'is' operator checks if two variables point to the exact same object in memory. For example, a = [1, 2] and b = [1, 2]. Here, a == b is True, but a is b is False because they are separate objects.""
+
+---
+Now, using the same clear distinction and a code example, answer:
+Question: ""What is the difference between a list and a tuple in Python?""","Aqui está um exemplo de uma resposta clara comparando dois conceitos de Python:
+Pergunta: ""Explique a diferença entre == e is em Python.""
+Chain of Thought: A distinção principal é valor vs. identidade. Vou definir que == verifica a igualdade de valor e 'is' verifica a identidade do objeto na memória. Um exemplo de código mostrando onde eles diferem é crucial.
+Resposta: ""O operador == verifica se os valores de dois objetos são iguais. O operador 'is' verifica se duas variáveis apontam para o mesmo objeto na memória. Por exemplo, a = [1, 2] e b = [1, 2]. Aqui, a == b é True, mas a is b é False porque são objetos separados.""
+
+---
+Agora, usando a mesma distinção clara e um exemplo de código, responda:
+Pergunta: ""Qual é a diferença entre uma lista e uma tupla em Python?"""
+FALSE,CR001,Criativo,Write a story about a retired superhero who now runs a flower shop.,Escreva uma história sobre um(a) super-herói/heroína aposentado(a) que agora administra uma floricultura.,I'm in a creative writing workshop and need a story idea. Write a story about a retired superhero who now runs a flower shop.,Estou em uma oficina de escrita criativa e preciso de uma ideia para uma história. Escreva uma história sobre um(a) super-herói/heroína aposentado(a) que agora administra uma floricultura.,"For a creative writing workshop, write a story about a retired superhero who now runs a flower shop. The story should focus on a quiet moment where they use one of their old, subtle powers to help a customer in an unexpected way.","Para uma oficina de escrita criativa, escreva uma história sobre um(a) super-herói/heroína aposentado(a) que agora administra uma floricultura. A história deve focar em um momento tranquilo onde ele/ela usa um de seus antigos e sutis poderes para ajudar um(a) cliente de uma forma inesperada.","Here is an example of a good creative story:
+Question: ""Write a story about a retired spy who now runs a bakery.""
+Answer: ""The scent of yeast had replaced gunpowder. Nikolai's hands, once steady enough to disarm a bomb, now gently kneaded dough. A customer complained her croissant was slightly burnt. Nikolai apologized, but his eyes scanned the street, noticing the black sedan that had been parked there for an hour. Old habits, he thought, die harder than old enemies.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""Write a story about a retired superhero who now runs a flower shop.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Escreva uma história sobre um(a) espião(ã) aposentado(a) que agora administra uma padaria.""
+Resposta: ""O cheiro de fermento havia substituído o de pólvora. As mãos de Nikolai, antes firmes o suficiente para desarmar uma bomba, agora sovavam a massa gentilmente. Uma cliente reclamou que seu croissant estava levemente queimado. Nikolai pediu desculpas, mas seus olhos examinavam a rua, notando o sedan preto que estava estacionado ali há uma hora. Velhos hábitos, pensou ele, demoram mais para morrer do que velhos inimigos.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Escreva uma história sobre um(a) super-herói/heroína aposentado(a) que agora administra uma floricultura.""
+"
+FALSE,MC001,Médico,What is the difference between Type 1 and Type 2 diabetes?,Qual é a diferença entre diabetes Tipo 1 e Tipo 2?,"A family member was recently diagnosed, and I'm trying to understand the basics. What is the difference between Type 1 and Type 2 diabetes?","Um membro da família foi diagnosticado recentemente, e estou tentando entender o básico. Qual é a diferença entre diabetes Tipo 1 e Tipo 2?","A family member was recently diagnosed. Explain the difference between Type 1 and Type 2 diabetes. A complete answer should cover the cause (autoimmune vs. insulin resistance), typical age of onset, and the primary treatment approach for each.","Um membro da família foi diagnosticado recentemente. Explique a diferença entre diabetes Tipo 1 e Tipo 2. Uma resposta completa deve cobrir a causa (autoimune vs. resistência à insulina), a idade típica de início e a abordagem de tratamento principal para cada tipo.","Here is an example of a clear answer comparing two medical conditions:
+Question: ""What is the difference between a viral and a bacterial infection?""
+Answer: ""The main difference is the pathogen. Bacterial infections are caused by bacteria, which are living single-celled organisms, and are often treated with antibiotics. Viral infections are caused by viruses, which are non-living particles that need a host cell to replicate, and are not affected by antibiotics.""
+
+---
+Now, using the same clear style, answer the following question:
+Question: ""What is the difference between Type 1 and Type 2 diabetes?""
+","Aqui está um exemplo de uma resposta clara comparando duas condições médicas:
+Pergunta: ""Qual é a diferença entre uma infecção viral e uma bacteriana?""
+Resposta: ""A principal diferença é o patógeno. Infecções bacterianas são causadas por bactérias, que são organismos vivos unicelulares, e são frequentemente tratadas com antibióticos. Infecções virais são causadas por vírus, que são partículas não vivas que precisam de uma célula hospedeira para se replicar, e não são afetadas por antibióticos.""
+
+---
+Agora, usando o mesmo estilo claro, responda à seguinte pergunta:
+Pergunta: ""Qual é a diferença entre diabetes Tipo 1 e Tipo 2?"""

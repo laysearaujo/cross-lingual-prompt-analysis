@@ -1,5 +1,5 @@
 # Sensitive Information
-chaves.txt
+keys.txt
 *.env
 .env
 
