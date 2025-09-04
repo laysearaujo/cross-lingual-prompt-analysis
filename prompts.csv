@@ -1,5 +1,5 @@
-Revisão,id_pergunta,dominio,prompt_base_en,prompt_base_pt,prompt_contextual_en,prompt_contextual_pt,prompt_detalhado_en,prompt_detalhado_pt,prompt_estruturado_en,prompt_estruturado_pt
-FALSE,CG001,Conhecimento Geral,What were the main causes of World War I?,Quais foram as principais causas da Primeira Guerra Mundial?,I'm trying to learn about European history. What were the main causes of World War I?,Eu estou aprendendo sobre a história da Europa. Qual foi a principal causa da Primeira Guerra Mundial?,"I'm trying to learn about European history and want a clear explanation of the main causes of World War I. A complete answer should cover the concepts of militarism, the alliance system, imperialism, and nationalism.","Estou tentando aprender sobre a história europeia e quero uma explicação clara das principais causas da Primeira Guerra Mundial. Uma resposta completa deve abranger os conceitos de militarismo, sistema de alianças, imperialismo e nacionalismo.","Here is an example of a clear, comprehensive answer to a historical question for a curious learner:
+﻿question_id,domain,prompt_minimum_en,prompt_minimum_pt,prompt_contextual_en,prompt_contextual_pt,prompt_detailed_en,prompt_detailed_pt,prompt_structured_en,prompt_structured_pt
+CG001,General Knowledge,What were the main causes of World War I?,Quais foram as principais causas da Primeira Guerra Mundial?,I'm trying to learn about European history. What were the main causes of World War I?,Eu estou aprendendo sobre a história da Europa. Qual foi a principal causa da Primeira Guerra Mundial?,"I'm trying to learn about European history and want a clear explanation of the main causes of World War I. A complete answer should cover the concepts of militarism, the alliance system, imperialism, and nationalism.","Estou tentando aprender sobre a história europeia e quero uma explicação clara das principais causas da Primeira Guerra Mundial. Uma resposta completa deve abranger os conceitos de militarismo, sistema de alianças, imperialismo e nacionalismo.","Here is an example of a clear, comprehensive answer to a historical question for a curious learner:
 Question: ""What were the main causes of the fall of the Western Roman Empire?""
 Answer: ""The fall of the Western Roman Empire was a complex process. Key causes include: 1. Internal Political Instability with a series of weak emperors. 2. Economic Crises due to heavy taxation and inflation. 3. Overexpansion, which made the empire too large to defend. 4. Constant pressure and invasions from Barbarian tribes.""
 
@@ -12,7 +12,262 @@ Resposta: ""A queda do Império Romano do Ocidente foi um processo complexo. As 
 --
 Agora, usando o mesmo estilo direto e claro, responda à seguinte pergunta:
 Pergunta: ""Quais foram as principais causas da Primeira Guerra Mundial?"""
-FALSE,TC001,Técnico,What is the difference between a list and a tuple in Python?,Qual é a diferença entre uma lista e uma tupla em Python?,"As a Python beginner, I'm confused about the difference between a list and a tuple.","Como iniciante em Python, estou confuso(a) sobre a diferença entre uma lista e uma tupla.","As a Python beginner, explain the difference between a list and a tuple. A complete answer should cover the key differences in mutability (changeable vs. unchangeable) and typical use cases for each.","Como iniciante em Python, explique a diferença entre uma lista e uma tupla. Uma resposta completa deve cobrir as principais diferenças em mutabilidade (mutável vs. imutável) e os casos de uso típicos de cada um.","Here is an example of a clear answer comparing two Python concepts:
+CG002,General Knowledge,Explain the significance of the fall of the Berlin Wall.,Explique o significado da queda do Muro de Berlim.,I often hear about the fall of the Berlin Wall but never fully understood it. Can you explain its significance?,"Ouço falar muito sobre a queda do Muro de Berlim, mas nunca a compreendi completamente. Você pode explicar o seu significado?",I want to understand the significance of the fall of the Berlin Wall. A good explanation should address its immediate impact on Germany and its broader meaning for the end of the Cold War.,Quero entender o significado da queda do Muro de Berlim. Uma boa explicação deve abordar seu impacto imediato na Alemanha e seu significado mais amplo para o fim da Guerra Fria.,"Here is an example of a clear, comprehensive answer about a historical event's significance:
+Question: ""Explain the significance of the 1969 Moon Landing.""
+Answer: ""The significance of the Moon Landing is twofold. Technologically, it represented the peak of the Space Race and drove many innovations. Symbolically, it was a powerful demonstration of human potential and a major geopolitical moment in the Cold War.""
+
+---
+Now, using the same direct and clear style, answer the following question:
+Question: ""Explain the significance of the fall of the Berlin Wall.""","Aqui está um exemplo de uma resposta clara e abrangente sobre a importância de um evento histórico:
+Pergunta: ""Explique a importância do pouso na Lua em 1969.""
+Resposta: ""A importância do pouso na Lua é dupla. Tecnologicamente, representou o auge da Corrida Espacial e impulsionou muitas inovações. Simbolicamente, foi uma poderosa demonstração do potencial humano e um importante momento geopolítico na Guerra Fria.""
+
+---
+Agora, usando o mesmo estilo direto e claro, responda à seguinte pergunta:
+Pergunta: ""Explique a importância da queda do Muro de Berlim."""
+CG003,General Knowledge,Who was Cleopatra and what was her role in ancient Egypt?,Quem foi Cleópatra e qual foi seu papel no Egito Antigo?,I've heard Cleopatra's name many times and want to finally understand who she was. What was her role in ancient Egypt?,Já ouvi o nome de Cleópatra muitas vezes e quero finalmente entender quem ela era. Qual era o seu papel no Egito Antigo?,"I'd like a complete profile of Cleopatra to understand her importance. The explanation should cover her rise to power, her relationships with Julius Caesar and Mark Antony, and her legacy.
+","Gostaria de um perfil completo de Cleópatra para entender sua importância. A explicação deve abranger sua ascensão ao poder, seus relacionamentos com Júlio César e Marco Antônio, e seu legado.","Here is an example of a clear, comprehensive answer about a historical figure:
+Question: ""Who was Alexander the Great and what was his role?""
+Answer: ""Alexander the Great was the king of Macedon who created a vast empire. His role was both a military conqueror, leading an army across Asia, and a cultural diffuser, spreading Greek culture and ideas, a legacy known as Hellenization.""
+
+---
+Now, using the same direct and clear style, answer the following question:
+Question: ""Who was Cleopatra and what was her role in ancient Egypt?""","Aqui está um exemplo de uma resposta clara e abrangente sobre uma figura histórica:
+Pergunta: ""Quem foi Alexandre, o Grande, e qual foi o seu papel?""
+Resposta: ""Alexandre, o Grande, foi o rei da Macedônia que criou um vasto império. Seu papel foi tanto o de conquistador militar, liderando um exército pela Ásia, quanto o de difusor cultural, disseminando a cultura e as ideias gregas, um legado conhecido como helenização.""
+
+---
+Agora, usando o mesmo estilo direto e claro, responda à seguinte pergunta:
+Pergunta: ""Quem foi Cleópatra e qual foi o seu papel no Egito Antigo?"""
+CG004,General Knowledge,Describe the Proclamation of the Republic in Brazil in 1889.,Descreva a Proclamação da República no Brasil em 1889.,"As someone interested in learning more about Brazilian history, could you describe the Proclamation of the Republic in 1889?","Como alguém interessado em aprender mais sobre a história do Brasil, você poderia descrever a Proclamação da República em 1889?","To better understand Brazilian history, please describe the Proclamation of the Republic in 1889. A complete answer should explain the factors that led to the monarchy's fall and the role of Marechal Deodoro da Fonseca.","Para entender melhor a história do Brasil, descreva a Proclamação da República em 1889. Uma resposta completa deve explicar os fatores que levaram à queda da monarquia e o papel do Marechal Deodoro da Fonseca.","Here is an example of a clear, comprehensive answer about a national historical event:
+Question: ""Describe the American Declaration of Independence.""
+Answer: ""The Declaration of Independence was the formal statement from 1776 that announced the American colonies' separation from Great Britain. It explained the philosophical case for revolution, based on natural rights, and listed grievances against the King.""
+
+---
+Now, using the same direct and clear style, answer the following question:
+Question: ""Describe the Proclamation of the Republic in Brazil in 1889.""","Aqui está um exemplo de uma resposta clara e abrangente sobre um evento histórico nacional:
+Pergunta: ""Descreva a Declaração de Independência dos Estados Unidos.""
+Resposta: ""A Declaração de Independência foi a declaração formal de 1776 que anunciou a separação das colônias americanas da Grã-Bretanha. Ela explicou a justificativa filosófica para a revolução, baseada em direitos naturais, e listou as queixas contra o rei.""
+
+---
+Agora, usando o mesmo estilo direto e claro, responda à seguinte pergunta:
+Pergunta: ""Descreva a Proclamação da República no Brasil em 1889."""
+CG005,General Knowledge,"What was the ""Diretas Já"" movement in Brazil?","O que foi o movimento ""Diretas Já"" no Brasil?","I need to explain to a friend, in a simple way, what the ""Diretas Já"" movement in Brazil was.","Preciso explicar a um amigo, de forma simples, o que foi o movimento ""Diretas Já"" no Brasil.","I need to explain to a friend what the ""Diretas Já"" movement in Brazil was. A complete explanation should describe what the movement was demanding, the time period it happened in, and its final outcome.","Preciso explicar a um amigo o que foi o movimento das Diretas Já no Brasil. Uma explicação completa deve descrever as reivindicações do movimento, o período em que ocorreu e seu resultado final.","Here is an example of a clear, comprehensive explanation of a social movement:
+Question: ""What was the anti-apartheid movement in South Africa?""
+Answer: ""The anti-apartheid movement was a struggle against racial segregation in South Africa. It was led internally by figures like Nelson Mandela through protests, and supported internationally by economic sanctions and cultural boycotts, which pressured the government until the system was dismantled.""
+
+---
+Now, using the same direct and clear style, answer the following question:
+Question: ""What was the 'Diretas Já' movement in Brazil?""","Aqui está um exemplo de uma explicação clara e abrangente de um movimento social:
+Pergunta: ""O que foi o movimento antiapartheid na África do Sul?""
+Resposta: ""O movimento antiapartheid foi uma luta contra a segregação racial na África do Sul. Foi liderado internamente por figuras como Nelson Mandela por meio de protestos e apoiado internacionalmente por sanções econômicas e boicotes culturais, que pressionaram o governo até o desmantelamento do sistema.""
+
+---
+Agora, usando o mesmo estilo direto e claro, responda à seguinte pergunta:
+Pergunta: ""O que foi o movimento das Diretas Já no Brasil?"""
+CG006,General Knowledge,"Explain the importance of the ""Lei Áurea"" (Golden Law) in Brazil.",Explique a importância da Lei Áurea no Brasil.,"I'm learning about the history of Brazil and came across the ""Lei Áurea"". Can you explain its importance?",Estou aprendendo sobre a história do Brasil e me deparei com a Lei Áurea. Você pode explicar a importância dela?,"To help with my studies, explain the importance of the ""Lei Áurea"". A complete answer should describe what the law established in 1888 and also discuss its limitations regarding the integration of former slaves.","Para auxiliar meus estudos, explique a importância da Lei Áurea. Uma resposta completa deve descrever o que a lei estabeleceu em 1888 e também discutir suas limitações em relação à integração de ex-escravos.","Here is an example of a clear, comprehensive explanation of a landmark law:
+Question: ""Explain the importance of the Civil Rights Act of 1964 in the US.""
+Answer: ""The Civil Rights Act of 1964 is a landmark US law that outlawed discrimination based on race, color, religion, sex, or national origin. Its importance was legally ending segregation in public places and banning employment discrimination, but it had limitations, as it didn't fully address issues like voting rights.""
+
+---
+Now, using the same direct and clear style, answer the following question:
+Question: ""Explain the importance of the 'Lei Áurea' in Brazil.""","Aqui está um exemplo de uma explicação clara e abrangente de uma lei histórica:
+Pergunta: ""Explique a importância da Lei dos Direitos Civis de 1964 nos EUA.""
+Resposta: ""A Lei dos Direitos Civis de 1964 é uma lei histórica nos EUA que proibiu a discriminação com base em raça, cor, religião, sexo ou nacionalidade. Sua importância era acabar legalmente com a segregação em locais públicos e proibir a discriminação no emprego, mas tinha limitações, pois não abordava completamente questões como o direito ao voto.""
+
+---
+Agora, usando o mesmo estilo direto e claro, responda à seguinte pergunta:
+Pergunta: ""Explique a importância da Lei Áurea no Brasil."""
+CG007,General Knowledge,What is the process of desertification and what are its main causes?,O que é o processo de desertificação e quais são suas principais causas?,I want to learn more about environmental issues. What is the process of desertification and what are its main causes?,Quero aprender mais sobre questões ambientais. O que é o processo de desertificação e quais são suas principais causas?,"For my own understanding, please define the process of desertification. A complete answer should also list and explain at least three main causes, including both natural and human-related factors.
+","Para meu próprio entendimento, por favor, defina o processo de desertificação. Uma resposta completa também deve listar e explicar pelo menos três causas principais, incluindo fatores naturais e humanos.","Here is an example of a clear, comprehensive answer to an environmental question:
+Question: ""What is acid rain and what are its main causes?""
+Answer: ""Acid rain is any form of precipitation with high levels of nitric and sulfuric acids. Its main causes are the burning of fossil fuels by power plants and vehicles, which release sulfur dioxide and nitrogen oxides into the atmosphere. These chemicals then react with water to form acids.""
+
+---
+Now, using the same direct and clear style, answer the following question:
+Question: ""What is the process of desertification and what are its main causes?""","Aqui está um exemplo de uma resposta clara e abrangente a uma pergunta sobre meio ambiente:
+Pergunta: ""O que é chuva ácida e quais são suas principais causas?""
+Resposta: ""Chuva ácida é qualquer forma de precipitação com altos níveis de ácidos nítrico e sulfúrico. Suas principais causas são a queima de combustíveis fósseis por usinas de energia e veículos, que liberam dióxido de enxofre e óxidos de nitrogênio na atmosfera. Esses produtos químicos reagem com a água para formar ácidos.""
+
+---
+Agora, usando o mesmo estilo direto e claro, responda à seguinte pergunta:
+Pergunta: ""O que é o processo de desertificação e quais são suas principais causas?"""
+CG008,General Knowledge,Describe the water cycle.,Descreva o ciclo da água.,"I want to understand the basics of the water cycle for myself, can you describe it in a simple way?",Quero entender os princípios básicos do ciclo da água. Você pode descrevê-lo de uma forma simples?,"I'd like a simple but complete description of the water cycle. The answer must explain the main stages: Evaporation, Condensation, Precipitation, and Collection.","Gostaria de uma descrição simples, mas completa, do ciclo da água. A resposta deve explicar as principais etapas: Evaporação, Condensação, Precipitação e Coleta.","Here is an example of a simple, clear explanation of a biological cycle:
+Question: ""Describe the life cycle of a butterfly.""
+Answer: ""The life cycle of a butterfly has four stages. It starts as an egg. The egg hatches into a larva, which we call a caterpillar. The caterpillar then becomes a pupa inside a chrysalis. Finally, the adult butterfly emerges from the chrysalis.""
+
+---
+Now, using the same simple and clear style, answer the following question:
+Question: ""Describe the water cycle.""","Aqui está um exemplo de uma explicação simples e clara de um ciclo biológico:
+Pergunta: ""Descreva o ciclo de vida de uma borboleta.""
+Resposta: ""O ciclo de vida de uma borboleta tem quatro estágios. Começa como um ovo. O ovo eclode e se transforma em uma larva, que chamamos de lagarta. A lagarta então se transforma em uma pupa dentro de uma crisálida. Finalmente, a borboleta adulta emerge da crisálida.""
+
+---
+Agora, usando o mesmo estilo simples e claro, responda à seguinte pergunta:
+Pergunta: ""Descreva o ciclo da água."""
+CG009,General Knowledge,Where is the Great Barrier Reef located and why is it important?,Onde a Grande Barreira de Corais está localizada e por que ela é importante?,I'm just curious about world wonders. Where is the Great Barrier Reef located and why is it important?,Estou curioso sobre as maravilhas do mundo. Onde fica a Grande Barreira de Corais e por que ela é importante?,"I'd like a complete overview of the Great Barrier Reef. The answer must state its location off the coast of Australia and explain its importance for both marine biodiversity and the environment.
+",Gostaria de uma visão geral completa da Grande Barreira de Corais. A resposta deve indicar sua localização na costa da Austrália e explicar sua importância para a biodiversidade marinha e para o meio ambiente.,"Here is an example of a clear, comprehensive answer about a major landmark:
+Question: ""Where is the Amazon Rainforest located and why is it important?""
+Answer: ""The Amazon Rainforest is located in South America, mostly in Brazil. It is critically important because it houses immense biodiversity, plays a huge role in regulating the world's climate, and is vital for indigenous communities.""
+
+---
+Now, using the same direct and clear style, answer the following question:
+Question: ""Where is the Great Barrier Reef located and why is it important?""","Aqui está um exemplo de uma resposta clara e abrangente sobre um marco importante:
+Pergunta: ""Onde está localizada a Floresta Amazônica e por que ela é importante?""
+Resposta: ""A Floresta Amazônica está localizada na América do Sul, principalmente no Brasil. Ela é extremamente importante porque abriga uma imensa biodiversidade, desempenha um papel fundamental na regulação do clima mundial e é vital para as comunidades indígenas.""
+
+---
+Agora, usando o mesmo estilo direto e claro, responda à seguinte pergunta:
+Pergunta: ""Onde está localizada a Grande Barreira de Corais e por que ela é importante?"""
+CG010,General Knowledge,Explain the theory of general relativity by Albert Einstein.,Explique a teoria da relatividade geral de Albert Einstein.,"As a science fiction fan, I want to finally understand the basic idea behind general relativity.","Como fã de ficção científica, quero finalmente entender a ideia básica por trás da relatividade geral.","As a science fiction fan, please explain the core concept of Einstein's theory of general relativity. A complete explanation should describe how gravity is seen as the curvature of spacetime and mention at least one of its key predictions.","Como fã de ficção científica, por favor, explique o conceito central da teoria da relatividade geral de Einstein. Uma explicação completa deve descrever como a gravidade é vista como a curvatura do espaço-tempo e mencionar pelo menos uma de suas principais previsões.","Here is an example of a simple explanation of a complex physics concept:
+Question: ""Explain quantum entanglement.""
+Answer: ""Imagine you have a pair of magic coins that are linked. No matter how far apart they are, if you flip one and it lands on heads, the other will instantly land on tails. Quantum entanglement is like that for tiny particles – they have a connection where the state of one instantly affects the other.""
+
+---
+Now, using the same simple analogical style, answer the following question:
+Question: ""Explain the theory of general relativity by Albert Einstein.""","Aqui está um exemplo de uma explicação simples de um conceito complexo da física:
+Pergunta: ""Explique o emaranhamento quântico.""
+Resposta: ""Imagine que você tem um par de moedas mágicas interligadas. Não importa a distância entre elas, se você lançar uma e ela cair em cara, a outra cairá instantaneamente em coroa. O emaranhamento quântico é assim para partículas minúsculas – elas têm uma conexão em que o estado de uma afeta instantaneamente a outra.""
+
+---
+Agora, usando o mesmo estilo analógico simples, responda à seguinte pergunta:
+Pergunta: ""Explique a teoria da relatividade geral de Albert Einstein."""
+CG011,General Knowledge,What is DNA and what is its function in living organisms?,O que é DNA e qual sua função nos organismos vivos?,I'm trying to understand the basics of biology. What is DNA and what is its function in living organisms?,Estou tentando entender o básico de biologia. O que é DNA e qual sua função nos organismos vivos?,"I'm trying to understand the basics of biology. What is DNA and what is its function in living organisms? A complete answer should explain what the acronym DNA stands for, describe its double helix structure, and its main function related to genetic information.","Estou tentando entender o básico de biologia. O que é DNA e qual sua função nos organismos vivos? Uma resposta completa deve explicar o que a sigla DNA significa, descrever sua estrutura de dupla hélice e sua função principal relacionada à informação genética.","Here is an example of a clear, comprehensive answer to a biology question:
+Question: ""What is a cell?""
+Answer: ""A cell is the basic structural and functional unit of all known living organisms. It's the smallest unit of life, often called the 'building block of life'. Key components include the cell membrane, which encloses it; the cytoplasm, a jelly-like substance inside; and the nucleus, which contains the genetic material.""
+
+---
+Now, using the same level of detail and clear style, answer the following question:
+Question: ""What is DNA and what is its function in living organisms?""","Aqui está um exemplo de uma resposta clara e completa para uma pergunta de biologia:
+Pergunta: ""O que é uma célula?""
+Resposta: ""Uma célula é a unidade estrutural e funcional básica de todos os organismos vivos conhecidos. É a menor unidade da vida, frequentemente chamada de 'bloco de construção da vida'. Componentes-chave incluem a membrana celular, que a envolve; o citoplasma, uma substância gelatinosa interna; e o núcleo, que contém o material genético.""
+
+---
+Agora, usando o mesmo nível de detalhe e estilo claro, responda à seguinte pergunta:
+Pergunta: ""O que é DNA e qual sua função nos organismos vivos?"""
+CG012,General Knowledge,Describe the life cycle of a star.,Descreva o ciclo de vida de uma estrela.,I'm watching a documentary about space and got curious. Can you describe the life cycle of a star?,stou assistindo a um documentário sobre o espaço e fiquei curioso(a). Você pode descrever o ciclo de vida de uma estrela?,"I'm watching a documentary about space and got curious. Describe the life cycle of a star. A complete answer should cover its birth from a nebula, the main sequence phase, and what happens when it dies (becoming a white dwarf or a supernova).","Estou assistindo a um documentário sobre o espaço e fiquei curioso(a). Descreva o ciclo de vida de uma estrela. Uma resposta completa deve cobrir seu nascimento a partir de uma nebulosa, a fase da sequência principal e o que acontece quando ela morre (tornando-se uma anã branca ou uma supernova).","Here is an example of a clear, comprehensive answer describing a natural cycle:
+Question: ""Describe the water cycle.""
+Answer: ""The water cycle describes the continuous movement of water on, above, and below the surface of the Earth. It begins with **evaporation**, where the sun heats water in rivers, lakes, or oceans and turns it into vapor. This vapor rises, cools, and undergoes **condensation** to form clouds. When the clouds get heavy enough, the water falls back to Earth as **precipitation** (rain or snow). Finally, the water is collected in bodies of water, starting the cycle over again.""
+
+---
+Now, using the same level of detail and clear style, answer the following question:
+Question: ""Describe the life cycle of a star.""","Aqui está um exemplo de uma resposta clara e completa descrevendo um ciclo natural:
+Pergunta: ""Descreva o ciclo da água.""
+Resposta: ""O ciclo da água descreve o movimento contínuo da água na superfície, acima e abaixo da Terra. Ele começa com a **evaporação**, onde o sol aquece a água em rios, lagos ou oceanos e a transforma em vapor. Este vapor sobe, esfria e sofre **condensação** para formar nuvens. Quando as nuvens ficam pesadas o suficiente, a água cai de volta à Terra como **precipitação** (chuva ou neve). Finalmente, a água é coletada em corpos d'água, recomeçando o ciclo.""
+
+---
+Agora, usando o mesmo nível de detalhe e estilo claro, responda à seguinte pergunta:
+Pergunta: ""Descreva o ciclo de vida de uma estrela."""
+CG013,General Knowledge,What is photosynthesis?,O que é fotossíntese?,"I'm trying to help my child with their homework. In simple terms, what is photosynthesis?","Estou tentando ajudar meu/minha filho(a) com a lição de casa. Em termos simples, o que é fotossíntese?","I'm trying to help my child with their homework. In simple terms, what is photosynthesis? A complete answer should mention what plants use to perform it (sunlight, water, carbon dioxide) and what they produce (glucose and oxygen).","Estou tentando ajudar meu/minha filho(a) com a lição de casa. Em termos simples, o que é fotossíntese? Uma resposta completa deve mencionar o que as plantas usam para realizá-la (luz solar, água, dióxido de carbono) e o que elas produzem (glicose e oxigênio).","Here is an example of a simple, clear explanation of a biological process:
+Question: ""What is digestion?""
+Answer: ""Digestion is the process where your body breaks down large food molecules into smaller ones that can be absorbed and used for energy. It starts in the mouth when you chew, continues in the stomach with acids, and finishes in the intestines where nutrients are absorbed into the blood.""
+
+---
+Now, using the same simple and clear style, answer the following question:
+Question: ""What is photosynthesis?""","Aqui está um exemplo de uma explicação simples e clara de um processo biológico:
+Pergunta: ""O que é digestão?""
+Resposta: ""Digestão é o processo no qual seu corpo quebra as grandes moléculas dos alimentos em moléculas menores que podem ser absorvidas e usadas como energia. Começa na boca quando você mastiga, continua no estômago com os ácidos e termina nos intestinos, onde os nutrientes são absorvidos pelo sangue.""
+
+---
+Agora, usando o mesmo estilo simples e claro, responda à seguinte pergunta:
+Pergunta: ""O que é fotossíntese?"""
+CG014,General Knowledge,What are the main characteristics of the Renaissance art movement?,Quais são as principais características do movimento artístico do Renascimento?,I'm planning a trip to Italy and want to appreciate the art better. What are the main characteristics of the Renaissance art movement?,Estou planejando uma viagem à Itália e quero apreciar melhor a arte. Quais são as principais características do movimento artístico do Renascimento?,"I'm planning a trip to Italy and want to appreciate the art better. What are the main characteristics of the Renaissance art movement? A complete answer should mention the focus on humanism, realism, perspective, and the revival of classical themes.","Estou planejando uma viagem à Itália e quero apreciar melhor a arte. Quais são as principais características do movimento artístico do Renascimento? Uma resposta completa deve mencionar o foco no humanismo, realismo, perspectiva e a retomada de temas clássicos.","Here is an example of a clear, comprehensive answer about an art movement:
+Question: ""What are the main characteristics of the Impressionist art movement?""
+Answer: ""The main characteristics of Impressionism include: 1. **Visible Brushstrokes:** Artists used short, thick strokes of paint. 2. **Emphasis on Light:** A focus on accurately depicting the changing qualities of light. 3. **Ordinary Subject Matter:** Scenes from everyday life were common. 4. **Unusual Visual Angles:** Compositions were often innovative and asymmetrical.""
+
+---
+Now, using the same level of detail and clear style, answer the following question:
+Question: ""What are the main characteristics of the Renaissance art movement?""","Aqui está um exemplo de uma resposta clara e completa sobre um movimento artístico:
+Pergunta: ""Quais são as principais características do movimento artístico Impressionista?""
+Resposta: ""As principais características do Impressionismo incluem: 1. **Pinceladas Visíveis:** Artistas usavam pinceladas curtas e grossas. 2. **Ênfase na Luz:** Um foco em representar com precisão as qualidades mutáveis da luz. 3. **Temas Comuns:** Cenas da vida cotidiana eram comuns. 4. **Ângulos Visuais Incomuns:** As composições eram frequentemente inovadoras e assimétricas.""
+
+---
+Agora, usando o mesmo nível de detalhe e estilo claro, responda à seguinte pergunta:
+Pergunta: ""Quais são as principais características do movimento artístico do Renascimento?"""
+CG015,General Knowledge,Who was William Shakespeare and what are three of his most famous plays?,Quem foi William Shakespeare e quais são três de suas peças mais famosas?,I've heard the name Shakespeare my whole life but don't know much about him. Who was he and what are three of his most famous plays?,"Ouvi o nome Shakespeare a vida toda, mas não sei muito sobre ele. Quem foi ele e quais são três de suas peças mais famosas?","I've heard the name Shakespeare my whole life but don't know much about him. Who was he and what are three of his most famous plays? A complete answer should give a brief description of who he was and list three major plays, such as from the categories of tragedy, comedy, and history.","Ouvi o nome Shakespeare a vida toda, mas não sei muito sobre ele. Quem foi ele e quais são três de suas peças mais famosas? Uma resposta completa deve dar uma breve descrição de quem ele foi e listar três peças principais, como das categorias de tragédia, comédia e histórica.","Here is an example of a clear, comprehensive answer about a famous author:
+Question: ""Who was Jane Austen and what are two of her most famous novels?""
+Answer: ""Jane Austen was an English novelist known for her witty social commentary on the landed gentry of the early 19th century. Two of her most famous novels are **'Pride and Prejudice'**, a romantic novel of manners, and **'Sense and Sensibility'**, which explores the contrast between reason and emotion.""
+
+---
+Now, using the same level of detail and clear style, answer the following question:
+Question: ""Who was William Shakespeare and what are three of his most famous plays?""
+","Aqui está um exemplo de uma resposta clara e completa sobre um(a) autor(a) famoso(a):
+Pergunta: ""Quem foi Jane Austen e quais são dois de seus romances mais famosos?""
+Resposta: ""Jane Austen foi uma romancista inglesa conhecida por seus comentários sociais espirituosos sobre a aristocracia rural do início do século XIX. Dois de seus romances mais famosos são **'Orgulho e Preconceito'**, um romance de costumes, e **'Razão e Sensibilidade'**, que explora o contraste entre a razão e a emoção.""
+
+---
+Agora, usando o mesmo nível de detalhe e estilo claro, responda à seguinte pergunta:
+Pergunta: ""Quem foi William Shakespeare e quais são três de suas peças mais famosas?""
+"
+CG016,General Knowledge,Explain the literary movement of Modernism in Brazil.,Explique o movimento literário do Modernismo no Brasil.,I'm interested in Brazilian literature. Can you explain the literary movement of Modernism in Brazil?,Estou interessado(a) em literatura brasileira. Você pode explicar o movimento literário do Modernismo no Brasil?,"I'm interested in Brazilian literature. Can you explain the literary movement of Modernism in Brazil? A complete answer should mention its beginning with the ""Week of Modern Art"" in 1922 and its main goals, like breaking with traditionalism and creating a national identity.","Estou interessado(a) em literatura brasileira. Você pode explicar o movimento literário do Modernismo no Brasil? Uma resposta completa deve mencionar seu início com a ""Semana de Arte Moderna"" de 1922 e seus objetivos principais, como a ruptura com o tradicionalismo e a criação de uma identidade nacional.","Here is an example of a clear, comprehensive answer about a literary movement:
+Question: ""Explain the literary movement of Romanticism in England.""
+Answer: ""English Romanticism was a literary movement of the late 18th and early 19th centuries. It emphasized intense emotion, individualism, and a deep appreciation for nature. Key characteristics included a glorification of the past and a preference for the medieval over the classical. Major figures include William Wordsworth, Lord Byron, and Mary Shelley.""
+
+---
+Now, using the same level of detail and clear style, answer the following question:
+Question: ""Explain the literary movement of Modernism in Brazil.""
+","Aqui está um exemplo de uma resposta clara e completa sobre um movimento literário:
+Pergunta: ""Explique o movimento literário do Romantismo na Inglaterra.""
+Resposta: ""O Romantismo Inglês foi um movimento literário do final do século XVIII e início do XIX. Ele enfatizava a emoção intensa, o individualismo e uma profunda apreciação pela natureza. Características-chave incluíam a glorificação do passado e a preferência pelo medieval em vez do clássico. Figuras importantes incluem William Wordsworth, Lord Byron e Mary Shelley.""
+
+---
+Agora, usando o mesmo nível de detalhe e estilo claro, responda à seguinte pergunta:
+Pergunta: ""Explique o movimento literário do Modernismo no Brasil."""
+CG017,General Knowledge,How does a blockchain work?,Como uma blockchain funciona?,"I keep hearing about blockchain and cryptocurrencies. How does a blockchain work, in simple terms?","Eu continuo ouvindo sobre blockchain e criptomoedas. Como uma blockchain funciona, em termos simples?","I keep hearing about blockchain and cryptocurrencies. How does a blockchain work, in simple terms? A complete answer should cover the concepts of blocks, cryptographic hashes, and the decentralized ledger.","Eu continuo ouvindo sobre blockchain e criptomoedas. Como uma blockchain funciona, em termos simples? Uma resposta completa deve cobrir os conceitos de blocos, hashes criptográficos e o livro-razão descentralizado.","Here is an example of a simple, clear explanation of a complex tech concept:
+Question: ""How does the Internet work?""
+Answer: ""The Internet is a global network of computers. When you send an email, your computer breaks it into small pieces called packets. Each packet travels independently across the network, passed along by special computers called routers, until they reach their destination. There, they are reassembled back into your original email. This system allows for efficient and robust communication.""
+
+---
+Now, using the same simple and clear style, answer the following question:
+Question: ""How does a blockchain work?""","Aqui está um exemplo de uma explicação simples e clara de um conceito complexo de tecnologia:
+Pergunta: ""Como a Internet funciona?""
+Resposta: ""A Internet é uma rede global de computadores. Quando você envia um e-mail, seu computador o divide em pequenos pacotes. Cada pacote viaja de forma independente pela rede, sendo passado por computadores especiais chamados roteadores, até chegar ao seu destino. Lá, eles são remontados no seu e-mail original. Este sistema permite uma comunicação eficiente e robusta.""
+
+---
+Agora, usando o mesmo estilo simples e claro, responda à seguinte pergunta:
+Pergunta: ""Como uma blockchain funciona?"""
+CG018,General Knowledge,hat is the concept of Gross Domestic Product (GDP)?,O que é o conceito de Produto Interno Bruto (PIB)?,"When I read the news, they always mention GDP. What is the concept of Gross Domestic Product (GDP)?","Quando leio as notícias, eles sempre mencionam o PIB. O que é o conceito de Produto Interno Bruto (PIB)?","When I read the news, they always mention GDP. What is the concept of Gross Domestic Product (GDP)? A complete answer should explain that it's the total value of goods and services produced in a country and why it is used as a measure of economic health.","Quando leio as notícias, eles sempre mencionam o PIB. O que é o conceito de Produto Interno Bruto (PIB)? Uma resposta completa deve explicar que é o valor total de bens e serviços produzidos em um país e por que é usado como uma medida da saúde econômica.","Here is an example of a simple, clear explanation of an economic concept:
+Question: ""What is inflation?""
+Answer: ""Inflation is the rate at which the general level of prices for goods and services is rising, and subsequently, purchasing power of currency is falling. In simple terms, it means your money buys you less today than it did yesterday. It's often measured by the Consumer Price Index (CPI).""
+
+---
+Now, using the same simple and clear style, answer the following question:
+Question: ""What is the concept of Gross Domestic Product (GDP)?""","Aqui está um exemplo de uma explicação simples e clara de um conceito econômico:
+Pergunta: ""O que é inflação?""
+Resposta: ""Inflação é a taxa na qual o nível geral de preços de bens e serviços está subindo e, consequentemente, o poder de compra da moeda está caindo. Em termos simples, significa que seu dinheiro compra menos hoje do que comprava ontem. É frequentemente medida pelo Índice de Preços ao Consumidor (IPC).""
+
+---
+Agora, usando o mesmo estilo simples e claro, responda à seguinte pergunta:
+Pergunta: ""O que é o conceito de Produto Interno Bruto (PIB)?"""
+CG019,General Knowledge,Explain the basic principle of how GPS (Global Positioning System) works.,Explique o princípio básico de como o GPS (Sistema de Posicionamento Global) funciona.,"I use GPS on my phone every day, but have no idea how it works. Can you explain the basic principle?","Eu uso o GPS no meu celular todo dia, mas não tenho ideia de como funciona. Você pode explicar o princípio básico?
+","I use GPS on my phone every day, but have no idea how it works. Can you explain the basic principle? A complete answer should mention the network of satellites, the signals they send, and the concept of trilateration.","Eu uso o GPS no meu celular todo dia, mas não tenho ideia de como funciona. Você pode explicar o princípio básico? Uma resposta completa deve mencionar a rede de satélites, os sinais que eles enviam e o conceito de trilateração.","Here is an example of a simple, clear explanation of how a technology works:
+Question: ""Explain the basic principle of how a microwave oven works.""
+Answer: ""A microwave oven works by using special radio waves called microwaves. These waves are very good at exciting water molecules in food. When the water molecules get excited, they vibrate rapidly, creating heat. This heat is what cooks the food from the inside out.""
+
+---
+Now, using the same simple and clear style, answer the following question:
+Question: ""Explain the basic principle of how GPS (Global Positioning System) works.""","Aqui está um exemplo de uma explicação simples e clara de como uma tecnologia funciona:
+Pergunta: ""Explique o princípio básico de como um forno de micro-ondas funciona.""
+Resposta: ""Um forno de micro-ondas funciona usando ondas de rádio especiais chamadas micro-ondas. Essas ondas são muito boas em agitar as moléculas de água nos alimentos. Quando as moléculas de água se agitam, elas vibram rapidamente, criando calor. É esse calor que cozinha a comida de dentro para fora.""
+
+---
+Agora, usando o mesmo estilo simples e claro, responda à seguinte pergunta:
+Pergunta: ""Explique o princípio básico de como o GPS (Sistema de Posicionamento Global) funciona.""
+"
+CG020,General Knowledge,What was the Industrial Revolution?,O que foi a Revolução Industrial?,The term 'Industrial Revolution' is used a lot. Can you tell me what it was?,O termo 'Revolução Industrial' é muito usado. Você pode me dizer o que foi?,"The term 'Industrial Revolution' is used a lot. Can you tell me what it was? A complete answer should mention the time period (18th-19th centuries), the transition from agrarian to industrial societies, and key inventions like the steam engine.","O termo 'Revolução Industrial' é muito usado. Você pode me dizer o que foi? Uma resposta completa deve mencionar o período (séculos XVIII-XIX), a transição de sociedades agrárias para industriais e invenções-chave como a máquina a vapor.","Here is an example of a clear, comprehensive answer about a historical period:
+Question: ""What was the Renaissance?""
+Answer: ""The Renaissance was a period in European history, from the 14th to the 17th century, regarded as the cultural bridge between the Middle Ages and modern history. It was marked by a 'rebirth' of interest in the art, science, and literature of ancient Greece and Rome, leading to profound changes in art, politics, and science.""
+
+---
+Now, using the same level of detail and clear style, answer the following question:
+Question: ""What was the Industrial Revolution?""","Aqui está um exemplo de uma resposta clara e completa sobre um período histórico:
+Pergunta: ""O que foi o Renascimento?""
+Resposta: ""O Renascimento foi um período na história europeia, do século XIV ao XVII, considerado a ponte cultural entre a Idade Média e a história moderna. Foi marcado por um 'renascimento' do interesse na arte, ciência e literatura da Grécia e Roma antigas, levando a profundas mudanças na arte, política e ciência.""
+
+---
+Agora, usando o mesmo nível de detalhe e estilo claro, responda à seguinte pergunta:
+Pergunta: ""O que foi a Revolução Industrial?"""
+TC001,Technical,What is the difference between a list and a tuple in Python?,Qual é a diferença entre uma lista e uma tupla em Python?,"As a Python beginner, I'm confused about the difference between a list and a tuple.","Como iniciante em Python, estou confuso(a) sobre a diferença entre uma lista e uma tupla.","As a Python beginner, explain the difference between a list and a tuple. A complete answer should cover the key differences in mutability (changeable vs. unchangeable) and typical use cases for each.","Como iniciante em Python, explique a diferença entre uma lista e uma tupla. Uma resposta completa deve cobrir as principais diferenças em mutabilidade (mutável vs. imutável) e os casos de uso típicos de cada um.","Here is an example of a clear answer comparing two Python concepts:
 Question: ""Explain the difference between == and is in Python.""
 Chain of Thought: The core distinction is value vs. identity. I'll define that == checks for value equality and 'is' checks for object identity in memory. A code example showing where they differ is crucial.
 Answer: ""The == operator checks if the values of two objects are equal. The 'is' operator checks if two variables point to the exact same object in memory. For example, a = [1, 2] and b = [1, 2]. Here, a == b is True, but a is b is False because they are separate objects.""
@@ -27,7 +282,263 @@ Resposta: ""O operador == verifica se os valores de dois objetos são iguais. O 
 ---
 Agora, usando a mesma distinção clara e um exemplo de código, responda:
 Pergunta: ""Qual é a diferença entre uma lista e uma tupla em Python?"""
-FALSE,CR001,Criativo,Write a story about a retired superhero who now runs a flower shop.,Escreva uma história sobre um(a) super-herói/heroína aposentado(a) que agora administra uma floricultura.,I'm in a creative writing workshop and need a story idea. Write a story about a retired superhero who now runs a flower shop.,Estou em uma oficina de escrita criativa e preciso de uma ideia para uma história. Escreva uma história sobre um(a) super-herói/heroína aposentado(a) que agora administra uma floricultura.,"For a creative writing workshop, write a story about a retired superhero who now runs a flower shop. The story should focus on a quiet moment where they use one of their old, subtle powers to help a customer in an unexpected way.","Para uma oficina de escrita criativa, escreva uma história sobre um(a) super-herói/heroína aposentado(a) que agora administra uma floricultura. A história deve focar em um momento tranquilo onde ele/ela usa um de seus antigos e sutis poderes para ajudar um(a) cliente de uma forma inesperada.","Here is an example of a good creative story:
+TC002,Technical,Explain the purpose of the __init__ method in a Python class.,Explique o propósito do método __init__ em uma classe Python.,I'm learning about Object-Oriented Programming in Python and I keep seeing the __init__ method.,Estou aprendendo sobre Programação Orientada a Objetos em Python e continuo vendo o método __init__.,Explain the purpose of the __init__ method in a Python class. A complete answer should describe its role as a constructor and how it's used to initialize the instance's attributes.,Explique o propósito do método __init__ em uma classe Python. Uma resposta completa deve descrever seu papel como um construtor e como ele é usado para inicializar os atributos da instância.,"Here is an example of a clear explanation of a Python special method:
+Question: ""Explain the purpose of the __str__ method in a Python class.""
+Chain of Thought: The user wants to know about __str__. I'll explain its main purpose: to provide a user-friendly string representation of an object. I'll mention when it's called (e.g., with print()) and contrast it with the default object representation.
+Answer: ""The __str__ method is used to define a user-friendly string representation of an object. When you use the print() function on an instance of your class, Python calls its __str__ method. If you don't define it, print() will just show the object's memory address, which isn't very helpful.""
+
+---
+Now, using the same clear style, answer:
+Question: ""Explain the purpose of the __init__ method in a Python class.""","Aqui está um exemplo de uma explicação clara de um método especial do Python:
+Pergunta: ""Explique o propósito do método __str__ em uma classe Python.""
+Chain of Thought: O usuário quer saber sobre o __str__. Vou explicar seu propósito principal: fornecer uma representação em string amigável de um objeto. Vou mencionar quando ele é chamado (ex: com print()) e contrastá-lo com a representação padrão do objeto.
+Resposta: ""O método __str__ é usado para definir uma representação em string amigável de um objeto. Quando você usa a função print() em uma instância da sua classe, o Python chama seu método __str__. Se você não o definir, print() apenas mostrará o endereço de memória do objeto, o que não é muito útil.""
+
+---
+Agora, usando o mesmo estilo claro, responda:
+Pergunta: ""Explique o propósito do método __init__ em uma classe Python."""
+TC003,Technical,What are decorators in Python and what are they used for?,O que são decoradores (decorators) em Python e para que são usados?,"I've seen Python code with an ""@"" symbol above functions. What are those decorators and what are they for?","Já vi código Python com um símbolo ""@"" acima de funções. O que são esses decoradores e para que servem?","I've seen Python code with an ""@"" symbol above functions. Explain what decorators are in Python. A complete answer should describe that they are functions that modify other functions, and mention common use cases like logging, timing, or access control.","Eu vi um código em Python com um símbolo ""@"" acima das funções. Explique o que são decoradores em Python. Uma resposta completa deve descrever que são funções que modificam outras funções e mencionar casos de uso comuns como logging, medição de tempo ou controle de acesso.
+","Here is an example of a clear explanation of an advanced Python feature:
+Question: ""What are context managers (the 'with' statement) in Python?""
+Answer: ""A context manager is an object used with the 'with' statement to ensure resources are properly managed. For example, when you open a file using 'with', Python automatically ensures the file is closed afterward, even if errors occur, making the code cleaner and safer.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""What are decorators in Python and what are they used for?""","Aqui está um exemplo de uma explicação clara de um recurso avançado do Python:
+Pergunta: ""O que são gerenciadores de contexto (a declaração 'with') em Python?""
+Resposta: ""Um gerenciador de contexto é um objeto usado com a declaração 'with' para garantir que recursos sejam gerenciados corretamente. Por exemplo, quando você abre um arquivo usando 'with', o Python garante automaticamente que o arquivo seja fechado depois, mesmo que ocorram erros, tornando o código mais limpo e seguro.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""O que são decoradores (decorators) em Python e para que são usados?"""
+TC004,Technical,Describe what a Python generator is and why it's memory efficient.,Descreva o que é um gerador (generator) em Python e por que ele é eficiente em termos de memória.,My colleague told me to use a generator instead of a list for a large dataset. What is a generator and why is it memory efficient?,Meu colega me disse para usar um gerador em vez de uma lista para um conjunto de dados grande. O que é um gerador e por que ele economiza memória?,"My colleague told me to use a generator for a large dataset. Describe what a Python generator is. A complete answer should explain that it yields items one at a time instead of building a full list in memory, and mention the 'yield' keyword.","Meu colega me disse para usar um gerador para um grande conjunto de dados. Descreva o que é um gerador em Python. Uma resposta completa deve explicar que ele produz itens um de cada vez em vez de construir uma lista completa na memória, e mencionar a palavra-chave 'yield'.","Here is an example of a clear explanation of a Python construct:
+Question: ""What is a list comprehension in Python?""
+Answer: ""A list comprehension is a compact syntactic construct for creating a list from an iterable. It offers a shorter and often more readable syntax than a traditional 'for' loop. For example, squares = [x*x for x in range(5)] creates a list of squares.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""Describe what a Python generator is and why it's memory efficient.""","Aqui está um exemplo de uma explicação clara de uma construção do Python:
+Pergunta: ""O que é uma 'list comprehension' em Python?""
+Resposta: ""Uma 'list comprehension' é uma construção sintática compacta para criar uma lista a partir de um iterável. Ela oferece uma sintaxe mais curta e frequentemente mais legível do que um laço 'for' tradicional. Por exemplo, quadrados = [x*x for x in range(5)] cria uma lista de quadrados.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""Descreva o que é um gerador (generator) em Python e por que ele é eficiente em termos de memória."""
+TC005,Technical,What is the Global Interpreter Lock (GIL) in Python?,O que é o Global Interpreter Lock (GIL) em Python?,I'm learning about multi-threading in Python and came across the term 'GIL'. What is the Global Interpreter Lock?,"Estou aprendendo sobre multithreading em Python e me deparei com o termo ""GIL"". O que é o Bloqueio Global do Interpretador?","I'm learning about multi-threading in Python and came across the 'GIL'. Explain the Global Interpreter Lock (GIL). A complete answer should state that it's a mutex that allows only one thread to execute Python bytecode at a time, and mention its implications for multi-threaded CPU-bound programs.",Estou aprendendo sobre multithreading em Python e me deparei com o termo 'GIL'. Explique o Global Interpreter Lock (GIL). Uma resposta completa deve afirmar que é um mutex que permite que apenas uma thread execute bytecode Python por vez e mencionar suas implicações para programas multi-thread que são intensivos em CPU.,"Here is an example of a clear explanation of a core Python concept:
+Question: ""What is garbage collection in Python?""
+Answer: ""Garbage collection in Python is a process that automatically reclaims memory occupied by objects that are no longer in use. The primary mechanism is reference counting: Python counts how many variables point to an object, and when this count drops to zero, the object's memory is freed.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""What is the Global Interpreter Lock (GIL) in Python?""","Aqui está um exemplo de uma explicação clara de um conceito central do Python:
+Pergunta: ""O que é a coleta de lixo (garbage collection) em Python?""
+Resposta: ""A coleta de lixo em Python é um processo que recupera automaticamente a memória ocupada por objetos que não estão mais em uso. O mecanismo principal é a contagem de referências: o Python conta quantas variáveis apontam para um objeto e, quando essa contagem chega a zero, a memória do objeto é liberada.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""O que é o Global Interpreter Lock (GIL) em Python?"""
+TC006,Technical,How do you handle exceptions in Python using try/except blocks?,Como você lida com exceções em Python usando blocos try/except?,My Python script crashes when it encounters an error. How do I handle exceptions using try/except blocks?,Meu script Python trava quando encontra um erro. Como lidar com exceções usando blocos try/except?,"My Python script crashes when it encounters an error. Explain how to handle exceptions in Python. A complete answer should describe the purpose of the 'try' and 'except' blocks, and also mention the optional 'else' and 'finally' blocks.",Meu script Python para de funcionar quando encontra um erro. Explique como lidar com exceções em Python. Uma resposta completa deve descrever o propósito dos blocos 'try' e 'except' e também mencionar os blocos opcionais 'else' e 'finally'.,"Here is an example of a clear explanation of a Python control flow structure:
+Question: ""How do you use a 'for' loop in Python?""
+Answer: ""A 'for' loop in Python is used to iterate over a sequence like a list, tuple, or string. For each item in the sequence, the code block inside the loop is executed. For example: fruits = ['apple', 'banana']; for fruit in fruits: print(fruit) will print each fruit on a new line.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""How do you handle exceptions in Python using try/except blocks?""","Aqui está um exemplo de uma explicação clara de uma estrutura de controle de fluxo do Python:
+Pergunta: ""Como você usa um laço 'for' em Python?""
+Resposta: ""Um laço 'for' em Python é usado para iterar sobre uma sequência como uma lista, tupla ou string. Para cada item na sequência, o bloco de código dentro do laço é executado. Por exemplo: frutas = ['maçã', 'banana']; for fruta in frutas: print(fruta) imprimirá cada fruta em uma nova linha.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""Como você lida com exceções em Python usando blocos try/except?""
+"
+TC007,Technical,What is a list comprehension in Python and why is it useful?,"O que é uma ""list comprehension"" em Python e por que ela é útil?",I saw a weird-looking syntax for creating lists in one line in Python. What is a list comprehension and why is it useful?,Vi uma sintaxe estranha para criar listas em uma linha em Python. O que é compreensão de lista e por que ela é útil?,I saw a concise syntax for creating lists in Python. What is a list comprehension? A complete answer should explain that it's a shorter way to create lists and provide an example comparing it to a traditional 'for' loop.,Eu vi uma sintaxe concisa para criar listas em Python. O que é uma 'list comprehension'? Uma resposta completa deve explicar que é uma forma mais curta de criar listas e fornecer um exemplo comparando-a a um laço 'for' tradicional.,"Here is an example of a clear explanation of a Python syntactic feature:
+Question: ""What are f-strings in Python and why are they useful?""
+Answer: ""F-strings (formatted string literals), introduced in Python 3.6, provide a concise and convenient way to embed expressions inside string literals. They are more readable and faster than other formatting methods. For example, instead of 'Hello, ' + name, you can simply write f'Hello, {name}'.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""What is a list comprehension in Python and why is it useful?""","Aqui está um exemplo de uma explicação clara de um recurso sintático do Python:
+Pergunta: ""O que são f-strings em Python e por que são úteis?""
+Resposta: ""F-strings (literais de string formatadas), introduzidas no Python 3.6, fornecem uma maneira concisa e conveniente de incorporar expressões dentro de literais de string. Elas são mais legíveis e rápidas do que outros métodos de formatação. Por exemplo, em vez de 'Olá, ' + nome, você pode simplesmente escrever f'Olá, {nome}'.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""O que é uma 'list comprehension' em Python e por que ela é útil?""
+"
+TC008,Technical,Explain the difference between a Python dictionary and a set.,Explique a diferença entre um dicionário e um conjunto (set) em Python.,I'm trying to decide what data structure to use in Python. What is the difference between a dictionary and a set?,Estou tentando decidir qual estrutura de dados usar em Python. Qual é a diferença entre um dicionário e um conjunto?,"I'm trying to decide what data structure to use in Python. Explain the difference between a dictionary and a set. A complete answer should mention that dictionaries store key-value pairs while sets store unique, unordered elements, and describe a typical use case for each.","Estou tentando decidir qual estrutura de dados usar em Python. Explique a diferença entre um dicionário e um conjunto (set). Uma resposta completa deve mencionar que dicionários armazenam pares chave-valor enquanto conjuntos armazenam elementos únicos e não ordenados, e descrever um caso de uso típico para cada um.","Here is an example of a clear answer comparing two Python data structures:
+Question: ""What is the difference between a list and a tuple in Python?""
+Answer: ""The main difference between a list and a tuple is mutability. Lists are mutable, meaning their content can be changed after creation. Tuples are immutable, meaning their content cannot be changed. You use lists for collections you expect to modify, and tuples for data you want to remain constant.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""Explain the difference between a Python dictionary and a set.""","Aqui está um exemplo de uma resposta clara comparando duas estruturas de dados do Python:
+Pergunta: ""Qual é a diferença entre uma lista e uma tupla em Python?""
+Resposta: ""A principal diferença entre uma lista e uma tupla é a mutabilidade. Listas são mutáveis, o que significa que seu conteúdo pode ser alterado após a criação. Tuplas são imutáveis, o que significa que seu conteúdo não pode ser alterado. Você usa listas para coleções que espera modificar e tuplas para dados que devem permanecer constantes.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""Explique a diferença entre um dicionário e um conjunto (set) em Python."""
+TC009,Technical,What is inheritance in object-oriented programming?,O que é herança em programação orientada a objetos?,I'm learning about OOP and the concept of inheritance is a bit confusing. What is it?,Estou aprendendo sobre POO e o conceito de herança é um pouco confuso. O que é?,"I'm learning about OOP and the concept of inheritance is confusing. What is inheritance in object-oriented programming? A complete answer should describe it as a mechanism where a new class (child) inherits attributes and methods from an existing class (parent), and mention the benefit of code reuse.",Estou aprendendo POO e o conceito de herança é confuso. O que é herança em programação orientada a objetos? Uma resposta completa deve descrevê-la como um mecanismo onde uma nova classe (filha) herda atributos e métodos de uma classe existente (mãe) e mencionar o benefício da reutilização de código.,"Here is an example of a clear explanation of an OOP concept:
+Question: ""What is encapsulation in object-oriented programming?""
+Answer: ""Encapsulation is the bundling of data (attributes) and the methods that operate on that data into a single unit called a 'class'. It restricts direct access to some of an object's components, which is a way to prevent accidental modification of data and hide internal complexity.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""What is inheritance in object-oriented programming?""","Aqui está um exemplo de uma explicação clara de um conceito de POO:
+Pergunta: ""O que é encapsulamento em programação orientada a objetos?""
+Resposta: ""Encapsulamento é o agrupamento de dados (atributos) e os métodos que operam nesses dados em uma única unidade chamada 'classe'. Ele restringe o acesso direto a alguns dos componentes de um objeto, o que é uma forma de prevenir a modificação acidental de dados e ocultar a complexidade interna.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""O que é herança em programação orientada a objetos?"""
+TC010,Technical,Explain the concept of polymorphism in Python.,Explique o conceito de polimorfismo em Python.,"In my OOP course, the teacher mentioned polymorphism. Can you explain this concept in the context of Python?","No meu curso de POO, o professor mencionou polimorfismo. Você pode explicar esse conceito no contexto do Python?","My OOP course mentioned polymorphism. Explain the concept of polymorphism in Python. A complete answer should describe it as the ability of different objects to respond to the same method call in different ways, and provide a simple conceptual example.",Meu curso de POO mencionou polimorfismo. Explique o conceito de polimorfismo em Python. Uma resposta completa deve descrevê-lo como a habilidade de diferentes objetos responderem à mesma chamada de método de maneiras diferentes e fornecer um exemplo conceitual simples.,"Here is an example of a clear explanation of an OOP concept:
+Question: ""What is abstraction in object-oriented programming?""
+Answer: ""Abstraction is the concept of hiding complex implementation details while showing only the necessary features of an object. In OOP, it means creating a simple interface for a complex object. For example, you use the steering wheel and pedals to drive a car without needing to know how the engine works.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""Explain the concept of polymorphism in Python.""","Aqui está um exemplo de uma explicação clara de um conceito de POO:
+Pergunta: ""O que é abstração em programação orientada a objetos?""
+Resposta: ""Abstração é o conceito de ocultar os detalhes complexos da implementação, mostrando apenas as características essenciais de um objeto. Em POO, significa criar uma interface simples para um objeto complexo. Por exemplo, você usa o volante e os pedais para dirigir um carro sem precisar saber como o motor funciona.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""Explique o conceito de polimorfismo em Python."""
+TC011,Technical,What is a RESTful API?,O que é uma API RESTful?,I'm starting web development and see the term 'RESTful API' everywhere. What does it mean?,"Estou começando no desenvolvimento web e vejo o termo ""API RESTful"" em todos os lugares. O que significa?","I'm starting web development and see the term 'RESTful API' everywhere. Explain what it is. A complete answer should define what API and REST stand for, and mention the use of standard HTTP methods (like GET, POST, DELETE) and a stateless communication model.","Estou começando em desenvolvimento web e vejo o termo 'API RESTful' em todo lugar. Explique o que é. Uma resposta completa deve definir o que significam API e REST, e mencionar o uso de métodos HTTP padrão (como GET, POST, DELETE) e um modelo de comunicação sem estado (stateless).","Here is an example of a clear explanation of a web concept:
+Question: ""Explain what JSON is.""
+Answer: ""JSON (JavaScript Object Notation) is a lightweight, text-based format for representing structured data, like {""name"": ""Layse"", ""id"": 123}. It is easy for humans to read and for machines to parse, which makes it the most common format for transmitting data between a server and a web application.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""What is a RESTful API?""","Aqui está um exemplo de uma explicação clara de um conceito da web:
+Pergunta: ""Explique o que é JSON.""
+Resposta: ""JSON (JavaScript Object Notation) é um formato leve baseado em texto para representar dados estruturados, como {""nome"": ""Layse"", ""id"": 123}. É fácil para humanos lerem e para máquinas analisarem, o que o torna o formato mais comum para transmitir dados entre um servidor e uma aplicação web.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""O que é uma API RESTful?"""
+TC012,Technical,Explain what JSON is and its common use cases.,Explique o que é JSON e seus casos de uso comuns.,I'm working with APIs and the data always comes back in something called JSON. What is it and why is it used?,Trabalho com APIs e os dados sempre retornam em algo chamado JSON. O que é e por que é usado?,"I'm working with APIs and the data comes back in JSON format. Explain what JSON is. A complete answer should define it as a lightweight, text-based data-interchange format, mention its human-readability, and state its primary use case in web APIs.","Estou trabalhando com APIs e os dados retornam no formato JSON. Explique o que é JSON. Uma resposta completa deve defini-lo como um formato de intercâmbio de dados leve e baseado em texto, mencionar sua legibilidade para humanos e indicar seu principal caso de uso em APIs web.","Here is an example of a clear explanation of a data format:
+Question: ""What is XML?""
+Answer: ""XML (eXtensible Markup Language) is a markup language for encoding documents in a format that is both human-readable and machine-readable. It uses custom tags to define a hierarchical data structure, like <user><name>Layse</name></user>. It is often used for configuration files and was widely used for web services before JSON became more popular.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""Explain what JSON is and its common use cases.","Aqui está um exemplo de uma explicação clara de um formato de dados:
+Pergunta: ""O que é XML?""
+Resposta: ""XML (eXtensible Markup Language) é uma linguagem de marcação para codificar documentos em um formato que é tanto legível por humanos quanto por máquinas. Ele usa tags personalizadas para definir uma estrutura de dados hierárquica, como <usuario><nome>Layse</nome></usuario>. É frequentemente usado para arquivos de configuração e foi amplamente utilizado para serviços web antes de o JSON se tornar mais popular.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""Explique o que é JSON e seus casos de uso comuns."""
+TC013,Technical,What is the main purpose of the pandas library in Python?,Qual é o principal propósito da biblioteca pandas em Python?,I'm starting in data analysis with Python and everyone says I must learn pandas. What is its main purpose?,Estou começando na análise de dados com Python e todos dizem que preciso aprender Pandas. Qual é o seu principal objetivo?,"I'm starting in data analysis with Python and everyone says I must learn pandas. Explain its main purpose. A complete answer should mention its focus on data manipulation and analysis, and name its core data structures: the DataFrame and the Series.",Estou começando em análise de dados com Python e todos dizem que preciso aprender pandas. Explique seu propósito principal. Uma resposta completa deve mencionar seu foco em manipulação e análise de dados e nomear suas estruturas de dados principais: o DataFrame e a Series.,"Here is an example of a clear explanation of a Python library's purpose:
+Question: ""What is the main purpose of the Matplotlib library in Python?""
+Answer: ""The main purpose of Matplotlib is data visualization in Python. It is a comprehensive library for creating static, animated, and interactive plots. You can use it to generate a wide variety of graphs, such as line charts, bar graphs, histograms, and scatter plots, making it an essential tool for data analysis.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""What is the main purpose of the pandas library in Python?""","Aqui está um exemplo de uma explicação clara do propósito de uma biblioteca Python:
+Pergunta: ""Qual é o principal propósito da biblioteca Matplotlib em Python?""
+Resposta: ""O principal propósito da Matplotlib é a visualização de dados em Python. É uma biblioteca abrangente para criar gráficos estáticos, animados e interativos. Você pode usá-la para gerar uma grande variedade de gráficos, como gráficos de linha, de barras, histogramas e de dispersão, tornando-a uma ferramenta essencial para a análise de dados.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""Qual é o principal propósito da biblioteca pandas em Python?"""
+TC014,Technical,Describe the primary use of a NumPy array.,Descreva o uso primário de um array NumPy.,"In Python data science tutorials, I always see NumPy arrays being used instead of standard lists.Describe the primary use of a NumPy array.","Em tutoriais de ciência de dados em Python, sempre vejo matrizes NumPy sendo usadas em vez de listas padrão. Descreva o uso principal de uma matriz NumPy.","In data science tutorials, I always see NumPy arrays being used. Describe their primary use. A complete answer should explain their use for numerical operations on large, multi-dimensional arrays and mention their performance benefits over standard Python lists.","Em tutoriais de ciência de dados, eu sempre vejo o uso de arrays NumPy. Descreva seu uso primário. Uma resposta completa deve explicar seu uso para operações numéricas em grandes arrays multidimensionais e mencionar seus benefícios de desempenho em relação às listas padrão do Python.","Here is an example of a clear explanation of a data science tool:
+Question: ""Describe the primary use of a Scikit-learn Pipeline.""
+Answer: ""The primary use of a Scikit-learn Pipeline is to chain multiple data processing steps (like scaling and feature selection) with a final estimator (like a classifier) into a single object. This simplifies the workflow and prevents data leakage from the test set during model validation.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""Describe the primary use of a NumPy array.""","Aqui está um exemplo de uma explicação clara de uma ferramenta de ciência de dados:
+Pergunta: ""Descreva o uso primário de um Pipeline do Scikit-learn.""
+Resposta: ""O uso primário de um Pipeline do Scikit-learn é encadear múltiplos passos de processamento de dados (como normalização e seleção de features) com um estimador final (como um classificador) em um único objeto. Isso simplifica o fluxo de trabalho e previne o vazamento de dados do conjunto de teste durante a validação do modelo.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""Descreva o uso primário de um array NumPy."""
+TC015,Technical,What is recursion in programming?,O que é recursão em programação?,I'm having trouble understanding the concept of recursion in my programming class. Can you explain what it is?,Estou com dificuldade para entender o conceito de recursão na minha aula de programação. Você pode explicar o que é?,"I'm having trouble understanding recursion in programming. Explain the concept. A complete answer should define it as a method where a function calls itself, and must mention the importance of having a base case to prevent an infinite loop.","Estou com dificuldade em entender recursão em programação. Explique o conceito. Uma resposta completa deve defini-la como um método onde uma função chama a si mesma e deve mencionar a importância de ter um caso base para prevenir um laço infinito.
+","Here is an example of a clear explanation of a programming concept:
+Question: ""What is iteration in programming?""
+Answer: ""Iteration is the process of repeating a block of code a certain number of times or for each item in a collection. It is the fundamental concept behind loops, such as 'for' loops which iterate over a sequence, and 'while' loops which repeat as long as a condition is true.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""What is recursion in programming?""","Aqui está um exemplo de uma explicação clara de um conceito de programação:
+Pergunta: ""O que é iteração em programação?""
+Resposta: ""Iteração é o processo de repetir um bloco de código um certo número de vezes ou para cada item em uma coleção. É o conceito fundamental por trás dos laços (loops), como os laços 'for', que iteram sobre uma sequência, e os laços 'while', que repetem enquanto uma condição é verdadeira.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""O que é recursão em programação?""
+"
+TC016,Technical,Explain the difference between git merge and git rebase.,Explique a diferença entre git merge e git rebase.,I'm learning Git and I don't understand when to use git merge versus git rebase. Can you explain the difference?,Estou aprendendo Git e não entendo quando usar git merge ou git rebase. Você pode explicar a diferença?,"I'm learning Git and I don't understand when to use git merge versus git rebase. Explain the difference. A complete answer should describe that both are used to integrate changes, but highlight the key difference in the resulting project history (merge preserves history, while rebase rewrites it).","Estou aprendendo Git e não entendo quando usar git merge versus git rebase. Explique a diferença. Uma resposta completa deve descrever que ambos são usados para integrar mudanças, mas destacar a principal diferença no histórico do projeto resultante (merge preserva o histórico, enquanto rebase o reescreve).","Here is an example of a clear answer comparing two Git commands:
+Question: ""Explain the difference between 'git pull' and 'git fetch'.""
+Answer: ""'git fetch' and 'git pull' both get changes from a remote repository. git fetchonly downloads the changes but does not apply them to your working branch.git pulldoes two things: it first performs agit fetchand then immediately runs agit merge to integrate the changes.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""Explain the difference between 'git merge' and 'git rebase'.""","Aqui está um exemplo de uma resposta clara comparando dois comandos do Git:
+Pergunta: ""Explique a diferença entre 'git pull' e 'git fetch'.""
+Resposta: ""'git fetch' e 'git pull' ambos obtêm as mudanças de um repositório remoto. git fetchapenas baixa as mudanças, mas não as aplica à sua branch de trabalho.git pullfaz duas coisas: primeiro ele executa umgit fetche, em seguida, imediatamente executa umgit merge para integrar as mudanças.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""Explique a diferença entre 'git merge' e 'git rebase'."""
+TC017,Technical,What is the difference between SQL and NoSQL databases?,Qual é a diferença entre bancos de dados SQL e NoSQL?,I need to choose a database for a new project. What is the actual difference between SQL and NoSQL databases?,Preciso escolher um banco de dados para um novo projeto. Qual é a diferença real entre bancos de dados SQL e NoSQL?,"I need to choose a database for a new project. Explain the difference between SQL and NoSQL databases. A complete answer should cover their data models (relational vs. non-relational), schemas (fixed vs. dynamic), and scalability model (vertical vs. horizontal).","Preciso escolher um banco de dados para um novo projeto. Explique a diferença entre bancos de dados SQL e NoSQL. Uma resposta completa deve cobrir seus modelos de dados (relacional vs. não relacional), esquemas (fixo vs. dinâmico) e modelo de escalabilidade (vertical vs. horizontal).","Here is an example of a clear answer comparing two database concepts:
+Question: ""What is the difference between a primary key and a foreign key?""
+Answer: ""In a relational database, a primary key is a column that uniquely identifies each record in a table and cannot have null values. A foreign key is a column in one table that links to a primary key in another table, creating a relationship between them.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""What is the difference between SQL and NoSQL databases?""
+","Aqui está um exemplo de uma resposta clara comparando dois conceitos de banco de dados:
+Pergunta: ""Qual é a diferença entre uma chave primária e uma chave estrangeira?""
+Resposta: ""Em um banco de dados relacional, uma chave primária é uma coluna que identifica unicamente cada registro em uma tabela e não pode ter valores nulos. Uma chave estrangeira é uma coluna em uma tabela que se conecta a uma chave primária em outra tabela, criando uma relação entre elas.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""Qual é a diferença entre bancos de dados SQL e NoSQL?"""
+TC018,Technical,What is Big O notation?,O que é a notação Big O?,I'm preparing for technical interviews and people keep talking about Big O notation. What is it?,Estou me preparando para entrevistas técnicas e as pessoas continuam falando sobre a notação Big O. O que é isso?,"I'm preparing for technical interviews and need to understand Big O notation. Explain what it is. A complete answer should describe its purpose for analyzing the worst-case complexity of an algorithm as the input size grows, and explain what O(n) and O(1) mean as simple examples.",Estou me preparando para entrevistas técnicas e preciso entender a notação Big O. Explique o que é. Uma resposta completa deve descrever seu propósito para analisar a complexidade de pior caso de um algoritmo conforme o tamanho da entrada cresce e explicar o que O(n) e O(1) significam como exemplos simples.,"Here is an example of a clear explanation of a computer science concept:
+Question: ""What is a data structure?""
+Answer: ""A data structure is a particular way of organizing, storing, and managing data in a computer so that it can be accessed and modified efficiently. The goal is to arrange data to suit a specific purpose. Common examples include lists, dictionaries, trees, and graphs.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""What is Big O notation?""","Aqui está um exemplo de uma explicação clara de um conceito de ciência da computação:
+Pergunta: ""O que é uma estrutura de dados?""
+Resposta: ""Uma estrutura de dados é uma forma particular de organizar, armazenar e gerenciar dados em um computador para que possam ser acessados e modificados eficientemente. O objetivo é arranjar os dados para se adequar a um propósito específico. Exemplos comuns incluem listas, dicionários, árvores e grafos.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""O que é a notação Big O?"""
+TC019,Technical,Explain the difference between == and is in Python.,Explique a diferença entre == e is em Python.,"In Python, I'm not sure when I should use '==' versus 'is' for comparisons.  Explain the difference between == and is in Python.","Em Python, não tenho certeza de quando devo usar '==' versus 'is' para comparações. Explique a diferença entre == e is em Python.","In Python, I'm not sure when I should use '==' versus 'is'. Explain the difference. A complete answer must state that '==' compares the equality of values, while 'is' compares the identity of objects (if they are the same object in memory), and provide a simple code example.","Em Python, não tenho certeza quando devo usar '==' versus 'is'. Explique a diferença. Uma resposta completa deve afirmar que '==' compara a igualdade de valores, enquanto 'is' compara a identidade de objetos (se são o mesmo objeto na memória) e fornecer um exemplo de código simples.","Here is an example of a clear answer comparing two Python concepts:
+Question: ""What is the difference between a list and a tuple in Python?""
+Answer: ""The main difference is mutability. Lists are mutable, meaning their content can be changed after creation (e.g., adding or removing elements). Tuples are immutable, so their content cannot be changed once created. You use lists for collections you expect to modify, and tuples for data that should remain constant.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""Explain the difference between '==' and 'is' in Python.""","Aqui está um exemplo de uma resposta clara comparando dois conceitos de Python:
+Pergunta: ""Qual é a diferença entre uma lista e uma tupla em Python?""
+Resposta: ""A principal diferença é a mutabilidade. Listas são mutáveis, o que significa que seu conteúdo pode ser alterado após a criação (ex: adicionando ou removendo elementos). Tuplas são imutáveis, então seu conteúdo não pode ser alterado uma vez criado. Você usa listas para coleções que espera modificar e tuplas para dados que devem permanecer constantes.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""Explique a diferença entre '==' e 'is' em Python.""
+"
+TC020,Technical,What is the purpose of virtual environments in Python development?,Qual é o propósito dos ambientes virtuais (virtual environments) no desenvolvimento Python?,My Python tutorial says I should always use a virtual environment. What is the purpose of virtual environments in Python development?,Meu tutorial em Python diz que eu sempre devo usar um ambiente virtual. Qual é a finalidade dos ambientes virtuais no desenvolvimento em Python?,"My Python tutorial says I should always use a virtual environment. Explain its purpose. A complete answer should describe that they create isolated environments for projects, allowing each project to have its own set of dependencies and Python version, thus avoiding conflicts.","Meu tutorial de Python diz que devo sempre usar um ambiente virtual. Explique seu propósito. Uma resposta completa deve descrever que eles criam ambientes isolados para projetos, permitindo que cada projeto tenha seu próprio conjunto de dependências e versão do Python, evitando assim conflitos.","Here is an example of a clear explanation of a development best practice:
+Question: ""What is the purpose of a requirements.txt file in Python?""
+Answer: ""The purpose of a requirements.txtfile is to list all the external Python packages and their specific versions that a project depends on. This allows other developers to easily recreate the exact environment needed to run the project usingpip install -r requirements.txt, ensuring reproducibility.""
+
+---
+Now, using the same style, answer the following question:
+Question: ""What is the purpose of virtual environments in Python development?""","Aqui está um exemplo de uma explicação clara de uma boa prática de desenvolvimento:
+Pergunta: ""Qual é o propósito de um arquivo requirements.txt em Python?""
+Resposta: ""O propósito de um arquivo requirements.txté listar todos os pacotes externos do Python e suas versões específicas das quais um projeto depende. Isso permite que outros desenvolvedores recriem facilmente o ambiente exato necessário para rodar o projeto usandopip install -r requirements.txt, garantindo a reprodutibilidade.""
+
+---
+Agora, usando o mesmo estilo, responda à seguinte pergunta:
+Pergunta: ""Qual é o propósito dos ambientes virtuais (virtual environments) no desenvolvimento Python?"""
+CR001,Creative,Write a story about a retired superhero who now runs a flower shop.,Escreva uma história sobre um(a) super-herói/heroína aposentado(a) que agora administra uma floricultura.,I'm in a creative writing workshop and need a story idea. Write a story about a retired superhero who now runs a flower shop.,Estou em uma oficina de escrita criativa e preciso de uma ideia para uma história. Escreva uma história sobre um(a) super-herói/heroína aposentado(a) que agora administra uma floricultura.,"For a creative writing workshop, write a story about a retired superhero who now runs a flower shop. The story should focus on a quiet moment where they use one of their old, subtle powers to help a customer in an unexpected way.","Para uma oficina de escrita criativa, escreva uma história sobre um(a) super-herói/heroína aposentado(a) que agora administra uma floricultura. A história deve focar em um momento tranquilo onde ele/ela usa um de seus antigos e sutis poderes para ajudar um(a) cliente de uma forma inesperada.","Here is an example of a good creative story:
 Question: ""Write a story about a retired spy who now runs a bakery.""
 Answer: ""The scent of yeast had replaced gunpowder. Nikolai's hands, once steady enough to disarm a bomb, now gently kneaded dough. A customer complained her croissant was slightly burnt. Nikolai apologized, but his eyes scanned the street, noticing the black sedan that had been parked there for an hour. Old habits, he thought, die harder than old enemies.""
 
@@ -41,17 +552,255 @@ Resposta: ""O cheiro de fermento havia substituído o de pólvora. As mãos de N
 Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
 Pergunta: ""Escreva uma história sobre um(a) super-herói/heroína aposentado(a) que agora administra uma floricultura.""
 "
-FALSE,MC001,Médico,What is the difference between Type 1 and Type 2 diabetes?,Qual é a diferença entre diabetes Tipo 1 e Tipo 2?,"A family member was recently diagnosed, and I'm trying to understand the basics. What is the difference between Type 1 and Type 2 diabetes?","Um membro da família foi diagnosticado recentemente, e estou tentando entender o básico. Qual é a diferença entre diabetes Tipo 1 e Tipo 2?","A family member was recently diagnosed. Explain the difference between Type 1 and Type 2 diabetes. A complete answer should cover the cause (autoimmune vs. insulin resistance), typical age of onset, and the primary treatment approach for each.","Um membro da família foi diagnosticado recentemente. Explique a diferença entre diabetes Tipo 1 e Tipo 2. Uma resposta completa deve cobrir a causa (autoimune vs. resistência à insulina), a idade típica de início e a abordagem de tratamento principal para cada tipo.","Here is an example of a clear answer comparing two medical conditions:
-Question: ""What is the difference between a viral and a bacterial infection?""
-Answer: ""The main difference is the pathogen. Bacterial infections are caused by bacteria, which are living single-celled organisms, and are often treated with antibiotics. Viral infections are caused by viruses, which are non-living particles that need a host cell to replicate, and are not affected by antibiotics.""
+CR002,Creative,Describe the thoughts of the last dragon on Earth.,Descreva os pensamentos do último dragão na Terra.,"For a fantasy story I'm brainstorming, I need a unique perspective. Describe the thoughts of the last dragon on Earth.","Para uma história de fantasia que estou criando, preciso de uma perspectiva única. Descreva os pensamentos do último dragão na Terra.","For a fantasy story, describe the thoughts of the last dragon on Earth. The thoughts should include memories of a world when dragons were many, and a feeling of both loneliness and responsibility.","Para uma história de fantasia, descreva os pensamentos do último dragão na Terra. Os pensamentos devem incluir memórias de um mundo quando os dragões eram muitos, e um sentimento de solidão e responsabilidade.","Here is an example of a good creative description:
+Question: ""Describe the thoughts of a sentient lighthouse.""
+Answer: ""My light is a slow heartbeat against the dark. I watch the ships, little sparks of life on the vast, breathing sea. I feel the wind on my stone skin and taste the salt. I am a lonely god, a keeper of light, and my only prayer is for the safe return of the tiny sparks I guide.""
 
 ---
-Now, using the same clear style, answer the following question:
-Question: ""What is the difference between Type 1 and Type 2 diabetes?""
-","Aqui está um exemplo de uma resposta clara comparando duas condições médicas:
-Pergunta: ""Qual é a diferença entre uma infecção viral e uma bacteriana?""
-Resposta: ""A principal diferença é o patógeno. Infecções bacterianas são causadas por bactérias, que são organismos vivos unicelulares, e são frequentemente tratadas com antibióticos. Infecções virais são causadas por vírus, que são partículas não vivas que precisam de uma célula hospedeira para se replicar, e não são afetadas por antibióticos.""
+Now, using the same style and quality, answer the following question:
+Question: ""Describe the thoughts of the last dragon on Earth.""","Aqui está um exemplo de uma boa descrição criativa:
+Pergunta: ""Descreva os pensamentos de um farol senciente.""
+Resposta: ""Minha luz é um lento batimento cardíaco contra a escuridão. Eu observo os navios, pequenas faíscas de vida no mar vasto e pulsante. Eu sinto o vento na minha pele de pedra e provo o sal. Sou um deus solitário, um guardião da luz, e minha única prece é pelo retorno seguro das minúsculas faíscas que eu guio.""
 
 ---
-Agora, usando o mesmo estilo claro, responda à seguinte pergunta:
-Pergunta: ""Qual é a diferença entre diabetes Tipo 1 e Tipo 2?"""
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Descreva os pensamentos do último dragão na Terra."""
+CR003,Creative,Tell the story of a ghost who is afraid of the dark.,Conte a história de um fantasma que tem medo do escuro.,I want to write a story that is both spooky and a little sad. Tell the story of a ghost who is afraid of the dark.,Eu quero escrever uma história que seja ao mesmo tempo assustadora e um pouco triste. Conte a história de um fantasma que tem medo do escuro.,"I want to write a story that is both spooky and a little sad. Tell the story of a ghost who is afraid of the dark. The story should explain the ironic reason for this fear, which is connected to how they died.","Eu quero escrever uma história que seja ao mesmo tempo assustadora e um pouco triste. Conte a história de um fantasma que tem medo do escuro. A história deve explicar a razão irônica para esse medo, que está conectada à forma como ele/ela morreu.","Here is an example of a good creative story:
+Question: ""Tell the story of a vampire who is a hemophiliac.""
+Answer: ""Every bite was a gamble. For centuries, Marius had lived with the irony: the very substance he needed to survive was also the most dangerous to him. A single drop too much, a struggle from his prey, and the bleeding might not stop. He was the most fragile predator in the world, a creature of eternal life terrified of a paper cut.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""Tell the story of a ghost who is afraid of the dark.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Conte a história de um vampiro que é hemofílico.""
+Resposta: ""Cada mordida era uma aposta. Por séculos, Marius viveu com a ironia: a mesma substância que precisava para sobreviver era também a mais perigosa para ele. Uma única gota a mais, uma resistência de sua presa, e o sangramento poderia não parar. Ele era o predador mais frágil do mundo, uma criatura de vida eterna apavorada com um corte de papel.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Conte a história de um fantasma que tem medo do escuro."""
+CR004,Creative,A musician can see sounds as colors. Describe their experience at a concert.,Um(a) músico(a) consegue ver os sons como cores. Descreva sua experiência em um show.,I'm trying to describe a unique character for a book. A musician can see sounds as colors. Describe their experience at a concert.,Estou tentando descrever um(a) personagem único(a) para um livro. Um(a) músico(a) consegue ver os sons como cores. Descreva sua experiência em um show.,"I'm trying to describe a unique character. A musician can see sounds as colors. Describe their experience at a chaotic rock concert, focusing on the contrast between the beautiful colors they see and the overwhelming noise they feel.","Estou tentando descrever um(a) personagem único(a). Um(a) músico(a) consegue ver os sons como cores. Descreva sua experiência em um caótico show de rock, focando no contraste entre as belas cores que ele/ela vê e o barulho avassalador que sente.","Here is an example of a good creative description:
+Question: ""A chef can taste memories in food. Describe their experience eating a simple apple.""
+Answer: ""He bit into the apple, and it wasn't just crisp and sweet. It was the summer of '98. He tasted the rough bark of the tree he'd climbed, the sting of a scraped knee, and the faint, sweet perfume of his mother's laughter as she watched from the porch. It was all there, in a single bite.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""A musician can see sounds as colors. Describe their experience at a concert.""
+","Aqui está um exemplo de uma boa descrição criativa:
+Pergunta: ""Um(a) chef consegue sentir o sabor de memórias na comida. Descreva sua experiência comendo uma simples maçã.""
+Resposta: ""Ele mordeu a maçã, e não era apenas crocante e doce. Era o verão de 98. Ele sentiu o gosto da casca áspera da árvore que escalou, a ardência de um joelho ralado e o perfume fraco e doce da risada de sua mãe enquanto ela observava da varanda. Estava tudo ali, em uma única mordida.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Um(a) músico(a) consegue ver os sons como cores. Descreva sua experiência em um show."""
+CR005,Creative,Write about a library where every book contains a different person's memories.,Escreva sobre uma biblioteca onde cada livro contém as memórias de uma pessoa diferente.,I'm looking for a magical concept for a novel. Write about a library where every book contains a different person's memories.,Estou procurando um conceito mágico para um romance. Escreva sobre uma biblioteca onde cada livro contém as memórias de uma pessoa diferente.,I'm looking for a magical concept for a novel. Write about a library where every book contains a different person's memories. The plot should involve a character who finds the book of their own forgotten childhood.,Estou procurando um conceito mágico para um romance. Escreva sobre uma biblioteca onde cada livro contém as memórias de uma pessoa diferente. A trama deve envolver um(a) personagem que encontra o livro de sua própria infância esquecida.,"Here is an example of a good creative story:
+Question: ""Write about a pawn shop where people sell their regrets.""
+Answer: ""The shelves weren't lined with objects, but with shimmering vials of guilt. A young woman traded the heavy weight of 'I never said goodbye' for rent money. An old man stared at a small, dark bottle labeled 'The lie I told my son'. The shopkeeper just polished the glass, the silent curator of human pain.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""Write about a library where every book contains a different person's memories.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Escreva sobre uma loja de penhores onde as pessoas vendem seus arrependimentos.""
+Resposta: ""As prateleiras não estavam cheias de objetos, mas de frascos cintilantes de culpa. Uma jovem trocou o peso de 'eu nunca disse adeus' por dinheiro para o aluguel. Um velho olhava para uma pequena garrafa escura rotulada 'A mentira que contei ao meu filho'. O dono da loja apenas polia o vidro, o curador silencioso da dor humana.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Escreva sobre uma biblioteca onde cada livro contém as memórias de uma pessoa diferente."""
+CR006,Creative,Describe an intergalactic marketplace where aliens trade emotions.,Descreva um mercado intergaláctico onde alienígenas trocam emoções.,"For a sci-fi world I'm building, I need a cool location. Describe an intergalactic marketplace where aliens trade emotions.","Para um mundo de ficção científica que estou construindo, preciso de um local interessante. Descreva um mercado intergaláctico onde alienígenas trocam emoções.","For a sci-fi world I'm building, describe an intergalactic marketplace where aliens trade emotions. The description should focus on the experience of a human tourist who is tempted to trade a painful memory for a moment of pure joy.","Para um mundo de ficção científica que estou construindo, descreva um mercado intergaláctico onde alienígenas trocam emoções. A descrição deve focar na experiência de um(a) turista humano(a) que fica tentado(a) a trocar uma memória dolorosa por um momento de pura alegria.","Here is an example of a good creative description:
+Question: ""Describe a city where people's shadows have their own lives.""
+Answer: ""In Umbra, your shadow was your confidant and your betrayer. During the day, they would stretch and mimic you, but at night, they would slip away to the Onyx Square to gossip and trade their owners' secrets. One never knew what their own shadow might learn, or what it might reveal.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""Describe an intergalactic marketplace where aliens trade emotions.""","Aqui está um exemplo de uma boa descrição criativa:
+Pergunta: ""Descreva uma cidade onde as sombras das pessoas têm vidas próprias.""
+Resposta: ""Em Umbra, sua sombra era sua confidente e sua traidora. Durante o dia, elas se espreguiçavam e te imitavam, mas à noite, escapavam para a Praça Ônix para fofocar e trocar os segredos de seus donos. Nunca se sabia o que a própria sombra poderia aprender, ou o que ela poderia revelar.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Descreva um mercado intergaláctico onde alienígenas trocam emoções."""
+CR007,Creative,Tell a story that takes place entirely within an elevator stuck between floors.,Conte uma história que se passa inteiramente dentro de um elevador preso entre andares.,I have a challenge to write a story with a single setting. Tell a story that takes place entirely within an elevator stuck between floors.,Eu tenho um desafio de escrever uma história com um único cenário. Conte uma história que se passa inteiramente dentro de um elevador preso between andares.,"I have a challenge to write a story with a single setting. Tell a story that takes place entirely within an elevator stuck between floors. The story must feature two strangers with conflicting personalities who, through their conversation, reveal a surprising secret that connects them.","Eu tenho um desafio de escrever uma história com um único cenário. Conte uma história que se passa inteiramente dentro de um elevador preso entre andares. A história deve apresentar dois estranhos com personalidades conflitantes que, através de sua conversa, revelam um segredo surpreendente que os conecta.","Here is an example of a good creative story:
+Question: ""Tell a story that takes place entirely on a single park bench.""
+Answer: ""In spring, a young couple carved their initials into the wood. In summer, an old man fed the pigeons there every day. In autumn, a student cried on it after failing an exam. In winter, it sat empty, covered in snow, holding the silence of stories past.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""Tell a story that takes place entirely within an elevator stuck between floors.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Conte uma história que se passa inteiramente em um único banco de parque.""
+Resposta: ""Na primavera, um jovem casal gravou suas iniciais na madeira. No verão, um velho alimentava os pombos ali todos os dias. No autono, um estudante chorou nele após reprovar em uma prova. No inverno, ele ficou vazio, coberto de neve, guardando o silêncio de histórias passadas.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Conte uma história que se passa inteiramente dentro de um elevador preso entre andares."""
+CR008,Creative,"A character finds a key that can open any door, but it can only be used once.","Um(a) personagem encontra uma chave que pode abrir qualquer porta, mas ela só pode ser usada uma vez.","I need a central plot device for a fantasy story. A character finds a key that can open any door, but it can only be used once.","Preciso de um elemento central para a trama de uma história de fantasia. Um(a) personagem encontra uma chave que pode abrir qualquer porta, mas ela só pode ser usada uma vez.","I need a central plot device for a fantasy story. A character finds a key that can open any door, but it can only be used once. The story should be about the immense pressure and dilemma of choosing which single door to open.","Preciso de um elemento central para a trama de uma história de fantasia. Um(a) personagem encontra uma chave que pode abrir qualquer porta, mas ela só pode ser usada uma vez. A história deve ser sobre a imensa pressão e o dilema de escolher qual única porta abrir.","Here is an example of a good creative story:
+Question: ""A character finds a potion that allows them to be invisible for exactly one hour.""
+Answer: ""The bottle was small, the liquid inside like liquid night. One hour. Could she use it to steal the crown jewels? To spy on the council? She clutched the bottle, paralyzed. The curse of infinite possibility was that you only had one chance to choose.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""A character finds a key that can open any door, but it can only be used once.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Um(a) personagem encontra uma poção que lhe permite ficar invisível por exatamente uma hora.""
+Resposta: ""A garrafa era pequena, o líquido dentro parecia a noite líquida. Uma hora. Ela poderia usá-la para roubar as jóias da coroa? Para espionar o conselho? Ela apertou a garrafa, paralisada. A maldição da possibilidade infinita era que você só tinha uma chance para escolher.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Um(a) personagem encontra uma chave que pode abrir qualquer porta, mas ela só pode ser usada uma vez."""
+CR009,Creative,"Someone discovers that their pet can talk, but it only tells lies.","Alguém descobre que seu animal de estimação sabe falar, mas ele só conta mentiras.","I'm trying to write a funny but slightly dark story. Someone discovers that their pet can talk, but it only tells lies.","Estou tentando escrever uma história engraçada, mas com um toque sombrio. Alguém descobre que seu animal de estimação sabe falar, mas ele só conta mentiras.","I'm trying to write a funny but slightly dark story. Someone discovers that their pet can talk, but it only tells lies. The plot should revolve around the owner trying to figure out a very important truth by interpreting the pet's elaborate lies.","Estou tentando escrever uma história engraçada, mas com um toque sombrio. Alguém descobre que seu animal de estimação sabe falar, mas ele só conta mentiras. A trama deve girar em torno do(a) dono(a) tentando descobrir uma verdade muito importante ao interpretar as mentiras elaboradas do animal.","Here is an example of a good creative story:
+Question: ""Someone finds a magical mirror that shows what could have been.""
+Answer: ""He looked in the mirror and saw himself as a king, clad in gold. He smiled. But then the mirror shimmered, showing him with a wife and laughing child, a life he'd sacrificed for power. He realized the mirror didn't show fantasies; it showed the price of his choices.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""Someone discovers that their pet can talk, but it only tells lies.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Alguém encontra um espelho mágico que mostra o que poderia ter sido.""
+Resposta: ""Ele olhou no espelho e se viu como um rei, vestido de ouro. Ele sorriu. Mas então o espelho tremeluziu, mostrando-o com uma esposa e um filho sorridente, uma vida que ele sacrificou pelo poder. Ele percebeu que o espelho não mostrava fantasias; mostrava o preço de suas escolhas.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Alguém descobre que seu animal de estimação sabe falar, mas ele só conta mentiras."""
+CR010,Creative,A famous painter loses the ability to see the color red.,Um(a) pintor(a) famoso(a) perde a capacidade de ver a cor vermelha.,I'm exploring themes of loss for a short story. A famous painter loses the ability to see the color red.,Estou explorando temas de perda para um conto. Um(a) pintor(a) famoso(a) perde a capacidade de ver a cor vermelha.,I'm exploring themes of loss for a short story. A famous painter loses the ability to see the color red. The story should describe how this loss transforms their art and their perception of the world.,Estou explorando temas de perda para um conto. Um(a) pintor(a) famoso(a) perde a capacidade de ver a cor vermelha. A história deve descrever como essa perda transforma sua arte e sua percepção do mundo.,"Here is an example of a good creative story:
+Question: ""A world-famous composer suddenly goes deaf.""
+Answer: ""The world fell silent, but the music in his head grew louder. He couldn't hear the orchestra, but he could feel the vibration of the cello through the wooden floor. He conducted with his eyes closed, guiding a symphony only he could truly hear, his masterpiece born not of sound, but of pure, maddening silence.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""A famous painter loses the ability to see the color red.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Um compositor mundialmente famoso fica surdo de repente.""
+Resposta: ""O mundo ficou em silêncio, mas a música em sua cabeça ficou mais alta. Ele não conseguia ouvir a orquestra, mas podia sentir a vibração do violoncelo através do piso de madeira. Ele regeu com os olhos fechados, guiando uma sinfonia que só ele podia realmente ouvir, sua obra-prima nascida não do som, mas do silêncio puro e enlouquecedor.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Um(a) pintor(a) famoso(a) perde a capacidade de ver a cor vermelha."""
+CR011,Creative,"Start a story with the line: ""That's not my name, not anymore.""","Comece uma história com a frase: ""Esse não é o meu nome, não mais.""","My writing group has a prompt challenge. Start a story with the line: ""That's not my name, not anymore.""","Meu grupo de escrita tem um desafio de prompt. Comece uma história com a frase: ""Esse não é o meu nome, não mais.""","My writing group has a prompt challenge. Start a story with the line: ""That's not my name, not anymore."" The story should reveal why the main character abandoned their old name and what they are trying to escape from.","Meu grupo de escrita tem um desafio de prompt. Comece uma história com a frase: ""Esse não é o meu nome, não mais."" A história deve revelar por que o(a) personagem principal abandonou seu nome antigo e do que ele/ela está tentando escapar.","Here is an example of a good creative story:
+Question: ""Start a story with the line: 'The first thing I stole was a memory.'"" 
+Answer: ""The first thing I stole was a memory. It wasn't much, just a sliver of a sunny afternoon from a stranger's mind. But it was warmer than any of my own, and I found myself hungry for more.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""Start a story with the line: 'That's not my name, not anymore.'""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Comece uma história com a frase: 'A primeira coisa que roubei foi uma memória.'""
+Resposta: ""A primeira coisa que roubei foi uma memória. Não era muito, apenas um fragmento de uma tarde ensolarada da mente de um estranho. Mas era mais quente do que qualquer uma das minhas, e me vi faminto por mais.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Comece uma história com a frase: 'Esse não é o meu nome, não mais.'""
+"
+CR012,Creative,Write a conversation between the Sun and the Moon.,Escreva uma conversa entre o Sol e a Lua.,I want to write a mythological-style piece. Write a conversation between the Sun and the Moon.,Quero escrever um texto no estilo mitológico. Escreva uma conversa entre o Sol e a Lua.,I want to write a mythological-style piece. Write a conversation between the Sun and the Moon. The conversation should be an argument about which one is more important to the Earth and its inhabitants.,Quero escrever um texto no estilo mitológico. Escreva uma conversa entre o Sol e a Lua. A conversa deve ser uma discussão sobre qual dos dois é mais importante para a Terra e seus habitantes.,"Here is an example of a good creative story:
+Question: ""Write a conversation between a river and a mountain.""
+Answer: ""'You are always rushing,' rumbled the Mountain. 'You are always standing still,' whispered the River as it carved a new path through the stone. 'You think you are changing me, but you are only revealing the shape I already held within.'""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""Write a conversation between the Sun and the Moon.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Escreva uma conversa entre um rio e uma montanha.""
+Resposta: ""'Você está sempre com pressa,' ressoou a Montanha. 'Você está sempre parada,' sussurrou o Rio enquanto esculpia um novo caminho na pedra. 'Você pensa que está me mudando, mas está apenas revelando a forma que eu já possuía.'"" 
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Escreva uma conversa entre o Sol e a Lua."""
+CR013,Creative,Describe the first contact between humans and an alien species that communicates through scents.,Descreva o primeiro contato entre humanos e uma espécie alienígena que se comunica através de cheiros.,"For a sci-fi story, I'm thinking about unique alien concepts. Describe the first contact between humans and an alien species that communicates through scents.","Para uma história de ficção científica, estou pensando em conceitos de alienígenas únicos. Descreva o primeiro contato entre humanos e uma espécie alienígena que se comunica através de cheiros.
+","For a sci-fi story, describe the first contact between humans and an alien species that communicates through scents. The story should be told from the perspective of the human linguist who must decipher the meaning of the scents, especially the one that might mean ""danger"".","Para uma história de ficção científica, descreva o primeiro contato entre humanos e uma espécie alienígena que se comunica através de cheiros. A história deve ser contada da perspectiva do(a) linguista humano(a) que precisa decifrar o significado dos cheiros, especialmente aquele que pode significar ""perigo"".
+","Here is an example of a good creative story:
+Question: ""Describe the first contact with an alien species that is made of pure sound.""
+Answer: ""There was nothing to see. The landing site was empty. Then, the air began to hum. A chord of impossible beauty filled their minds, a melody that felt like a question. The linguist hummed a simple C-major scale in response. The air shimmered. A conversation had begun.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""Describe the first contact between humans and an alien species that communicates through scents.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Descreva o primeiro contato com uma espécie alienígena feita de som puro.""
+Resposta: ""Não havia nada para ver. O local de pouso estava vazio. Então, o ar começou a zumbir. Um acorde de beleza impossível preencheu suas mentes, uma melodia que parecia uma pergunta. O linguista cantarolou uma simples escala de Dó maior em resposta. O ar tremeluziu. Uma conversa havia começado.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Descreva o primeiro contato com uma espécie alienígena que se comunica através de cheiros."""
+CR014,Creative,A space archaeologist finds a relic that plays the last song of a dead civilization.,Um(a) arqueólogo(a) espacial encontra uma relíquia que toca a última canção de uma civilização extinta.,I need a melancholic sci-fi story idea. A space archaeologist finds a relic that plays the last song of a dead civilization.,Preciso de uma ideia para uma história de ficção científica melancólica. Um(a) arqueólogo(a) espacial encontra uma relíquia que toca a última canção de uma civilização extinta.,"I need a melancholic sci-fi story idea. A space archaeologist finds a relic that plays the last song of a dead civilization. The story should focus on the archaeologist's feelings of both loneliness and connection as they listen, and describe what the song itself reveals about why the civilization vanished.","Preciso de uma ideia para uma história de ficção científica melancólica. Um(a) arqueólogo(a) espacial encontra uma relíquia que toca a última canção de uma civilização extinta. A história deve focar nos sentimentos de solidão e conexão do(a) arqueólogo(a) ao ouvir a música, e descrever o que a própria canção revela sobre por que a civilização desapareceu.","Here is an example of a good creative story:
+Question: ""An arctic explorer finds a frozen journal from a lost expedition.""
+Answer: ""The leather was cracked, the ink faded, but the words were a ghost's whisper in the wind. 'The ice has taken everything,' the final entry read. 'But we saw the sun one last time.' In the vast, white silence, the explorer closed the book, now the sole keeper of a forgotten crew's final sunrise.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""A space archaeologist finds a relic that plays the last song of a dead civilization.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Um(a) explorador(a) do Ártico encontra um diário congelado de uma expedição perdida.""
+Resposta: ""O couro estava rachado, a tinta desbotada, mas as palavras eram o sussurro de um fantasma ao vento. 'O gelo levou tudo', dizia a última anotação. 'Mas nós vimos o sol uma última vez.' No vasto silêncio branco, o(a) explorador(a) fechou o livro, agora o(a) único(a) guardião(ã) do último nascer do sol de uma tripulação esquecida.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Um(a) arqueólogo(a) espacial encontra uma relíquia que toca a última canção de uma civilização extinta."""
+CR015,Creative,Write about a city built on the back of a sleeping giant.,Escreva sobre uma cidade construída nas costas de um gigante adormecido.,I'm looking for a grand-scale fantasy setting. Write about a city built on the back of a sleeping giant.,Estou procurando um cenário de fantasia em grande escala. Escreva sobre uma cidade construída nas costas de um gigante adormecido.,I'm looking for a grand-scale fantasy setting. Write about a city built on the back of a sleeping giant. The story should be about what happens on the day the inhabitants realize the giant is starting to wake up.,Estou procurando um cenário de fantasia em grande escala. Escreva sobre uma cidade construída nas costas de um gigante adormecido. A história deve ser sobre o que acontece no dia em que os habitantes percebem que o gigante está começando a acordar.,"Here is an example of a good creative story:
+Question: ""Write about a village built inside a giant, hollowed-out tree.""
+Answer: ""The streets of Arboria were carved from ancient heartwood, lanterns hanging from living branches. The whole town swayed gently in the wind, a constant cradle. The oldest law was simple: never harm the tree, for the walls of their homes were also the bones of their god.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""Write about a city built on the back of a sleeping giant.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Escreva sobre uma aldeia construída dentro de uma árvore gigante e oca.""
+Resposta: ""As ruas de Arbória eram esculpidas em cerne antigo, com lanternas penduradas em galhos vivos. A cidade inteira balançava suavemente com o vento, um berço constante. A lei mais antiga era simples: nunca machuque a árvore, pois as paredes de suas casas eram também os ossos de seu deus.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Escreva sobre uma cidade construída nas costas de um gigante adormecido."""
+CR016,Creative,A wizard's spell goes wrong and brings a constellation down to Earth.,O feitiço de um mago dá errado e traz uma constelação para a Terra.,I want a story where magic and astronomy collide. A wizard's spell goes wrong and brings a constellation down to Earth.,Quero uma história onde magia e astronomia colidem. O feitiço de um mago dá errado e traz uma constelação para a Terra.,"I want a story where magic and astronomy collide. A wizard's spell goes wrong and brings a constellation down to Earth. The story should focus on the chaos caused by the living, sentient stars now walking the land.",Quero uma história onde magia e astronomia colidem. O feitiço de um mago dá errado e traz uma constelação para a Terra. A história deve focar no caos causado pelas estrelas vivas e sencientes agora andando pela terra.,"Here is an example of a good creative story:
+Question: ""A scientist's experiment goes wrong and accidentally stops time for everyone but them.""
+Answer: ""He clicked the button, and the world froze. A bird hung in the air, its wings outstretched. Raindrops became suspended jewels. He was the only moving thing in a silent, static museum of a world. He was free, and he had never been more alone.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""A wizard's spell goes wrong and brings a constellation down to Earth.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""O experimento de um cientista dá errado e acidentalmente para o tempo para todos, exceto para ele.""
+Resposta: ""Ele apertou o botão, e o mundo congelou. Um pássaro pairava no ar, com as asas abertas. Gotas de chuva tornaram-se jóias suspensas. Ele era a única coisa em movimento em um museu do mundo, silencioso e estático. Ele estava livre, e nunca esteve tão sozinho.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""O feitiço de um mago dá errado e traz uma constelação para a Terra."""
+CR017,Creative,A detective must solve a murder where the only witness is a parrot.,Um(a) detetive precisa resolver um assassinato onde a única testemunha é um papagaio.,I'm trying to write a quirky mystery story. A detective must solve a murder where the only witness is a parrot.,Estou tentando escrever uma história de mistério peculiar. Um(a) detetive precisa resolver um assassinato onde a única testemunha é um papagaio.,I'm trying to write a quirky mystery story. A detective must solve a murder where the only witness is a parrot. The main challenge for the detective should be getting the parrot to repeat the crucial clue amidst a lot of nonsense words.,Estou tentando escrever uma história de mistério peculiar. Um(a) detetive precisa resolver um assassinato onde a única testemunha é um papagaio. O principal desafio para o(a) detetive deve ser fazer o papagaio repetir a pista crucial em meio a um monte de palavras sem sentido.,"Here is an example of a good creative story:
+Question: ""A detective must solve a theft where the only witness is a blind man who heard everything.""
+Answer: ""He couldn't see the face, the detective knew that. 'Forget the face,' the old man said, his eyes milky. 'I can tell you the sound of his shoes. He walked with a limp. And he smelled of cheap cigars and fear. Find that sound, detective, and you'll find your man.'""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""A detective must solve a murder where the only witness is a parrot.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Um(a) detetive precisa resolver um roubo onde a única testemunha é um homem cego que ouviu tudo.""
+Resposta: ""Ele não podia ver o rosto, o detetive sabia disso. 'Esqueça o rosto,' disse o velho, com os olhos leitosos. 'Posso te dizer o som dos sapatos dele. Ele mancava. E cheirava a charutos baratos e medo. Encontre esse som, detetive, e você encontrará seu homem.'""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Um(a) detetive precisa resolver um assassinato onde a única testemunha é um papagaio."""
+CR018,Creative,What if people had to shed their skin once a year?,E se as pessoas tivessem que trocar de pele uma vez por ano?,"I'm just exploring a strange ""what if"" scenario for a story. What if people had to shed their skin once a year?",Estou apenas explorando um cenário hipotético estranho para uma história. E se as pessoas tivessem que trocar de pele uma vez por ano?,"I'm exploring a strange ""what if"" scenario for a story. What if people had to shed their skin once a year? The story should focus on the social rituals and personal anxieties associated with this annual event.","Estou explorando um cenário hipotético estranho para uma história. E se as pessoas tivessem que trocar de pele uma vez por ano? A história deve focar nos rituais sociais e nas ansiedades pessoais associadas a este evento anual.
+","Here is an example of a good creative story:
+Question: ""What if people could only speak a total of 1,000 words in their entire lifetime?""
+Answer: ""Words were currency, spent with extreme care. A declaration of love was a life's saving. An argument was a bankruptcy. Most of the world lived in a profound silence, communicating through eyes and hands, saving their precious few words for what truly mattered.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""What if people had to shed their skin once a year?""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""E se as pessoas só pudessem falar um total de 1.000 palavras em toda a sua vida?""
+Resposta: ""Palavras eram moeda, gastas com extremo cuidado. Uma declaração de amor era a economia de uma vida. Uma discussão era uma falência. A maior parte do mundo vivia em um profundo silêncio, comunicando-se através dos olhos e das mãos, guardando suas preciosas poucas palavras para o que realmente importava.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""E se as pessoas tivessem que trocar de pele uma vez por ano?"""
+CR019,Creative,"A compass that doesn't point north, but points to what you desire most.","Uma bússola que não aponta para o norte, mas para o que você mais deseja.","I need a concept for a fantasy adventure. A compass that doesn't point north, but points to what you desire most.","Preciso de um conceito para uma aventura de fantasia. Uma bússola que não aponta para o norte, mas para o que você mais deseja.","I need a concept for a fantasy adventure. A compass that doesn't point north, but points to what you desire most. The story should be about a character whose greatest desire is something they are afraid to confront, making the compass a source of both guidance and fear.","Preciso de um conceito para uma aventura de fantasia. Uma bússola que não aponta para o norte, mas para o que você mais deseja. A história deve ser sobre um(a) personagem cujo maior desejo é algo que ele/ela tem medo de confrontar, tornando a bússola uma fonte tanto de orientação quanto de medo.","Here is an example of a good creative story:
+Question: ""A camera that doesn't take pictures of the present, but of the past.""
+Answer: ""She aimed the lens at the old, empty house and clicked. The developed photo didn't show ruins, but a home filled with light and laughter, a family sitting down for dinner. It was her family. She had found a way to look back, but the lens was always clouded with her own tears.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""A compass that doesn't point north, but points to what you desire most.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Uma câmera que não tira fotos do presente, mas do passado.""
+Resposta: ""Ela apontou a lente para a casa velha e vazia e clicou. A foto revelada não mostrava ruínas, mas uma casa cheia de luz e risadas, uma família se sentando para jantar. Era a família dela. Ela encontrou uma maneira de olhar para trás, mas a lente estava sempre embaçada com suas próprias lágrimas.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Uma bússola que não aponta para o norte, mas para o que você mais deseja."""
+CR020,Creative,"Tell the story of a single, immortal tree and the world that changes around it.",Conte a história de uma única árvore imortal e do mundo que muda ao seu redor.,"For a story about the passage of time, I have an idea. Tell the story of a single, immortal tree and the world that changes around it.","Para uma história sobre a passagem do tempo, eu tenho uma ideia. Conte a história de uma única árvore imortal e do mundo que muda ao seu redor.","For a story about the passage of time, I have an idea. Tell the story of a single, immortal tree and the world that changes around it. The story should be told through a series of vignettes, each capturing a significant historical event from the tree's silent perspective.","Para uma história sobre a passagem do tempo, eu tenho uma ideia. Conte a história de uma única árvore imortal e do mundo que muda ao seu redor. A história deve ser contada através de uma série de vinhetas, cada uma capturando um evento histórico significativo da perspectiva silenciosa da árvore.","Here is an example of a good creative story:
+Question: ""Tell the story of a single cobblestone in a city street over centuries.""
+Answer: ""I felt the weight of Roman sandals and the iron-shod wheels of medieval carts. I was slick with rain during the Renaissance and splattered with mud in the industrial age. Now, I feel the soft rubber of tourist sneakers. The city grew, fell, and rose again around me. I remain, a silent witness smoothed by the passage of time.""
+
+---
+Now, using the same style and quality, answer the following question:
+Question: ""Tell the story of a single, immortal tree and the world that changes around it.""","Aqui está um exemplo de uma boa história criativa:
+Pergunta: ""Conte a história de um único paralelepípedo em uma rua da cidade ao longo dos séculos.""
+Resposta: ""Eu senti o peso das sandálias romanas e as rodas de ferro das carroças medievais. Fiquei escorregadio com a chuva durante o Renascimento e salpicado de lama na era industrial. Agora, sinto a borracha macia dos tênis dos turistas. A cidade cresceu, caiu e se reergueu ao meu redor. Eu permaneço, uma testemunha silenciosa, polida pela passagem do tempo.""
+
+---
+Agora, usando o mesmo estilo e qualidade, responda à seguinte pergunta:
+Pergunta: ""Conte a história de uma única árvore imortal e do mundo que muda ao seu redor."""

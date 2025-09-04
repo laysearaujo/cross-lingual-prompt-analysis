@@ -23,3 +23,7 @@ env/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Files
+join_tables.ipynb
+domain_results/
