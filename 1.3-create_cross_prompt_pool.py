@@ -47,7 +47,7 @@ for name, group in grouped:
         random.shuffle(prompts_to_shuffle)
         
         cross_prompt_level_pool_list.append({
-            'evaluation_id': f"{question_id}_{sample_n}_{domain}_{model_name}_{prompt_level_A_name}_vs_{prompt_level_B_name}",
+            'evaluation_id': f"{question_id}_{sample_n}_{domain}_{model_name}_{prompt_level_A_name}_vs_{prompt_level_B_name}_{language}",
             'question_id': question_id,
             'sample_n': sample_n,
             'domain': domain,
