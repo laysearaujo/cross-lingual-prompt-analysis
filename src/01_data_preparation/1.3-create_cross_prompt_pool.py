@@ -2,8 +2,8 @@ import pandas as pd
 import random
 from itertools import combinations
 
-INPUT_FILE = 'raw_results.csv'
-OUTPUT_FILE = 'blind_pool_cross_prompt.csv'
+INPUT_FILE = '../../data/raw/raw_results.csv'
+OUTPUT_FILE = '../../data/processed/blind_pool_cross_prompt.csv'
 
 df_raw = pd.read_csv(INPUT_FILE)
 print(f"File '{INPUT_FILE}' loaded with {len(df_raw)} samples.")

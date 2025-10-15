@@ -1,0 +1,569 @@
+timestamp,evaluation_id,human_choice,human_id
+30/09/2025 06:59:16,CG019_3_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759226290086-spowi1b0l
+30/09/2025 06:59:31,CG006_4_General Knowledge_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A,user-1759226290086-spowi1b0l
+30/09/2025 06:59:55,CG010_3_General Knowledge_sabia-3.1_detailed_vs_structured_pt,A,user-1759226290086-spowi1b0l
+30/09/2025 07:00:10,CG015_4_General Knowledge_gpt-4o_contextual_vs_structured_pt,A,user-1759226290086-spowi1b0l
+30/09/2025 07:00:19,CG006_1_General Knowledge_gemini-1.5-pro-latest_contextual_vs_detailed_pt,A,user-1759226290086-spowi1b0l
+30/09/2025 07:00:26,CG011_5_General Knowledge_gpt-4o_contextual_vs_structured_pt,B,user-1759226290086-spowi1b0l
+30/09/2025 07:00:36,CG002_1_General Knowledge_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,Empate,user-1759226290086-spowi1b0l
+30/09/2025 07:00:45,CG006_1_General Knowledge_detailed_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759226290086-spowi1b0l
+30/09/2025 07:00:53,CG002_5_General Knowledge_minimum_gemini-1.5-pro-latest_vs_gpt-4o_pt,A,user-1759226290086-spowi1b0l
+30/09/2025 07:00:56,CG013_5_General Knowledge_sabia-3.1_minimum_vs_structured_pt,B,user-1759226290086-spowi1b0l
+30/09/2025 10:53:53,TC008_3_Technical_gpt-4o_contextual_vs_detailed_pt,A,user-1759240312224-9awp9zuh0
+30/09/2025 10:54:23,CG015_4_General Knowledge_gpt-4o_contextual_vs_structured_pt,A,user-1759240312224-9awp9zuh0
+30/09/2025 10:55:23,CG006_4_General Knowledge_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,Empate,user-1759240312224-9awp9zuh0
+30/09/2025 10:56:30,CR006_4_Creative_gpt-4o_contextual_vs_detailed_pt,B,user-1759240312224-9awp9zuh0
+30/09/2025 10:57:14,CR006_1_Creative_gemini-1.5-pro-latest_detailed_vs_structured_pt,A,user-1759240312224-9awp9zuh0
+30/09/2025 10:58:00,CG006_1_General Knowledge_gemini-1.5-pro-latest_contextual_vs_detailed_pt,B,user-1759240312224-9awp9zuh0
+30/09/2025 10:58:43,TC014_5_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759240312224-9awp9zuh0
+30/09/2025 10:59:07,CG009_2_General Knowledge_sabia-3.1_detailed_vs_structured_pt,B,user-1759240312224-9awp9zuh0
+30/09/2025 11:00:09,TC004_5_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A,user-1759240312224-9awp9zuh0
+30/09/2025 11:00:35,TC008_3_Technical_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759240312224-9awp9zuh0
+30/09/2025 13:48:23,CG013_5_General Knowledge_sabia-3.1_minimum_vs_structured_pt,B,user-1759250067024-6ei2inpk3
+30/09/2025 15:10:41,CR007_5_Creative_gpt-4o_minimum_vs_contextual_pt,B,user-1759250067024-6ei2inpk3
+30/09/2025 15:12:29,CR010_5_Creative_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759250067024-6ei2inpk3
+30/09/2025 15:15:53,CR013_4_Creative_gpt-4o_minimum_vs_detailed_pt,A,user-1759250067024-6ei2inpk3
+30/09/2025 15:17:09,CR020_4_Creative_detailed_gemini-1.5-pro-latest_vs_gpt-4o_pt,Empate,user-1759256135958-qbywazpir
+30/09/2025 15:17:52,CR015_1_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759256135958-qbywazpir
+30/09/2025 15:18:36,CG002_1_General Knowledge_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,Empate,user-1759256148510-utx3pkrzl
+30/09/2025 15:18:39,TC013_4_Technical_contextual_gemini-1.5-pro-latest_vs_gpt-4o_pt,Empate,user-1759256148510-utx3pkrzl
+30/09/2025 15:18:45,CR007_5_Creative_gpt-4o_minimum_vs_contextual_pt,B,user-1759256148510-utx3pkrzl
+30/09/2025 15:18:48,CG013_5_General Knowledge_sabia-3.1_minimum_vs_structured_pt,A,user-1759256148510-utx3pkrzl
+30/09/2025 15:18:49,TC011_2_Technical_gpt-4o_minimum_vs_structured_pt,B,user-1759256148510-utx3pkrzl
+30/09/2025 15:18:54,CR015_1_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759256148510-utx3pkrzl
+30/09/2025 15:20:05,CR006_1_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,B,user-1759250067024-6ei2inpk3
+30/09/2025 15:20:14,TC003_3_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759256148510-utx3pkrzl
+30/09/2025 15:20:19,CG006_1_General Knowledge_gemini-1.5-pro-latest_contextual_vs_detailed_pt,B,user-1759256148510-utx3pkrzl
+30/09/2025 15:20:28,CR019_4_Creative_gpt-4o_contextual_vs_structured_pt,B,user-1759256148510-utx3pkrzl
+30/09/2025 15:20:34,TC008_4_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759256148510-utx3pkrzl
+30/09/2025 15:21:11,CR006_1_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,B,user-1759256379361-optw660zh
+30/09/2025 15:22:11,CG002_5_General Knowledge_minimum_gemini-1.5-pro-latest_vs_gpt-4o_pt,B,user-1759256475947-3lqur9cte
+30/09/2025 15:22:12,TC016_3_Technical_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_pt,B,user-1759256379361-optw660zh
+30/09/2025 15:22:44,CG010_3_General Knowledge_sabia-3.1_detailed_vs_structured_pt,B,user-1759256521302-5inns438p
+30/09/2025 15:22:53,CG019_3_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759256521302-5inns438p
+30/09/2025 15:22:58,CG002_1_General Knowledge_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759256521302-5inns438p
+30/09/2025 15:23:01,CG011_5_General Knowledge_gpt-4o_contextual_vs_structured_pt,B,user-1759256521302-5inns438p
+30/09/2025 15:23:07,CG013_5_General Knowledge_sabia-3.1_minimum_vs_structured_pt,A,user-1759256521302-5inns438p
+30/09/2025 15:23:10,CG009_2_General Knowledge_sabia-3.1_detailed_vs_structured_pt,A,user-1759256521302-5inns438p
+30/09/2025 15:23:11,CR014_4_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759256475947-3lqur9cte
+30/09/2025 15:23:13,CG006_1_General Knowledge_gemini-1.5-pro-latest_contextual_vs_detailed_pt,A,user-1759256521302-5inns438p
+30/09/2025 15:23:18,CG015_4_General Knowledge_gpt-4o_contextual_vs_structured_pt,B,user-1759256521302-5inns438p
+30/09/2025 15:23:38,CR019_4_Creative_gpt-4o_contextual_vs_structured_pt,B,user-1759256521302-5inns438p
+30/09/2025 15:23:41,CR010_5_Creative_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759256521302-5inns438p
+30/09/2025 15:23:41,CR006_2_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,B,user-1759256521302-5inns438p
+30/09/2025 15:23:46,CR013_4_Creative_gpt-4o_minimum_vs_detailed_pt,B,user-1759256521302-5inns438p
+30/09/2025 15:23:47,CR020_4_Creative_detailed_gemini-1.5-pro-latest_vs_gpt-4o_pt,Empate,user-1759256475947-3lqur9cte
+30/09/2025 15:23:48,CR014_4_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759256521302-5inns438p
+30/09/2025 15:23:49,CR007_5_Creative_gpt-4o_minimum_vs_contextual_pt,A,user-1759256521302-5inns438p
+30/09/2025 15:23:50,CR015_3_Creative_gemini-1.5-pro-latest_contextual_vs_structured_pt,A,user-1759256521302-5inns438p
+30/09/2025 15:23:54,CR020_4_Creative_detailed_gemini-1.5-pro-latest_vs_gpt-4o_pt,A,user-1759256521302-5inns438p
+30/09/2025 15:23:57,CR018_5_Creative_sabia-3.1_minimum_vs_detailed_pt,B,user-1759256521302-5inns438p
+30/09/2025 15:23:57,CR005_3_Creative_gpt-4o_minimum_vs_structured_pt,A,user-1759256521302-5inns438p
+30/09/2025 15:24:07,CG006_1_General Knowledge_gemini-1.5-pro-latest_contextual_vs_detailed_pt,B,user-1759256503303-30y07rtyx
+30/09/2025 15:24:12,CG019_3_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759256475947-3lqur9cte
+30/09/2025 15:24:25,CR014_4_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759250067024-6ei2inpk3
+30/09/2025 15:24:33,CG015_4_General Knowledge_gpt-4o_contextual_vs_structured_pt,A,user-1759256642550-jdpd9wqtr
+30/09/2025 15:24:40,CG002_1_General Knowledge_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759256642550-jdpd9wqtr
+30/09/2025 15:24:42,CG009_2_General Knowledge_sabia-3.1_detailed_vs_structured_pt,A,user-1759256642550-jdpd9wqtr
+30/09/2025 15:24:46,CG006_1_General Knowledge_detailed_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759256642550-jdpd9wqtr
+30/09/2025 15:24:49,TC008_4_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,Empate,user-1759256475947-3lqur9cte
+30/09/2025 15:24:52,CG013_5_General Knowledge_sabia-3.1_minimum_vs_structured_pt,A,user-1759256642550-jdpd9wqtr
+30/09/2025 15:24:56,CG010_3_General Knowledge_sabia-3.1_detailed_vs_structured_pt,Empate,user-1759256642550-jdpd9wqtr
+30/09/2025 15:24:59,CG019_3_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759256642550-jdpd9wqtr
+30/09/2025 15:25:03,CG011_5_General Knowledge_gpt-4o_contextual_vs_structured_pt,B,user-1759256642550-jdpd9wqtr
+30/09/2025 15:25:18,TC011_2_Technical_gpt-4o_minimum_vs_structured_pt,A,user-1759256475947-3lqur9cte
+30/09/2025 15:25:53,CG006_1_General Knowledge_detailed_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759256475947-3lqur9cte
+30/09/2025 15:26:09,TC002_1_Technical_contextual_llama-3.3-70b-versatile_vs_sabia-3.1_pt,B,user-1759256475947-3lqur9cte
+30/09/2025 15:26:15,CG011_5_General Knowledge_gpt-4o_contextual_vs_structured_pt,A,user-1759256475947-3lqur9cte
+30/09/2025 15:26:29,TC015_5_Technical_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759256475947-3lqur9cte
+30/09/2025 15:26:45,CR007_5_Creative_gpt-4o_minimum_vs_contextual_pt,A,user-1759256503303-30y07rtyx
+30/09/2025 15:28:17,CR018_5_Creative_sabia-3.1_minimum_vs_detailed_pt,A,user-1759250067024-6ei2inpk3
+30/09/2025 15:36:10,TC002_1_Technical_gemini-1.5-pro-latest_minimum_vs_detailed_pt,B,user-1759257213865-94o4sjndz
+30/09/2025 15:36:33,CG010_3_General Knowledge_sabia-3.1_detailed_vs_structured_pt,A,user-1759257213865-94o4sjndz
+30/09/2025 15:37:44,TC005_3_Technical_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759257213865-94o4sjndz
+30/09/2025 15:37:54,CG015_4_General Knowledge_gpt-4o_contextual_vs_structured_pt,B,user-1759257213865-94o4sjndz
+30/09/2025 15:38:27,TC011_2_Technical_gpt-4o_minimum_vs_structured_pt,B,user-1759257213865-94o4sjndz
+30/09/2025 15:39:10,TC014_5_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759257213865-94o4sjndz
+30/09/2025 15:39:30,TC003_3_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A,user-1759257213865-94o4sjndz
+30/09/2025 15:40:37,CR006_2_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,A,user-1759257213865-94o4sjndz
+30/09/2025 15:40:50,TC004_5_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A,user-1759257213865-94o4sjndz
+30/09/2025 15:41:36,TC013_5_Technical_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759257213865-94o4sjndz
+30/09/2025 15:47:23,CR015_3_Creative_gemini-1.5-pro-latest_contextual_vs_structured_pt,B,user-1759250067024-6ei2inpk3
+30/09/2025 15:51:14,CR006_1_Creative_gemini-1.5-pro-latest_detailed_vs_structured_pt,B,user-1759257825371-89odqzanv
+30/09/2025 15:51:39,TC003_3_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759257825371-89odqzanv
+30/09/2025 15:51:44,CG002_5_General Knowledge_minimum_gemini-1.5-pro-latest_vs_gpt-4o_pt,Empate,user-1759257825371-89odqzanv
+30/09/2025 15:51:47,TC009_1_Technical_sabia-3.1_contextual_vs_structured_pt,B,user-1759257825371-89odqzanv
+30/09/2025 15:51:52,CR015_1_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759257825371-89odqzanv
+30/09/2025 15:51:53,CR018_5_Creative_sabia-3.1_minimum_vs_detailed_pt,A,user-1759257825371-89odqzanv
+30/09/2025 15:51:55,TC005_3_Technical_gemini-1.5-pro-latest_contextual_vs_detailed_pt,Empate,user-1759257825371-89odqzanv
+30/09/2025 15:51:55,CR014_4_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759257825371-89odqzanv
+30/09/2025 15:51:57,CG011_5_General Knowledge_gpt-4o_contextual_vs_structured_pt,B,user-1759257825371-89odqzanv
+30/09/2025 15:51:57,TC013_5_Technical_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,Empate,user-1759257825371-89odqzanv
+30/09/2025 15:59:35,CR019_4_Creative_gpt-4o_contextual_vs_structured_pt,A,user-1759250067024-6ei2inpk3
+30/09/2025 16:03:59,CR006_4_Creative_gpt-4o_contextual_vs_detailed_pt,B,user-1759258804943-js458qebb
+30/09/2025 16:04:18,TC009_1_Technical_sabia-3.1_contextual_vs_structured_pt,B,user-1759258804943-js458qebb
+30/09/2025 16:04:28,CR015_3_Creative_gemini-1.5-pro-latest_contextual_vs_structured_pt,B,user-1759258914855-w9j3nekb3
+30/09/2025 16:04:49,CR015_1_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759258804943-js458qebb
+30/09/2025 16:05:13,TC015_5_Technical_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759258804943-js458qebb
+30/09/2025 16:05:20,CR018_5_Creative_sabia-3.1_minimum_vs_detailed_pt,B,user-1759258914855-w9j3nekb3
+30/09/2025 16:05:28,CR005_3_Creative_gpt-4o_minimum_vs_structured_pt,A,user-1759258804943-js458qebb
+30/09/2025 16:05:49,TC004_5_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A,user-1759258804943-js458qebb
+30/09/2025 16:06:00,TC013_4_Technical_contextual_gemini-1.5-pro-latest_vs_gpt-4o_pt,A,user-1759258804943-js458qebb
+30/09/2025 16:06:23,CR010_5_Creative_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759258914855-w9j3nekb3
+30/09/2025 16:07:18,CR020_4_Creative_detailed_gemini-1.5-pro-latest_vs_gpt-4o_pt,A,user-1759258804943-js458qebb
+30/09/2025 16:07:53,TC014_5_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759258804943-js458qebb
+30/09/2025 16:09:22,CG002_5_General Knowledge_minimum_gemini-1.5-pro-latest_vs_gpt-4o_pt,B,user-1759258804943-js458qebb
+30/09/2025 16:13:14,CG009_2_General Knowledge_sabia-3.1_detailed_vs_structured_pt,B,user-1759259493159-sfn5i0hgn
+30/09/2025 16:14:38,CR015_3_Creative_gemini-1.5-pro-latest_contextual_vs_structured_pt,B,user-1759259472581-6yvh8redg
+30/09/2025 16:14:49,CR020_4_Creative_detailed_gemini-1.5-pro-latest_vs_gpt-4o_pt,A,user-1759250067024-6ei2inpk3
+30/09/2025 16:17:06,CR005_3_Creative_gpt-4o_minimum_vs_structured_pt,A,user-1759250067024-6ei2inpk3
+30/09/2025 16:18:30,CR005_3_Creative_gpt-4o_minimum_vs_structured_pt,A,user-1759259472581-6yvh8redg
+30/09/2025 16:18:48,CR019_4_Creative_gpt-4o_contextual_vs_structured_pt,A,user-1759259472581-6yvh8redg
+30/09/2025 16:27:51,CR013_4_Creative_gpt-4o_minimum_vs_detailed_pt,A,user-1759260266449-odnikpeb9
+30/09/2025 16:28:51,CR018_5_Creative_sabia-3.1_minimum_vs_detailed_pt,B,user-1759260266449-odnikpeb9
+30/09/2025 16:29:40,CR019_4_Creative_gpt-4o_contextual_vs_structured_pt,A,user-1759260266449-odnikpeb9
+30/09/2025 16:30:30,CR010_5_Creative_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759260266449-odnikpeb9
+30/09/2025 16:32:07,CG006_1_General Knowledge_detailed_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759260266449-odnikpeb9
+30/09/2025 16:34:55,TC015_5_Technical_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759260625231-e80cqfe7d
+30/09/2025 16:36:47,TC013_4_Technical_contextual_gemini-1.5-pro-latest_vs_gpt-4o_pt,A,user-1759260625231-e80cqfe7d
+30/09/2025 16:38:06,TC014_5_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759260625231-e80cqfe7d
+30/09/2025 16:39:22,TC002_1_Technical_contextual_llama-3.3-70b-versatile_vs_sabia-3.1_pt,A,user-1759260625231-e80cqfe7d
+30/09/2025 16:41:16,CR015_1_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759260625231-e80cqfe7d
+30/09/2025 16:43:15,CG013_5_General Knowledge_sabia-3.1_minimum_vs_structured_pt,Empate,user-1759261262304-tjn05wv0z
+30/09/2025 17:03:14,CR005_3_Creative_gpt-4o_minimum_vs_structured_pt,A,user-1759262439274-u50l4q8xw
+30/09/2025 17:05:12,CR019_4_Creative_gpt-4o_contextual_vs_structured_pt,A,user-1759262439274-u50l4q8xw
+30/09/2025 17:07:06,CR006_4_Creative_gpt-4o_contextual_vs_detailed_pt,B,user-1759262439274-u50l4q8xw
+30/09/2025 17:07:36,CR015_3_Creative_gemini-1.5-pro-latest_contextual_vs_structured_pt,B,user-1759261170051-s995rtygw
+30/09/2025 17:07:44,CR019_4_Creative_gpt-4o_contextual_vs_structured_pt,A,user-1759261170051-s995rtygw
+30/09/2025 17:08:21,CR007_5_Creative_gpt-4o_minimum_vs_contextual_pt,Empate,user-1759261170051-s995rtygw
+30/09/2025 17:08:42,CR006_1_Creative_gemini-1.5-pro-latest_detailed_vs_structured_pt,B,user-1759261170051-s995rtygw
+30/09/2025 17:08:54,CR005_3_Creative_gpt-4o_minimum_vs_structured_pt,B,user-1759261170051-s995rtygw
+30/09/2025 17:09:03,CR015_3_Creative_gemini-1.5-pro-latest_contextual_vs_structured_pt,A,user-1759262439274-u50l4q8xw
+30/09/2025 17:09:26,TC013_gpt-4o_5_Technical_detailed_en_vs_pt,B,user-1759262744663-ayakzv4ud
+30/09/2025 17:11:28,CR020_4_Creative_detailed_gemini-1.5-pro-latest_vs_gpt-4o_pt,Empate,user-1759262439274-u50l4q8xw
+30/09/2025 17:13:19,TC016_3_Technical_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_pt,B,user-1759262744663-ayakzv4ud
+30/09/2025 17:16:42,TC012_gpt-4o_1_Technical_contextual_en_vs_pt,B,user-1759262744663-ayakzv4ud
+30/09/2025 17:23:12,CR019_4_Creative_gpt-4o_contextual_vs_structured_pt,B,user-1759263297474-6jdwvma4e
+30/09/2025 17:25:00,CR018_5_Creative_sabia-3.1_minimum_vs_detailed_pt,Empate,user-1759263297474-6jdwvma4e
+30/09/2025 17:30:42,TC014_5_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759264100295-2iyok5yjl
+30/09/2025 17:31:49,TC004_5_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759264100295-2iyok5yjl
+30/09/2025 17:45:12,TC008_3_Technical_gpt-4o_contextual_vs_detailed_pt,Empate,user-1759264975901-8dkq77yxk
+30/09/2025 17:45:15,TC002_1_Technical_contextual_llama-3.3-70b-versatile_vs_sabia-3.1_pt,A,user-1759264975901-8dkq77yxk
+30/09/2025 17:45:20,TC011_2_Technical_gpt-4o_minimum_vs_structured_pt,B,user-1759264975901-8dkq77yxk
+30/09/2025 17:45:23,TC013_5_Technical_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759264975901-8dkq77yxk
+30/09/2025 17:45:27,TC009_1_Technical_sabia-3.1_contextual_vs_structured_pt,B,user-1759264975901-8dkq77yxk
+30/09/2025 18:18:24,CR019_4_Creative_gpt-4o_contextual_vs_structured_pt,A,user-1759260051038-yynf3m574
+30/09/2025 18:27:21,CR020_4_Creative_detailed_gemini-1.5-pro-latest_vs_gpt-4o_pt,A,user-1759260051038-yynf3m574
+30/09/2025 18:27:23,TC016_5_Technical_gpt-4o_minimum_vs_contextual_en,B,user-1759172933100-gj9oyyc0l
+30/09/2025 18:32:59,CG009_gemini-1.5-pro-latest_2_General Knowledge_contextual_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+30/09/2025 18:34:28,CR014_4_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759260051038-yynf3m574
+30/09/2025 18:41:52,CG002_5_General Knowledge_minimum_gemini-1.5-pro-latest_vs_gpt-4o_pt,A,user-1759260051038-yynf3m574
+30/09/2025 18:50:45,CR006_4_Creative_gpt-4o_contextual_vs_detailed_pt,A,user-1759260051038-yynf3m574
+30/09/2025 19:30:17,CR020_4_Creative_detailed_gemini-1.5-pro-latest_vs_gpt-4o_pt,B,user-1759271178611-z8g10gqhr
+30/09/2025 19:32:22,CR015_3_Creative_gemini-1.5-pro-latest_contextual_vs_structured_pt,B,user-1759271178611-z8g10gqhr
+30/09/2025 19:35:08,CR005_3_Creative_gpt-4o_minimum_vs_structured_pt,B,user-1759271178611-z8g10gqhr
+30/09/2025 19:35:57,CG006_1_General Knowledge_detailed_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759271684265-j338fduss
+30/09/2025 19:36:13,CR010_5_Creative_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759271684265-j338fduss
+30/09/2025 19:36:17,CR015_1_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759271684265-j338fduss
+30/09/2025 19:36:28,CR018_5_Creative_sabia-3.1_minimum_vs_detailed_pt,B,user-1759271684265-j338fduss
+30/09/2025 19:36:31,CR007_5_Creative_gpt-4o_minimum_vs_contextual_pt,Empate,user-1759271684265-j338fduss
+30/09/2025 19:37:19,CR006_2_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,A,user-1759271661222-t1nxu8abp
+30/09/2025 19:37:41,CR014_4_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759271178611-z8g10gqhr
+30/09/2025 19:38:31,CR005_3_Creative_gpt-4o_minimum_vs_structured_pt,B,user-1759271661222-t1nxu8abp
+30/09/2025 19:38:43,CG019_sabia-3.1_5_General Knowledge_contextual_en_vs_pt,A,user-1759262894360-b7mpqgmbl
+30/09/2025 19:39:21,CR006_1_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,A,user-1759271178611-z8g10gqhr
+30/09/2025 19:39:33,CG004_sabia-3.1_5_General Knowledge_detailed_en_vs_pt,A,user-1759262894360-b7mpqgmbl
+30/09/2025 19:39:36,CR010_5_Creative_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759271661222-t1nxu8abp
+30/09/2025 19:40:12,CR006_1_Creative_gemini-1.5-pro-latest_detailed_vs_structured_pt,B,user-1759271937453-7068k6lgf
+30/09/2025 19:40:47,CR010_5_Creative_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759271937453-7068k6lgf
+30/09/2025 19:41:10,CR007_5_Creative_gpt-4o_minimum_vs_contextual_pt,B,user-1759271937453-7068k6lgf
+30/09/2025 19:41:22,CR020_4_Creative_detailed_gemini-1.5-pro-latest_vs_gpt-4o_pt,B,user-1759271937453-7068k6lgf
+30/09/2025 19:41:25,CR015_1_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759271661222-t1nxu8abp
+30/09/2025 19:41:32,CR005_3_Creative_gpt-4o_minimum_vs_structured_pt,B,user-1759271937453-7068k6lgf
+30/09/2025 19:42:30,CR020_1_Creative_minimum_gemini-1.5-pro-latest_vs_gpt-4o_en,A,user-1759262894360-b7mpqgmbl
+30/09/2025 19:43:34,TC012_gpt-4o_1_Technical_contextual_en_vs_pt,B,user-1759262894360-b7mpqgmbl
+30/09/2025 19:44:06,TC005_3_Technical_gemini-1.5-pro-latest_contextual_vs_detailed_pt,B,user-1759272099995-w2r1yifqq
+30/09/2025 19:44:07,CR014_4_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759271661222-t1nxu8abp
+30/09/2025 19:44:18,TC015_sabia-3.1_2_Technical_structured_en_vs_pt,B,user-1759262894360-b7mpqgmbl
+30/09/2025 19:45:32,TC016_3_Technical_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_pt,A,user-1759272275531-v2h3ndjfp
+30/09/2025 19:45:42,TC005_2_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_pt,A,user-1759272275531-v2h3ndjfp
+30/09/2025 19:46:05,TC014_5_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759272275531-v2h3ndjfp
+30/09/2025 19:46:09,CR015_1_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759272099995-w2r1yifqq
+30/09/2025 19:46:17,TC008_3_Technical_gpt-4o_contextual_vs_detailed_pt,B,user-1759272275531-v2h3ndjfp
+30/09/2025 19:46:23,TC004_5_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759272275531-v2h3ndjfp
+30/09/2025 19:46:32,TC005_3_Technical_gemini-1.5-pro-latest_contextual_vs_detailed_pt,B,user-1759272275531-v2h3ndjfp
+30/09/2025 19:46:38,TC015_5_Technical_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759272275531-v2h3ndjfp
+30/09/2025 19:46:41,TC009_1_Technical_llama-3.3-70b-versatile_minimum_vs_contextual_pt,B,user-1759272275531-v2h3ndjfp
+30/09/2025 19:46:44,TC008_4_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759272275531-v2h3ndjfp
+30/09/2025 19:46:51,TC013_4_Technical_contextual_gemini-1.5-pro-latest_vs_gpt-4o_pt,A,user-1759272275531-v2h3ndjfp
+30/09/2025 19:46:54,TC015_5_Technical_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759272099995-w2r1yifqq
+30/09/2025 19:47:40,CG006_4_General Knowledge_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,Empate,user-1759272099995-w2r1yifqq
+30/09/2025 19:48:10,TC006_5_Technical_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759272099995-w2r1yifqq
+30/09/2025 19:53:48,CG013_5_General Knowledge_sabia-3.1_minimum_vs_structured_pt,B,user-1759272803987-onsz45e1u
+30/09/2025 20:02:32,CG002_1_General Knowledge_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759172933100-gj9oyyc0l
+30/09/2025 20:03:17,CR006_2_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,B,user-1759273239005-wsyiev3t2
+30/09/2025 20:12:27,TC016_3_Technical_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_pt,B,user-1759172933100-gj9oyyc0l
+30/09/2025 20:14:49,CR015_3_Creative_gemini-1.5-pro-latest_contextual_vs_structured_pt,B,user-1759273960189-l7ko54602
+30/09/2025 20:15:01,CR010_5_Creative_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759273960189-l7ko54602
+30/09/2025 20:15:07,CR019_4_Creative_gpt-4o_contextual_vs_structured_pt,A,user-1759273960189-l7ko54602
+30/09/2025 20:15:22,CR018_5_Creative_sabia-3.1_minimum_vs_detailed_pt,Empate,user-1759273960189-l7ko54602
+30/09/2025 20:15:52,CG006_1_General Knowledge_gemini-1.5-pro-latest_contextual_vs_detailed_pt,Empate,user-1759273960189-l7ko54602
+30/09/2025 20:27:35,CG006_4_General Knowledge_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759172933100-gj9oyyc0l
+30/09/2025 20:32:19,CG019_3_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759172933100-gj9oyyc0l
+30/09/2025 20:38:48,TC009_1_Technical_sabia-3.1_contextual_vs_structured_pt,A,user-1759275477705-fmaz32a3e
+30/09/2025 20:39:16,TC008_4_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759275477705-fmaz32a3e
+30/09/2025 20:39:37,TC013_5_Technical_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759275477705-fmaz32a3e
+30/09/2025 20:39:48,TC015_5_Technical_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759275477705-fmaz32a3e
+30/09/2025 20:40:28,TC014_5_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A,user-1759275477705-fmaz32a3e
+30/09/2025 20:54:11,TC005_3_Technical_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759276335609-it6iso7tq
+30/09/2025 20:54:59,TC007_5_Technical_structured_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759276335609-it6iso7tq
+30/09/2025 20:56:14,CG006_4_General Knowledge_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759276335609-it6iso7tq
+30/09/2025 20:58:53,TC013_5_Technical_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759276335609-it6iso7tq
+30/09/2025 20:58:58,TC008_3_Technical_gpt-4o_contextual_vs_detailed_pt,A,user-1759276335609-it6iso7tq
+30/09/2025 21:17:35,CG009_2_General Knowledge_sabia-3.1_detailed_vs_structured_pt,B,user-1759277722918-tlwo6h8hx
+30/09/2025 21:19:55,CR013_4_Creative_gpt-4o_minimum_vs_detailed_pt,B,user-1759277722918-tlwo6h8hx
+30/09/2025 21:20:44,CR006_4_Creative_gpt-4o_contextual_vs_detailed_pt,B,user-1759277722918-tlwo6h8hx
+30/09/2025 21:21:13,CG010_3_General Knowledge_sabia-3.1_detailed_vs_structured_pt,A,user-1759277722918-tlwo6h8hx
+30/09/2025 21:25:22,TC011_2_Technical_gpt-4o_minimum_vs_structured_pt,B,user-1759278222950-leq73dcl2
+30/09/2025 21:25:45,TC009_1_Technical_sabia-3.1_contextual_vs_structured_pt,B,user-1759278222950-leq73dcl2
+30/09/2025 21:25:59,TC013_4_Technical_contextual_gemini-1.5-pro-latest_vs_gpt-4o_pt,B,user-1759278222950-leq73dcl2
+30/09/2025 21:26:43,TC002_1_Technical_contextual_llama-3.3-70b-versatile_vs_sabia-3.1_pt,A,user-1759278222950-leq73dcl2
+30/09/2025 21:27:50,TC016_3_Technical_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_pt,A,user-1759278222950-leq73dcl2
+30/09/2025 22:10:50,TC007_4_Technical_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_en,B,user-1759258736600-v264fdqtf
+30/09/2025 22:11:20,TC019_5_Technical_sabia-3.1_contextual_vs_structured_en,A,user-1759258736600-v264fdqtf
+30/09/2025 22:13:51,TC010_2_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B,user-1759258736600-v264fdqtf
+30/09/2025 22:14:02,CG019_1_General Knowledge_sabia-3.1_contextual_vs_structured_en,A,user-1759258736600-v264fdqtf
+30/09/2025 22:14:10,CG015_1_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,Empate,user-1759258736600-v264fdqtf
+30/09/2025 22:15:10,CG006_gpt-4o_3_General Knowledge_contextual_en_vs_pt,Empate,user-1759258736600-v264fdqtf
+30/09/2025 22:15:23,TC005_2_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_pt,Empate,user-1759258736600-v264fdqtf
+30/09/2025 22:15:37,CG004_gemini-1.5-pro-latest_4_General Knowledge_minimum_en_vs_pt,Empate,user-1759258736600-v264fdqtf
+30/09/2025 22:15:40,CG003_2_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,Empate,user-1759258736600-v264fdqtf
+30/09/2025 22:15:49,CG013_1_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,B,user-1759258736600-v264fdqtf
+30/09/2025 22:49:25,TC013_1_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B,user-1759283225790-ydw5b7cm7
+30/09/2025 22:50:19,CG009_gemini-1.5-pro-latest_2_General Knowledge_contextual_en_vs_pt,B,user-1759283225790-ydw5b7cm7
+30/09/2025 22:52:02,CG002_llama-3.3-70b-versatile_5_General Knowledge_detailed_en_vs_pt,A,user-1759283225790-ydw5b7cm7
+30/09/2025 22:53:18,TC019_gemini-1.5-pro-latest_3_Technical_minimum_en_vs_pt,A,user-1759283225790-ydw5b7cm7
+30/09/2025 22:55:16,CG016_gemini-1.5-pro-latest_1_General Knowledge_minimum_en_vs_pt,B,user-1759283225790-ydw5b7cm7
+30/09/2025 22:57:19,TC006_5_Technical_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A,user-1759283689816-eupfpit7k
+30/09/2025 22:58:27,TC005_3_Technical_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759283689816-eupfpit7k
+30/09/2025 22:59:14,TC002_1_Technical_gemini-1.5-pro-latest_minimum_vs_detailed_pt,A,user-1759283689816-eupfpit7k
+30/09/2025 23:00:05,TC008_3_Technical_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759283689816-eupfpit7k
+30/09/2025 23:00:45,TC009_1_Technical_llama-3.3-70b-versatile_minimum_vs_contextual_pt,B,user-1759283689816-eupfpit7k
+30/09/2025 23:37:04,TC002_1_Technical_gemini-1.5-pro-latest_minimum_vs_detailed_pt,B,user-1759286192755-mgme77a4z
+30/09/2025 23:37:11,TC008_3_Technical_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759286192755-mgme77a4z
+30/09/2025 23:37:14,TC007_5_Technical_structured_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A,user-1759286192755-mgme77a4z
+30/09/2025 23:37:17,TC006_5_Technical_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A,user-1759286192755-mgme77a4z
+30/09/2025 23:37:18,TC009_1_Technical_llama-3.3-70b-versatile_minimum_vs_contextual_pt,Empate,user-1759286192755-mgme77a4z
+01/10/2025 04:16:40,CR006_1_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,B,user-1759302905974-oma5dv1ny
+01/10/2025 04:17:29,TC006_5_Technical_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,Empate,user-1759302905974-oma5dv1ny
+01/10/2025 04:17:45,TC008_3_Technical_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759302905974-oma5dv1ny
+01/10/2025 04:17:48,TC005_3_Technical_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,B,user-1759302905974-oma5dv1ny
+01/10/2025 04:17:53,TC009_1_Technical_llama-3.3-70b-versatile_minimum_vs_contextual_pt,B,user-1759302905974-oma5dv1ny
+01/10/2025 08:50:07,CR006_1_Creative_gemini-1.5-pro-latest_detailed_vs_structured_pt,Empate,user-1759319319356-fclaxb5r2
+01/10/2025 08:50:24,CR013_4_Creative_gpt-4o_minimum_vs_detailed_pt,Empate,user-1759319319356-fclaxb5r2
+01/10/2025 08:50:59,CR006_2_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,A,user-1759319319356-fclaxb5r2
+01/10/2025 08:51:22,CR006_1_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,B,user-1759319319356-fclaxb5r2
+01/10/2025 09:04:16,TC003_3_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A,user-1759320177882-3as01okhp
+01/10/2025 09:05:25,TC005_2_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_pt,A,user-1759320177882-3as01okhp
+01/10/2025 09:17:08,TC006_5_Technical_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759320188010-dtdx2lsa3
+01/10/2025 09:17:57,TC009_1_Technical_llama-3.3-70b-versatile_minimum_vs_contextual_pt,Empate,user-1759320188010-dtdx2lsa3
+01/10/2025 09:18:14,CR003_4_Creative_minimum_gemini-1.5-pro-latest_vs_gpt-4o_en,B,user-1759320844552-lwz7imlim
+01/10/2025 09:19:18,CR015_4_Creative_llama-3.3-70b-versatile_contextual_vs_structured_en,A,user-1759320844552-lwz7imlim
+01/10/2025 09:19:20,TC003_3_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A,user-1759320188010-dtdx2lsa3
+01/10/2025 09:21:05,TC002_1_Technical_gemini-1.5-pro-latest_minimum_vs_detailed_pt,Empate,user-1759320188010-dtdx2lsa3
+01/10/2025 09:21:22,TC008_4_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,B,user-1759320188010-dtdx2lsa3
+01/10/2025 09:22:21,TC002_1_Technical_contextual_llama-3.3-70b-versatile_vs_sabia-3.1_pt,B,user-1759320177882-3as01okhp
+01/10/2025 09:22:33,TC008_3_Technical_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,A,user-1759320177882-3as01okhp
+01/10/2025 09:22:49,TC006_5_Technical_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A,user-1759320177882-3as01okhp
+01/10/2025 10:34:48,CR013_3_Creative_contextual_gpt-4o_vs_sabia-3.1_en,B,user-1759172933100-gj9oyyc0l
+01/10/2025 10:41:26,CG002_3_General Knowledge_sabia-3.1_detailed_vs_structured_en,A,user-1759172933100-gj9oyyc0l
+01/10/2025 10:43:42,TC019_2_Technical_gpt-4o_minimum_vs_contextual_en,B,user-1759172933100-gj9oyyc0l
+01/10/2025 10:45:54,TC005_5_Technical_detailed_gemini-1.5-pro-latest_vs_sabia-3.1_en,B,user-1759172933100-gj9oyyc0l
+01/10/2025 10:47:29,TC007_5_Technical_structured_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B,user-1759172933100-gj9oyyc0l
+01/10/2025 23:40:26,TC010_2_Technical_gpt-4o_minimum_vs_structured_en,A,user-1759372706220-km5jbmkc8
+01/10/2025 23:41:08,TC016_5_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B,user-1759372706220-km5jbmkc8
+01/10/2025 23:41:40,TC008_gemini-1.5-pro-latest_5_Technical_detailed_en_vs_pt,A,user-1759372706220-km5jbmkc8
+01/10/2025 23:41:58,TC011_gemini-1.5-pro-latest_3_Technical_contextual_en_vs_pt,A,user-1759372706220-km5jbmkc8
+01/10/2025 23:42:15,TC012_gemini-1.5-pro-latest_5_Technical_contextual_en_vs_pt,A,user-1759372706220-km5jbmkc8
+02/10/2025 04:37:25,CG013_2_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,A,user-1759390520426-qzuptzqxk
+02/10/2025 10:46:30,CR003_4_Creative_minimum_gemini-1.5-pro-latest_vs_gpt-4o_en,B,user-1759320500017-jq8tk1c2s
+02/10/2025 10:46:41,CR015_4_Creative_llama-3.3-70b-versatile_contextual_vs_structured_en,B,user-1759320500017-jq8tk1c2s
+02/10/2025 10:48:23,CR009_llama-3.3-70b-versatile_2_Creative_detailed_en_vs_pt,B,user-1759320500017-jq8tk1c2s
+02/10/2025 10:49:16,CR011_3_Creative_gemini-1.5-pro-latest_minimum_vs_structured_en,B,user-1759320500017-jq8tk1c2s
+02/10/2025 10:50:10,CR001_gemini-1.5-pro-latest_5_Creative_contextual_en_vs_pt,A,user-1759320500017-jq8tk1c2s
+02/10/2025 13:01:21,CG017_1_General Knowledge_structured_gemini-1.5-pro-latest_vs_gpt-4o_en,A,user-1759420826539-eo1fxth6b
+02/10/2025 13:01:48,CR004_gpt-4o_4_Creative_structured_en_vs_pt,B,user-1759420826539-eo1fxth6b
+02/10/2025 13:02:08,CG009_gemini-1.5-pro-latest_2_General Knowledge_contextual_en_vs_pt,B,user-1759420826539-eo1fxth6b
+02/10/2025 13:02:36,CG006_gpt-4o_3_General Knowledge_contextual_en_vs_pt,A,user-1759420826539-eo1fxth6b
+02/10/2025 13:02:52,CG004_3_General Knowledge_gemini-1.5-pro-latest_contextual_vs_structured_en,B,user-1759420826539-eo1fxth6b
+02/10/2025 18:53:15,CG009_2_General Knowledge_gemini-1.5-pro-latest_minimum_vs_contextual_en,B,user-1759441960857-9o3bawbfc
+02/10/2025 18:53:19,CG017_1_General Knowledge_structured_gemini-1.5-pro-latest_vs_gpt-4o_en,A,user-1759441960857-9o3bawbfc
+02/10/2025 18:53:22,CG013_5_General Knowledge_llama-3.3-70b-versatile_contextual_vs_structured_en,A,user-1759441960857-9o3bawbfc
+02/10/2025 18:53:24,CG002_2_General Knowledge_sabia-3.1_contextual_vs_structured_en,B,user-1759441960857-9o3bawbfc
+02/10/2025 18:53:27,CG011_gemini-1.5-pro-latest_3_General Knowledge_detailed_en_vs_pt,A,user-1759441960857-9o3bawbfc
+02/10/2025 18:53:34,CG004_gemini-1.5-pro-latest_4_General Knowledge_minimum_en_vs_pt,B,user-1759441960857-9o3bawbfc
+02/10/2025 18:53:37,CG013_llama-3.3-70b-versatile_1_General Knowledge_detailed_en_vs_pt,A,user-1759441960857-9o3bawbfc
+02/10/2025 18:53:39,CG012_gemini-1.5-pro-latest_4_General Knowledge_structured_en_vs_pt,B,user-1759441960857-9o3bawbfc
+02/10/2025 18:53:42,CG009_3_General Knowledge_minimum_gpt-4o_vs_llama-3.3-70b-versatile_en,A,user-1759441960857-9o3bawbfc
+02/10/2025 18:53:46,CG002_3_General Knowledge_sabia-3.1_detailed_vs_structured_en,A,user-1759441960857-9o3bawbfc
+02/10/2025 19:03:23,CG016_gemini-1.5-pro-latest_1_General Knowledge_minimum_en_vs_pt,B,user-1759442572269-a6dspm3xc
+02/10/2025 19:03:29,CG005_llama-3.3-70b-versatile_4_General Knowledge_detailed_en_vs_pt,A,user-1759442572269-a6dspm3xc
+02/10/2025 19:03:32,CG012_1_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,A,user-1759442572269-a6dspm3xc
+02/10/2025 19:03:35,CG013_llama-3.3-70b-versatile_1_General Knowledge_detailed_en_vs_pt,Empate,user-1759442572269-a6dspm3xc
+02/10/2025 19:03:40,CG007_3_General Knowledge_gemini-1.5-pro-latest_minimum_vs_contextual_en,B,user-1759442572269-a6dspm3xc
+02/10/2025 20:09:29,CR013_sabia-3.1_1_Creative_structured_en_vs_pt,B,user-1759273239005-wsyiev3t2
+02/10/2025 20:15:42,CR009_llama-3.3-70b-versatile_2_Creative_detailed_en_vs_pt,B,user-1759273239005-wsyiev3t2
+02/10/2025 20:16:53,CR011_5_Creative_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_en,A,user-1759273239005-wsyiev3t2
+02/10/2025 20:17:19,CR005_4_Creative_gpt-4o_detailed_vs_structured_en,B,user-1759273239005-wsyiev3t2
+02/10/2025 20:17:36,CR020_llama-3.3-70b-versatile_4_Creative_contextual_en_vs_pt,A,user-1759273239005-wsyiev3t2
+02/10/2025 20:17:51,CR015_1_Creative_gpt-4o_minimum_vs_structured_en,A,user-1759273239005-wsyiev3t2
+02/10/2025 20:17:58,CR011_gemini-1.5-pro-latest_1_Creative_minimum_en_vs_pt,A,user-1759273239005-wsyiev3t2
+02/10/2025 20:18:04,CR009_1_Creative_gpt-4o_contextual_vs_structured_en,B,user-1759273239005-wsyiev3t2
+02/10/2025 20:18:12,CR020_4_Creative_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_en,B,user-1759273239005-wsyiev3t2
+02/10/2025 20:18:19,CR013_gemini-1.5-pro-latest_4_Creative_structured_en_vs_pt,A,user-1759273239005-wsyiev3t2
+02/10/2025 20:20:33,CG013_1_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,B,user-1759273239005-wsyiev3t2
+02/10/2025 20:22:37,CG014_4_General Knowledge_structured_gpt-4o_vs_sabia-3.1_en,B,user-1759273239005-wsyiev3t2
+02/10/2025 20:24:23,CG004_3_General Knowledge_gemini-1.5-pro-latest_contextual_vs_structured_en,A,user-1759273239005-wsyiev3t2
+02/10/2025 20:25:03,CG017_5_General Knowledge_structured_gemini-1.5-pro-latest_vs_gpt-4o_en,A,user-1759273239005-wsyiev3t2
+02/10/2025 20:25:34,CG012_1_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,B,user-1759273239005-wsyiev3t2
+02/10/2025 21:19:09,TC012_gpt-4o_5_Technical_contextual_en_vs_pt,Empate,user-1759450639702-qmpdanyh7
+02/10/2025 22:35:02,CR015_1_Creative_gpt-4o_minimum_vs_structured_en,B,user-1759455172358-ywqc3o0u3
+02/10/2025 22:35:25,CG009_3_General Knowledge_minimum_gpt-4o_vs_llama-3.3-70b-versatile_en,A,user-1759455172358-ywqc3o0u3
+02/10/2025 22:35:37,CG011_gemini-1.5-pro-latest_3_General Knowledge_detailed_en_vs_pt,A,user-1759455172358-ywqc3o0u3
+02/10/2025 22:35:48,CG005_sabia-3.1_3_General Knowledge_detailed_en_vs_pt,A,user-1759455172358-ywqc3o0u3
+02/10/2025 22:35:52,CR014_llama-3.3-70b-versatile_5_Creative_structured_en_vs_pt,B,user-1759455172358-ywqc3o0u3
+03/10/2025 10:43:57,CG006_gpt-4o_3_General Knowledge_contextual_en_vs_pt,A,user-1759498937529-dhvk8bf6e
+03/10/2025 10:44:25,CG008_2_General Knowledge_gpt-4o_contextual_vs_structured_en,A,user-1759498940559-rcd8gtiy0
+03/10/2025 10:44:57,CR013_3_Creative_contextual_gpt-4o_vs_sabia-3.1_en,Empate,user-1759498940559-rcd8gtiy0
+03/10/2025 10:46:02,CG002_gpt-4o_3_General Knowledge_detailed_en_vs_pt,B,user-1759498937529-dhvk8bf6e
+03/10/2025 10:46:32,CR004_gpt-4o_4_Creative_structured_en_vs_pt,A,user-1759498940559-rcd8gtiy0
+03/10/2025 10:47:15,CG013_1_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,B,user-1759498937529-dhvk8bf6e
+03/10/2025 10:48:04,CG019_sabia-3.1_5_General Knowledge_contextual_en_vs_pt,A,user-1759498937529-dhvk8bf6e
+03/10/2025 10:48:28,CG012_1_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,B,user-1759498940559-rcd8gtiy0
+03/10/2025 10:49:04,CG012_1_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,Empate,user-1759498937529-dhvk8bf6e
+03/10/2025 10:50:03,CR020_4_Creative_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_en,B,user-1759498940559-rcd8gtiy0
+03/10/2025 11:01:30,TC008_gemini-1.5-pro-latest_5_Technical_detailed_en_vs_pt,A,user-1759257213865-94o4sjndz
+03/10/2025 11:01:45,CG011_gemini-1.5-pro-latest_3_General Knowledge_detailed_en_vs_pt,B,user-1759264975901-8dkq77yxk
+03/10/2025 11:01:47,CG002_2_General Knowledge_sabia-3.1_contextual_vs_structured_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:01:48,CG004_3_General Knowledge_gemini-1.5-pro-latest_contextual_vs_structured_en,B,user-1759264975901-8dkq77yxk
+03/10/2025 11:01:51,CG015_llama-3.3-70b-versatile_3_General Knowledge_minimum_en_vs_pt,A,user-1759264975901-8dkq77yxk
+03/10/2025 11:01:54,CG006_3_General Knowledge_gemini-1.5-pro-latest_detailed_vs_structured_en,A,user-1759264975901-8dkq77yxk
+03/10/2025 11:01:58,CG002_2_General Knowledge_sabia-3.1_contextual_vs_structured_en,A,user-1759264975901-8dkq77yxk
+03/10/2025 11:02:03,CG008_2_General Knowledge_gpt-4o_contextual_vs_structured_en,A,user-1759264975901-8dkq77yxk
+03/10/2025 11:02:08,CG009_3_General Knowledge_minimum_gpt-4o_vs_llama-3.3-70b-versatile_en,B,user-1759264975901-8dkq77yxk
+03/10/2025 11:02:32,CG016_gemini-1.5-pro-latest_1_General Knowledge_minimum_en_vs_pt,B,user-1759257213865-94o4sjndz
+03/10/2025 11:02:41,TC009_3_Technical_gpt-4o_contextual_vs_structured_en,A,user-1759257213865-94o4sjndz
+03/10/2025 11:03:13,TC016_5_Technical_gpt-4o_minimum_vs_contextual_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:04:06,CG017_1_General Knowledge_structured_gemini-1.5-pro-latest_vs_gpt-4o_en,A,user-1759257213865-94o4sjndz
+03/10/2025 11:04:46,CG013_5_General Knowledge_llama-3.3-70b-versatile_contextual_vs_structured_en,A,user-1759257213865-94o4sjndz
+03/10/2025 11:05:32,CR016_gemini-1.5-pro-latest_4_Creative_contextual_en_vs_pt,A,user-1759257213865-94o4sjndz
+03/10/2025 11:05:50,CG003_sabia-3.1_3_General Knowledge_detailed_en_vs_pt,Empate,user-1759500290093-qfmun3kqs
+03/10/2025 11:05:53,CG008_2_General Knowledge_llama-3.3-70b-versatile_contextual_vs_structured_en,B,user-1759500290093-qfmun3kqs
+03/10/2025 11:05:56,CG014_4_General Knowledge_structured_gpt-4o_vs_sabia-3.1_en,Empate,user-1759500290093-qfmun3kqs
+03/10/2025 11:05:56,CG005_llama-3.3-70b-versatile_4_General Knowledge_detailed_en_vs_pt,A,user-1759500290093-qfmun3kqs
+03/10/2025 11:05:59,CG004_gemini-1.5-pro-latest_4_General Knowledge_minimum_en_vs_pt,B,user-1759500290093-qfmun3kqs
+03/10/2025 11:06:03,CG009_3_General Knowledge_minimum_gpt-4o_vs_llama-3.3-70b-versatile_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:06:06,CG015_gemini-1.5-pro-latest_3_General Knowledge_contextual_en_vs_pt,A,user-1759500290093-qfmun3kqs
+03/10/2025 11:06:06,CG002_llama-3.3-70b-versatile_5_General Knowledge_detailed_en_vs_pt,B,user-1759500290093-qfmun3kqs
+03/10/2025 11:06:09,CG007_3_General Knowledge_gemini-1.5-pro-latest_minimum_vs_contextual_en,Empate,user-1759500290093-qfmun3kqs
+03/10/2025 11:06:11,CG005_sabia-3.1_3_General Knowledge_detailed_en_vs_pt,B,user-1759500290093-qfmun3kqs
+03/10/2025 11:06:11,CG012_2_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,A,user-1759500290093-qfmun3kqs
+03/10/2025 11:06:41,TC016_gpt-4o_4_Technical_detailed_en_vs_pt,A,user-1759257213865-94o4sjndz
+03/10/2025 11:07:20,CR011_gemini-1.5-pro-latest_1_Creative_minimum_en_vs_pt,B,user-1759257213865-94o4sjndz
+03/10/2025 11:07:28,CR005_4_Creative_gpt-4o_detailed_vs_structured_en,B,user-1759286710241-31ca2xb26
+03/10/2025 11:07:34,TC016_5_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:07:57,CR020_4_Creative_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:08:17,CG014_gemini-1.5-pro-latest_3_General Knowledge_detailed_en_vs_pt,Empate,user-1759257213865-94o4sjndz
+03/10/2025 11:08:33,TC001_1_Technical_sabia-3.1_detailed_vs_structured_en,A,user-1759257213865-94o4sjndz
+03/10/2025 11:09:08,CG002_gpt-4o_3_General Knowledge_detailed_en_vs_pt,B,user-1759257213865-94o4sjndz
+03/10/2025 11:09:26,CR006_4_Creative_gpt-4o_detailed_vs_structured_en,A,user-1759257213865-94o4sjndz
+03/10/2025 11:10:00,CG019_2_General Knowledge_detailed_gpt-4o_vs_llama-3.3-70b-versatile_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:10:22,CR011_2_Creative_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_en,B,user-1759286710241-31ca2xb26
+03/10/2025 11:10:54,CR003_gpt-4o_2_Creative_minimum_en_vs_pt,B,user-1759257213865-94o4sjndz
+03/10/2025 11:11:08,CR015_1_Creative_gpt-4o_minimum_vs_structured_en,A,user-1759257213865-94o4sjndz
+03/10/2025 11:11:36,CR011_1_Creative_gemini-1.5-pro-latest_contextual_vs_detailed_en,A,user-1759257213865-94o4sjndz
+03/10/2025 11:11:42,TC010_2_Technical_gpt-4o_minimum_vs_structured_en,A,user-1759257213865-94o4sjndz
+03/10/2025 11:11:56,TC013_gemini-1.5-pro-latest_2_Technical_detailed_en_vs_pt,B,user-1759257213865-94o4sjndz
+03/10/2025 11:12:14,CG014_4_General Knowledge_structured_gpt-4o_vs_sabia-3.1_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:12:38,CR017_gemini-1.5-pro-latest_1_Creative_structured_en_vs_pt,B,user-1759257213865-94o4sjndz
+03/10/2025 11:13:24,CR017_3_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:13:34,TC019_2_Technical_gpt-4o_minimum_vs_contextual_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:13:55,CG019_1_General Knowledge_sabia-3.1_contextual_vs_structured_en,A,user-1759257213865-94o4sjndz
+03/10/2025 11:14:16,TC012_gemini-1.5-pro-latest_5_Technical_contextual_en_vs_pt,A,user-1759257213865-94o4sjndz
+03/10/2025 11:14:23,TC013_gemini-1.5-pro-latest_2_Technical_minimum_en_vs_pt,B,user-1759257213865-94o4sjndz
+03/10/2025 11:14:36,TC010_2_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B,user-1759286710241-31ca2xb26
+03/10/2025 11:19:05,TC019_gemini-1.5-pro-latest_3_Technical_minimum_en_vs_pt,A,user-1759257213865-94o4sjndz
+03/10/2025 11:19:12,CG019_sabia-3.1_5_General Knowledge_contextual_en_vs_pt,A,user-1759257213865-94o4sjndz
+03/10/2025 11:19:17,CR015_4_Creative_llama-3.3-70b-versatile_contextual_vs_structured_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:19:27,TC010_2_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:19:30,CG013_2_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:19:37,TC013_gpt-4o_5_Technical_detailed_en_vs_pt,B,user-1759257213865-94o4sjndz
+03/10/2025 11:20:06,CR011_1_Creative_sabia-3.1_minimum_vs_structured_en,A,user-1759257213865-94o4sjndz
+03/10/2025 11:20:15,CG013_llama-3.3-70b-versatile_1_General Knowledge_detailed_en_vs_pt,B,user-1759257213865-94o4sjndz
+03/10/2025 11:20:30,TC015_llama-3.3-70b-versatile_4_Technical_structured_en_vs_pt,B,user-1759257213865-94o4sjndz
+03/10/2025 11:20:47,CR003_gpt-4o_2_Creative_minimum_en_vs_pt,B,user-1759501144801-nhdmx897b
+03/10/2025 11:20:49,CR019_2_Creative_llama-3.3-70b-versatile_minimum_vs_structured_en,B,user-1759257213865-94o4sjndz
+03/10/2025 11:20:59,CR020_llama-3.3-70b-versatile_4_Creative_contextual_en_vs_pt,B,user-1759257213865-94o4sjndz
+03/10/2025 11:21:11,CR004_gpt-4o_4_Creative_structured_en_vs_pt,B,user-1759501144801-nhdmx897b
+03/10/2025 11:22:00,CR008_gemini-1.5-pro-latest_5_Creative_minimum_en_vs_pt,B,user-1759501144801-nhdmx897b
+03/10/2025 11:22:16,CR011_5_Creative_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_en,A,user-1759501144801-nhdmx897b
+03/10/2025 11:22:28,CR020_1_Creative_minimum_gemini-1.5-pro-latest_vs_gpt-4o_en,A,user-1759501144801-nhdmx897b
+03/10/2025 11:23:50,TC012_gpt-4o_1_Technical_contextual_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:24:34,TC013_gpt-4o_5_Technical_detailed_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:25:18,TC015_sabia-3.1_2_Technical_structured_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:26:52,TC014_gemini-1.5-pro-latest_1_Technical_contextual_en_vs_pt,A,user-1759172933100-gj9oyyc0l
+03/10/2025 11:27:20,TC016_gpt-4o_4_Technical_detailed_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 11:28:22,TC010_2_Technical_gpt-4o_minimum_vs_structured_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 11:28:43,TC019_5_Technical_sabia-3.1_contextual_vs_structured_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 11:31:51,TC009_3_Technical_gpt-4o_contextual_vs_structured_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 11:32:40,TC007_4_Technical_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 11:34:27,TC013_1_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:37:44,TC011_gemini-1.5-pro-latest_3_Technical_contextual_en_vs_pt,A,user-1759172933100-gj9oyyc0l
+03/10/2025 11:39:04,TC015_2_Technical_gemini-1.5-pro-latest_minimum_vs_contextual_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:40:27,TC016_5_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:40:43,TC009_llama-3.3-70b-versatile_4_Technical_structured_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:41:04,TC012_gpt-4o_5_Technical_contextual_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:43:11,TC014_gemini-1.5-pro-latest_1_Technical_contextual_en_vs_pt,A,user-1759172933100-gj9oyyc0l
+03/10/2025 11:43:33,TC015_sabia-3.1_2_Technical_structured_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:44:03,TC012_gemini-1.5-pro-latest_5_Technical_contextual_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:44:07,TC005_5_Technical_detailed_gemini-1.5-pro-latest_vs_sabia-3.1_en,B,user-1759499959336-mi68kj5zy
+03/10/2025 11:44:30,TC019_gemini-1.5-pro-latest_3_Technical_minimum_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:44:39,TC012_gpt-4o_5_Technical_contextual_en_vs_pt,B,user-1759499959336-mi68kj5zy
+03/10/2025 11:44:53,TC013_1_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B,user-1759499959336-mi68kj5zy
+03/10/2025 11:45:07,TC015_2_Technical_gemini-1.5-pro-latest_minimum_vs_contextual_en,B,user-1759499959336-mi68kj5zy
+03/10/2025 11:45:10,TC008_gemini-1.5-pro-latest_5_Technical_detailed_en_vs_pt,B,user-1759499959336-mi68kj5zy
+03/10/2025 11:45:29,TC016_gpt-4o_4_Technical_detailed_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 11:45:54,TC009_llama-3.3-70b-versatile_5_Technical_contextual_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:46:03,TC015_llama-3.3-70b-versatile_4_Technical_structured_en_vs_pt,A,user-1759172933100-gj9oyyc0l
+03/10/2025 11:46:59,TC013_gemini-1.5-pro-latest_2_Technical_minimum_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 11:47:25,TC001_1_Technical_sabia-3.1_detailed_vs_structured_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 11:47:53,TC008_gemini-1.5-pro-latest_5_Technical_detailed_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 11:53:39,TC013_gemini-1.5-pro-latest_2_Technical_detailed_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 13:32:42,CG009_2_General Knowledge_gemini-1.5-pro-latest_minimum_vs_contextual_en,A,user-1759509039569-oteq4wfga
+03/10/2025 13:33:25,CG013_5_General Knowledge_llama-3.3-70b-versatile_contextual_vs_structured_en,B,user-1759509039569-oteq4wfga
+03/10/2025 13:33:46,TC013_gemini-1.5-pro-latest_2_Technical_minimum_en_vs_pt,B,user-1759509039569-oteq4wfga
+03/10/2025 13:34:12,TC014_gemini-1.5-pro-latest_1_Technical_contextual_en_vs_pt,A,user-1759509039569-oteq4wfga
+03/10/2025 13:35:11,CG003_sabia-3.1_3_General Knowledge_detailed_en_vs_pt,Empate,user-1759509039569-oteq4wfga
+03/10/2025 15:59:56,CG009_2_General Knowledge_gemini-1.5-pro-latest_minimum_vs_contextual_en,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 16:00:45,CG013_2_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:01:33,CG005_llama-3.3-70b-versatile_4_General Knowledge_detailed_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 16:01:47,CG017_5_General Knowledge_structured_gemini-1.5-pro-latest_vs_gpt-4o_en,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 16:02:17,CG002_gpt-4o_3_General Knowledge_detailed_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 16:02:47,CG006_3_General Knowledge_gemini-1.5-pro-latest_detailed_vs_structured_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:03:18,CG015_llama-3.3-70b-versatile_3_General Knowledge_minimum_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 16:04:08,CG019_2_General Knowledge_detailed_gpt-4o_vs_llama-3.3-70b-versatile_en,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 16:04:24,CG002_llama-3.3-70b-versatile_5_General Knowledge_detailed_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 16:05:15,CG008_gemini-1.5-pro-latest_5_General Knowledge_structured_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 16:07:00,CG003_2_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 16:07:15,CG019_1_General Knowledge_sabia-3.1_contextual_vs_structured_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:07:30,CG015_1_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:07:51,CG012_2_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:07:57,CG008_1_General Knowledge_gpt-4o_minimum_vs_structured_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:11:17,CG008_3_General Knowledge_llama-3.3-70b-versatile_minimum_vs_contextual_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 16:11:32,CG004_sabia-3.1_5_General Knowledge_detailed_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:11:54,CG001_sabia-3.1_2_General Knowledge_detailed_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:12:38,CG007_3_General Knowledge_gemini-1.5-pro-latest_minimum_vs_contextual_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 16:12:48,CG015_gemini-1.5-pro-latest_3_General Knowledge_contextual_en_vs_pt,A,user-1759172933100-gj9oyyc0l
+03/10/2025 16:13:14,CG014_gemini-1.5-pro-latest_3_General Knowledge_detailed_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:13:34,CG010_llama-3.3-70b-versatile_2_General Knowledge_detailed_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:13:58,CG003_sabia-3.1_3_General Knowledge_detailed_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 16:14:05,CG008_2_General Knowledge_gpt-4o_contextual_vs_structured_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:14:31,CG012_gemini-1.5-pro-latest_4_General Knowledge_structured_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:14:59,CG008_2_General Knowledge_llama-3.3-70b-versatile_contextual_vs_structured_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 16:15:04,CG005_sabia-3.1_3_General Knowledge_detailed_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 16:44:30,CR009_llama-3.3-70b-versatile_2_Creative_detailed_en_vs_pt,B,user-1759519489971-zbuw5n5px
+03/10/2025 16:51:06,CR013_gemini-1.5-pro-latest_4_Creative_structured_en_vs_pt,A,user-1759519489971-zbuw5n5px
+03/10/2025 16:52:04,CR008_gemini-1.5-pro-latest_5_Creative_minimum_en_vs_pt,A,user-1759519489971-zbuw5n5px
+03/10/2025 16:52:21,CR016_gemini-1.5-pro-latest_4_Creative_contextual_en_vs_pt,A,user-1759519489971-zbuw5n5px
+03/10/2025 16:52:50,CR014_llama-3.3-70b-versatile_5_Creative_structured_en_vs_pt,A,user-1759519489971-zbuw5n5px
+03/10/2025 17:31:09,TC013_gemini-1.5-pro-latest_2_Technical_detailed_en_vs_pt,A,user-1759523406446-rfvaixztw
+03/10/2025 21:27:49,CR006_gpt-4o_2_Creative_minimum_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:31:02,CR017_sabia-3.1_4_Creative_minimum_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:32:23,CR011_1_Creative_gemini-1.5-pro-latest_contextual_vs_detailed_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 21:32:37,CR005_4_Creative_gpt-4o_detailed_vs_structured_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 21:34:45,CR008_gemini-1.5-pro-latest_5_Creative_minimum_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:36:25,CR020_llama-3.3-70b-versatile_4_Creative_minimum_en_vs_pt,A,user-1759172933100-gj9oyyc0l
+03/10/2025 21:36:44,CR001_gemini-1.5-pro-latest_5_Creative_contextual_en_vs_pt,A,user-1759172933100-gj9oyyc0l
+03/10/2025 21:37:20,CR018_1_Creative_sabia-3.1_minimum_vs_detailed_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 21:37:48,CR017_gemini-1.5-pro-latest_1_Creative_structured_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:42:14,CR009_gpt-4o_3_Creative_detailed_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 21:43:14,CR006_4_Creative_gpt-4o_detailed_vs_structured_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 21:43:23,CR014_llama-3.3-70b-versatile_5_Creative_structured_en_vs_pt,A,user-1759172933100-gj9oyyc0l
+03/10/2025 21:43:32,CR011_1_Creative_sabia-3.1_minimum_vs_structured_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 21:43:47,CR020_1_Creative_minimum_gemini-1.5-pro-latest_vs_gpt-4o_en,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:43:57,CR003_4_Creative_minimum_gemini-1.5-pro-latest_vs_gpt-4o_en,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:44:16,CR017_3_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_en,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:44:24,CR003_2_Creative_contextual_gemini-1.5-pro-latest_vs_sabia-3.1_en,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:44:31,CR011_5_Creative_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_en,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:44:49,CR020_llama-3.3-70b-versatile_4_Creative_contextual_en_vs_pt,B,user-1759172933100-gj9oyyc0l
+03/10/2025 21:45:02,CR013_gemini-1.5-pro-latest_4_Creative_structured_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:45:11,CR011_3_Creative_gemini-1.5-pro-latest_minimum_vs_structured_en,B,user-1759172933100-gj9oyyc0l
+03/10/2025 21:45:16,CR013_sabia-3.1_1_Creative_structured_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:45:23,CR003_gpt-4o_2_Creative_minimum_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:45:29,CR016_gemini-1.5-pro-latest_4_Creative_contextual_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:45:37,CR006_4_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 21:45:46,CR019_2_Creative_llama-3.3-70b-versatile_minimum_vs_structured_en,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:45:58,CR011_2_Creative_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_en,Empate,user-1759172933100-gj9oyyc0l
+03/10/2025 21:46:08,CR009_1_Creative_gpt-4o_contextual_vs_structured_en,A,user-1759172933100-gj9oyyc0l
+03/10/2025 21:46:16,CR011_gemini-1.5-pro-latest_1_Creative_minimum_en_vs_pt,Empate,user-1759172933100-gj9oyyc0l
+05/10/2025 16:58:57,CG008_1_General Knowledge_gpt-4o_minimum_vs_structured_en,B,user-1759166974830-mu6fsc7yf
+05/10/2025 16:59:13,CR011_1_Creative_sabia-3.1_minimum_vs_structured_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 16:59:31,CG001_sabia-3.1_2_General Knowledge_detailed_en_vs_pt,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 16:59:45,CR009_1_Creative_gpt-4o_contextual_vs_structured_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:00:04,CG015_gemini-1.5-pro-latest_3_General Knowledge_contextual_en_vs_pt,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:00:34,CR013_sabia-3.1_1_Creative_structured_en_vs_pt,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:00:38,CG008_2_General Knowledge_llama-3.3-70b-versatile_contextual_vs_structured_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:00:46,CG015_llama-3.3-70b-versatile_3_General Knowledge_minimum_en_vs_pt,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:00:49,CG017_5_General Knowledge_structured_gemini-1.5-pro-latest_vs_gpt-4o_en,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:01:04,CR001_gemini-1.5-pro-latest_5_Creative_contextual_en_vs_pt,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:02:20,CG015_1_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:02:40,TC011_gemini-1.5-pro-latest_3_Technical_contextual_en_vs_pt,B,user-1759166974830-mu6fsc7yf
+05/10/2025 17:03:07,CG002_3_General Knowledge_sabia-3.1_detailed_vs_structured_en,B,user-1759166974830-mu6fsc7yf
+05/10/2025 17:03:12,TC009_llama-3.3-70b-versatile_4_Technical_structured_en_vs_pt,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:03:18,CR011_1_Creative_gemini-1.5-pro-latest_contextual_vs_detailed_en,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:05:56,CG012_gemini-1.5-pro-latest_4_General Knowledge_structured_en_vs_pt,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:06:06,CR020_llama-3.3-70b-versatile_4_Creative_minimum_en_vs_pt,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:06:16,CR017_3_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_en,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:06:22,CR019_2_Creative_llama-3.3-70b-versatile_minimum_vs_structured_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:06:29,TC019_2_Technical_gpt-4o_minimum_vs_contextual_en,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:06:59,CG012_2_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,B,user-1759166974830-mu6fsc7yf
+05/10/2025 17:07:36,CR013_3_Creative_contextual_gpt-4o_vs_sabia-3.1_en,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:07:41,TC015_2_Technical_gemini-1.5-pro-latest_minimum_vs_contextual_en,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:08:03,CR006_gpt-4o_2_Creative_minimum_en_vs_pt,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:08:15,CG003_2_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:08:24,CR003_2_Creative_contextual_gemini-1.5-pro-latest_vs_sabia-3.1_en,B,user-1759166974830-mu6fsc7yf
+05/10/2025 17:08:57,TC009_llama-3.3-70b-versatile_5_Technical_contextual_en_vs_pt,B,user-1759166974830-mu6fsc7yf
+05/10/2025 17:09:03,CG008_gemini-1.5-pro-latest_5_General Knowledge_structured_en_vs_pt,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:09:18,TC007_4_Technical_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:09:21,TC019_5_Technical_sabia-3.1_contextual_vs_structured_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:09:29,CR011_3_Creative_gemini-1.5-pro-latest_minimum_vs_structured_en,B,user-1759166974830-mu6fsc7yf
+05/10/2025 17:09:52,CR018_1_Creative_sabia-3.1_minimum_vs_detailed_en,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:10:14,TC009_3_Technical_gpt-4o_contextual_vs_structured_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:10:22,CR017_sabia-3.1_4_Creative_minimum_en_vs_pt,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:10:30,CG008_3_General Knowledge_llama-3.3-70b-versatile_minimum_vs_contextual_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:10:44,CG004_sabia-3.1_5_General Knowledge_detailed_en_vs_pt,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:10:54,CG006_3_General Knowledge_gemini-1.5-pro-latest_detailed_vs_structured_en,B,user-1759166974830-mu6fsc7yf
+05/10/2025 17:11:18,CR009_gpt-4o_3_Creative_detailed_en_vs_pt,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:11:22,TC015_llama-3.3-70b-versatile_4_Technical_structured_en_vs_pt,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:11:22,CR011_2_Creative_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_en,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:11:27,CR017_gemini-1.5-pro-latest_1_Creative_structured_en_vs_pt,Empate,user-1759166974830-mu6fsc7yf
+05/10/2025 17:11:54,CG010_llama-3.3-70b-versatile_2_General Knowledge_detailed_en_vs_pt,B,user-1759166974830-mu6fsc7yf
+05/10/2025 17:12:23,CR006_4_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:12:32,CG014_gemini-1.5-pro-latest_3_General Knowledge_detailed_en_vs_pt,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:12:46,TC001_1_Technical_sabia-3.1_detailed_vs_structured_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 17:13:06,CR006_4_Creative_gpt-4o_detailed_vs_structured_en,A,user-1759166974830-mu6fsc7yf
+05/10/2025 18:26:20,CG001_sabia-3.1_2_General Knowledge_detailed_en_vs_pt,A,user-1759257213865-94o4sjndz
+05/10/2025 18:26:56,CR009_gpt-4o_3_Creative_detailed_en_vs_pt,A,user-1759257213865-94o4sjndz
+05/10/2025 18:27:18,TC009_llama-3.3-70b-versatile_5_Technical_contextual_en_vs_pt,B,user-1759257213865-94o4sjndz
+05/10/2025 18:27:51,CG008_1_General Knowledge_gpt-4o_minimum_vs_structured_en,B,user-1759257213865-94o4sjndz
+05/10/2025 18:28:10,CR020_llama-3.3-70b-versatile_4_Creative_minimum_en_vs_pt,A,user-1759257213865-94o4sjndz
+05/10/2025 18:28:53,TC005_5_Technical_detailed_gemini-1.5-pro-latest_vs_sabia-3.1_en,B,user-1759257213865-94o4sjndz
+05/10/2025 18:29:40,CG008_3_General Knowledge_llama-3.3-70b-versatile_minimum_vs_contextual_en,B,user-1759257213865-94o4sjndz
+05/10/2025 18:29:54,CR006_4_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_en,B,user-1759257213865-94o4sjndz
+05/10/2025 18:30:19,CR018_1_Creative_sabia-3.1_minimum_vs_detailed_en,B,user-1759257213865-94o4sjndz
+05/10/2025 18:30:48,CR017_sabia-3.1_4_Creative_minimum_en_vs_pt,B,user-1759257213865-94o4sjndz
+05/10/2025 18:32:03,CR006_gpt-4o_2_Creative_minimum_en_vs_pt,A,user-1759257213865-94o4sjndz
+05/10/2025 18:32:19,CR003_2_Creative_contextual_gemini-1.5-pro-latest_vs_sabia-3.1_en,A,user-1759257213865-94o4sjndz
+05/10/2025 18:33:04,CG010_llama-3.3-70b-versatile_2_General Knowledge_detailed_en_vs_pt,B,user-1759257213865-94o4sjndz
+05/10/2025 18:33:52,TC009_llama-3.3-70b-versatile_4_Technical_structured_en_vs_pt,A,user-1759257213865-94o4sjndz
+05/10/2025 18:34:27,CG008_gemini-1.5-pro-latest_5_General Knowledge_structured_en_vs_pt,B,user-1759257213865-94o4sjndz

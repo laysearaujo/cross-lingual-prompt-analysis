@@ -4,8 +4,8 @@ import anthropic
 import os
 import json
 
-INPUT_CSV = 'sample_master.csv'
-OUTPUT_CSV = 'sample_master_claude_judge.csv'
+INPUT_CSV = '../../data/processed/sample_master.csv'
+OUTPUT_CSV = '../../data/judged/sample_master_claude_judge.csv'
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 ESSENTIAL_COLS = [

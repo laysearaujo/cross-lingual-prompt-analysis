@@ -1,0 +1,151 @@
+﻿evaluation_id,human_winner
+CG001_sabia-3.1_2_General Knowledge_detailed_en_vs_pt,Tie
+CG002_1_General Knowledge_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B
+CG002_2_General Knowledge_sabia-3.1_contextual_vs_structured_en,B
+CG002_3_General Knowledge_sabia-3.1_detailed_vs_structured_en,A
+CG002_5_General Knowledge_minimum_gemini-1.5-pro-latest_vs_gpt-4o_pt,Tie
+CG002_gpt-4o_3_General Knowledge_detailed_en_vs_pt,B
+CG002_llama-3.3-70b-versatile_5_General Knowledge_detailed_en_vs_pt,Tie
+CG003_2_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,A
+CG003_sabia-3.1_3_General Knowledge_detailed_en_vs_pt,Tie
+CG004_3_General Knowledge_gemini-1.5-pro-latest_contextual_vs_structured_en,B
+CG004_gemini-1.5-pro-latest_4_General Knowledge_minimum_en_vs_pt,B
+CG004_sabia-3.1_5_General Knowledge_detailed_en_vs_pt,Tie
+CG005_llama-3.3-70b-versatile_4_General Knowledge_detailed_en_vs_pt,A
+CG005_sabia-3.1_3_General Knowledge_detailed_en_vs_pt,B
+CG006_1_General Knowledge_detailed_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A
+CG006_1_General Knowledge_gemini-1.5-pro-latest_contextual_vs_detailed_pt,B
+CG006_3_General Knowledge_gemini-1.5-pro-latest_detailed_vs_structured_en,B
+CG006_4_General Knowledge_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B
+CG006_gpt-4o_3_General Knowledge_contextual_en_vs_pt,A
+CG007_3_General Knowledge_gemini-1.5-pro-latest_minimum_vs_contextual_en,Tie
+CG008_1_General Knowledge_gpt-4o_minimum_vs_structured_en,B
+CG008_2_General Knowledge_gpt-4o_contextual_vs_structured_en,A
+CG008_2_General Knowledge_llama-3.3-70b-versatile_contextual_vs_structured_en,A
+CG008_3_General Knowledge_llama-3.3-70b-versatile_minimum_vs_contextual_en,A
+CG008_gemini-1.5-pro-latest_5_General Knowledge_structured_en_vs_pt,B
+CG009_2_General Knowledge_gemini-1.5-pro-latest_minimum_vs_contextual_en,Tie
+CG009_2_General Knowledge_sabia-3.1_detailed_vs_structured_pt,B
+CG009_3_General Knowledge_minimum_gpt-4o_vs_llama-3.3-70b-versatile_en,Tie
+CG009_gemini-1.5-pro-latest_2_General Knowledge_contextual_en_vs_pt,B
+CG010_3_General Knowledge_sabia-3.1_detailed_vs_structured_pt,A
+CG010_llama-3.3-70b-versatile_2_General Knowledge_detailed_en_vs_pt,B
+CG011_5_General Knowledge_gpt-4o_contextual_vs_structured_pt,B
+CG011_gemini-1.5-pro-latest_3_General Knowledge_detailed_en_vs_pt,A
+CG012_1_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,B
+CG012_2_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,B
+CG012_gemini-1.5-pro-latest_4_General Knowledge_structured_en_vs_pt,B
+CG013_1_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_en,B
+CG013_2_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,B
+CG013_5_General Knowledge_llama-3.3-70b-versatile_contextual_vs_structured_en,A
+CG013_5_General Knowledge_sabia-3.1_minimum_vs_structured_pt,Tie
+CG013_llama-3.3-70b-versatile_1_General Knowledge_detailed_en_vs_pt,Tie
+CG014_4_General Knowledge_structured_gpt-4o_vs_sabia-3.1_en,B
+CG014_gemini-1.5-pro-latest_3_General Knowledge_detailed_en_vs_pt,Tie
+CG015_1_General Knowledge_llama-3.3-70b-versatile_contextual_vs_detailed_en,Tie
+CG015_4_General Knowledge_gpt-4o_contextual_vs_structured_pt,A
+CG015_gemini-1.5-pro-latest_3_General Knowledge_contextual_en_vs_pt,A
+CG015_llama-3.3-70b-versatile_3_General Knowledge_minimum_en_vs_pt,A
+CG016_gemini-1.5-pro-latest_1_General Knowledge_minimum_en_vs_pt,B
+CG017_1_General Knowledge_structured_gemini-1.5-pro-latest_vs_gpt-4o_en,A
+CG017_5_General Knowledge_structured_gemini-1.5-pro-latest_vs_gpt-4o_en,A
+CG019_1_General Knowledge_sabia-3.1_contextual_vs_structured_en,A
+CG019_2_General Knowledge_detailed_gpt-4o_vs_llama-3.3-70b-versatile_en,B
+CG019_3_General Knowledge_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A
+CG019_sabia-3.1_5_General Knowledge_contextual_en_vs_pt,A
+CR001_gemini-1.5-pro-latest_5_Creative_contextual_en_vs_pt,A
+CR003_2_Creative_contextual_gemini-1.5-pro-latest_vs_sabia-3.1_en,Tie
+CR003_4_Creative_minimum_gemini-1.5-pro-latest_vs_gpt-4o_en,B
+CR003_gpt-4o_2_Creative_minimum_en_vs_pt,B
+CR004_gpt-4o_4_Creative_structured_en_vs_pt,B
+CR005_3_Creative_gpt-4o_minimum_vs_structured_pt,A
+CR005_4_Creative_gpt-4o_detailed_vs_structured_en,B
+CR006_1_Creative_gemini-1.5-pro-latest_detailed_vs_structured_pt,B
+CR006_1_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,B
+CR006_2_Creative_llama-3.3-70b-versatile_detailed_vs_structured_pt,A
+CR006_4_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_en,A
+CR006_4_Creative_gpt-4o_contextual_vs_detailed_pt,B
+CR006_4_Creative_gpt-4o_detailed_vs_structured_en,A
+CR006_gpt-4o_2_Creative_minimum_en_vs_pt,A
+CR007_5_Creative_gpt-4o_minimum_vs_contextual_pt,B
+CR008_gemini-1.5-pro-latest_5_Creative_minimum_en_vs_pt,Tie
+CR009_1_Creative_gpt-4o_contextual_vs_structured_en,A
+CR009_gpt-4o_3_Creative_detailed_en_vs_pt,Tie
+CR009_llama-3.3-70b-versatile_2_Creative_detailed_en_vs_pt,B
+CR010_5_Creative_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,B
+CR011_1_Creative_gemini-1.5-pro-latest_contextual_vs_detailed_en,Tie
+CR011_1_Creative_sabia-3.1_minimum_vs_structured_en,A
+CR011_2_Creative_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_en,B
+CR011_3_Creative_gemini-1.5-pro-latest_minimum_vs_structured_en,B
+CR011_5_Creative_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_en,A
+CR011_gemini-1.5-pro-latest_1_Creative_minimum_en_vs_pt,Tie
+CR013_3_Creative_contextual_gpt-4o_vs_sabia-3.1_en,B
+CR013_4_Creative_gpt-4o_minimum_vs_detailed_pt,Tie
+CR013_gemini-1.5-pro-latest_4_Creative_structured_en_vs_pt,A
+CR013_sabia-3.1_1_Creative_structured_en_vs_pt,B
+CR014_4_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,A
+CR014_llama-3.3-70b-versatile_5_Creative_structured_en_vs_pt,A
+CR015_1_Creative_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,A
+CR015_1_Creative_gpt-4o_minimum_vs_structured_en,A
+CR015_3_Creative_gemini-1.5-pro-latest_contextual_vs_structured_pt,B
+CR015_4_Creative_llama-3.3-70b-versatile_contextual_vs_structured_en,B
+CR016_gemini-1.5-pro-latest_4_Creative_contextual_en_vs_pt,A
+CR017_3_Creative_detailed_gpt-4o_vs_llama-3.3-70b-versatile_en,B
+CR017_gemini-1.5-pro-latest_1_Creative_structured_en_vs_pt,B
+CR017_sabia-3.1_4_Creative_minimum_en_vs_pt,B
+CR018_1_Creative_sabia-3.1_minimum_vs_detailed_en,B
+CR018_5_Creative_sabia-3.1_minimum_vs_detailed_pt,B
+CR019_2_Creative_llama-3.3-70b-versatile_minimum_vs_structured_en,Tie
+CR019_4_Creative_gpt-4o_contextual_vs_structured_pt,A
+CR020_1_Creative_minimum_gemini-1.5-pro-latest_vs_gpt-4o_en,A
+CR020_4_Creative_detailed_gemini-1.5-pro-latest_vs_gpt-4o_pt,A
+CR020_4_Creative_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_en,B
+CR020_llama-3.3-70b-versatile_4_Creative_contextual_en_vs_pt,B
+CR020_llama-3.3-70b-versatile_4_Creative_minimum_en_vs_pt,A
+TC001_1_Technical_sabia-3.1_detailed_vs_structured_en,A
+TC002_1_Technical_contextual_llama-3.3-70b-versatile_vs_sabia-3.1_pt,A
+TC002_1_Technical_gemini-1.5-pro-latest_minimum_vs_detailed_pt,B
+TC003_3_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A
+TC004_5_Technical_minimum_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A
+TC005_2_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_pt,A
+TC005_3_Technical_contextual_gpt-4o_vs_llama-3.3-70b-versatile_pt,Tie
+TC005_3_Technical_gemini-1.5-pro-latest_contextual_vs_detailed_pt,B
+TC005_5_Technical_detailed_gemini-1.5-pro-latest_vs_sabia-3.1_en,B
+TC006_5_Technical_contextual_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,A
+TC007_4_Technical_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_en,A
+TC007_5_Technical_structured_gemini-1.5-pro-latest_vs_llama-3.3-70b-versatile_pt,B
+TC008_3_Technical_detailed_gpt-4o_vs_llama-3.3-70b-versatile_pt,B
+TC008_3_Technical_gpt-4o_contextual_vs_detailed_pt,A
+TC008_4_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,Tie
+TC008_gemini-1.5-pro-latest_5_Technical_detailed_en_vs_pt,A
+TC009_1_Technical_llama-3.3-70b-versatile_minimum_vs_contextual_pt,B
+TC009_1_Technical_sabia-3.1_contextual_vs_structured_pt,B
+TC009_3_Technical_gpt-4o_contextual_vs_structured_en,A
+TC009_llama-3.3-70b-versatile_4_Technical_structured_en_vs_pt,Tie
+TC009_llama-3.3-70b-versatile_5_Technical_contextual_en_vs_pt,B
+TC010_2_Technical_gpt-4o_minimum_vs_structured_en,A
+TC010_2_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B
+TC011_2_Technical_gpt-4o_minimum_vs_structured_pt,B
+TC011_gemini-1.5-pro-latest_3_Technical_contextual_en_vs_pt,A
+TC012_gemini-1.5-pro-latest_5_Technical_contextual_en_vs_pt,A
+TC012_gpt-4o_1_Technical_contextual_en_vs_pt,B
+TC012_gpt-4o_5_Technical_contextual_en_vs_pt,B
+TC013_1_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B
+TC013_4_Technical_contextual_gemini-1.5-pro-latest_vs_gpt-4o_pt,A
+TC013_5_Technical_minimum_gpt-4o_vs_llama-3.3-70b-versatile_pt,B
+TC013_gemini-1.5-pro-latest_2_Technical_detailed_en_vs_pt,B
+TC013_gemini-1.5-pro-latest_2_Technical_minimum_en_vs_pt,B
+TC013_gpt-4o_5_Technical_detailed_en_vs_pt,B
+TC014_5_Technical_structured_gemini-1.5-pro-latest_vs_sabia-3.1_pt,A
+TC014_gemini-1.5-pro-latest_1_Technical_contextual_en_vs_pt,A
+TC015_2_Technical_gemini-1.5-pro-latest_minimum_vs_contextual_en,B
+TC015_5_Technical_minimum_gemini-1.5-pro-latest_vs_sabia-3.1_pt,Tie
+TC015_llama-3.3-70b-versatile_4_Technical_structured_en_vs_pt,Tie
+TC015_sabia-3.1_2_Technical_structured_en_vs_pt,B
+TC016_3_Technical_detailed_llama-3.3-70b-versatile_vs_sabia-3.1_pt,B
+TC016_5_Technical_gpt-4o_minimum_vs_contextual_en,B
+TC016_5_Technical_llama-3.3-70b-versatile_minimum_vs_detailed_en,B
+TC016_gpt-4o_4_Technical_detailed_en_vs_pt,A
+TC019_2_Technical_gpt-4o_minimum_vs_contextual_en,B
+TC019_5_Technical_sabia-3.1_contextual_vs_structured_en,A
+TC019_gemini-1.5-pro-latest_3_Technical_minimum_en_vs_pt,A

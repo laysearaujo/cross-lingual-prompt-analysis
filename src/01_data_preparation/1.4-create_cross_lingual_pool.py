@@ -2,8 +2,8 @@ import pandas as pd
 import random
 from googletrans import Translator
 
-INPUT_FILE = 'raw_results.csv'
-OUTPUT_FILE = 'blind_pool_cross_lingual.csv'
+INPUT_FILE = '../../data/raw/raw_results.csv'
+OUTPUT_FILE = '../../data/processed/blind_pool_cross_lingual.csv'
 
 # Pivot Translation is a technique used to compare texts from different languages ​​fairly
 # It avoids the bias of asking an LLM to directly compare texts in different languages.

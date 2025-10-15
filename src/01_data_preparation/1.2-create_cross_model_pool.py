@@ -2,8 +2,8 @@ import pandas as pd
 import random
 from itertools import combinations
 
-INPUT_FILE = 'raw_results.csv'
-OUTPUT_FILE = 'blind_pool_cross_model.csv'\
+INPUT_FILE = '../../data/raw/raw_results.csv'
+OUTPUT_FILE = '../../data/processed/blind_pool_cross_model.csv'\
 
 df_raw = pd.read_csv(INPUT_FILE)
 print(f"File '{INPUT_FILE}' loaded with {len(df_raw)} samples.")
@@ -44,7 +44,7 @@ for name, group in grouped:
         random.shuffle(models_to_shuffle)
         
         cross_model_pool_list.append({
-            'evaluation_id': f"{name[0]}_{name[2]}_{name[3]}_{name[4]}_{model_A_name}_vs_{model_B_name}",
+            'evaluation_id': f"{name[0]}_{name[2]}_{name[3]}_{name[4]}_{model_A_name}_vs_{model_B_name}" + (f"_{name[1]}" if name[1] else ""),
             'question_id': name[0],
             'prompt_level': name[4],
             'sample_n': name[2],

@@ -71,32 +71,19 @@ MODELS_TO_TEST = [
 ]
 
 GENERATION_PARAMETERS = {"temperature": 0.7, "n_samples": 5}
-INPUT_FILE = 'prompts.csv'
-MAIN_OUTPUT_FILE = 'results_consolidated.csv'
-DOMAIN_RESULTS_DIR = 'domain_results'
+INPUT_FILE = '../../data/raw/prompts.csv'
+MAIN_OUTPUT_FILE = '../../data/raw/raw_results.csv'
 
 file_lock = threading.Lock()
 headers_written = set()
 
 def save_result_incrementally(result_data):
-    """Saves a single result to the main consolidated file and a domain-specific file."""
+    """Saves a single result to the main consolidated output file."""
     with file_lock:
         df_row = pd.DataFrame([result_data])
 
-        write_header_main = not os.path.exists(MAIN_OUTPUT_FILE)
-        df_row.to_csv(MAIN_OUTPUT_FILE, mode='a', header=write_header_main, index=False, encoding='utf-8-sig')
-
-        domain = result_data.get('domain', 'unknown_domain')
-        domain_filename = f"results_{domain.replace(' ', '_').lower()}.csv"
-        domain_filepath = os.path.join(DOMAIN_RESULTS_DIR, domain_filename)
-
-        write_header_domain = False
-        if domain_filepath not in headers_written:
-            if not os.path.exists(domain_filepath):
-                write_header_domain = True
-            headers_written.add(domain_filepath)
-
-        df_row.to_csv(domain_filepath, mode='a', header=write_header_domain, index=False, encoding='utf-8-sig')
+        write_header = not MAIN_OUTPUT_FILE.exists()
+        df_row.to_csv(MAIN_OUTPUT_FILE, mode='a', header=write_header, index=False, encoding='utf-8-sig')
 
 def generate_and_save_responses(prompt_text, model_name, params, context, pbar):
     """Calls the appropriate model API, saves the result, and updates the progress bar."""
@@ -179,9 +166,6 @@ def main():
     """Main function to run the script."""
     print(f"\n--- STARTING RESPONSE GENERATION ---")
 
-    if not os.path.exists(DOMAIN_RESULTS_DIR):
-        os.makedirs(DOMAIN_RESULTS_DIR)
-
     try:
         df_plan = pd.read_csv(INPUT_FILE)
     except FileNotFoundError:
@@ -213,8 +197,7 @@ def main():
 
     print("\n--- All questions processed. ---")
     print("All results have been saved incrementally.")
-    print(f"Main consolidated file: '{MAIN_OUTPUT_FILE}'")
-    print(f"Domain-specific files are in: '{DOMAIN_RESULTS_DIR}/'")
+    print(f"Consolidated file: '{MAIN_OUTPUT_FILE}'")
     print("--- END OF SCRIPT ---")
 
 if __name__ == '__main__':
